@@ -1,5 +1,5 @@
 ---
-title: ScrollStory Template
+title: LGBTQIA+
 layout: base
 ---
 
