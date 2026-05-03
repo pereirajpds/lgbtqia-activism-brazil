@@ -2,7 +2,11 @@
 title: LGBTQIA+
 layout: base
 ---
-
+{% include images/jumbotron.html
+  image-path="/assets/images/backgrounds/encontro.png"
+  height="30vh"
+  background-position="center 60%"
+%}
 **   ** Queer Activism during HIV and AIDS crises in Brasil, 1980s-1990s****
 
 
