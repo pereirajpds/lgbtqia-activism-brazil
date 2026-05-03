@@ -12,7 +12,7 @@ header-position: cente
   alt-text="Hiking trail through a canyon in the Sandia foothills."
   image-position="right"
   image-width="45%"
-  text="This is story about."
+  text="The text is about."
 %}
 
 A ready-to-use template for creating immersive narrative essays with scrolling backgrounds, overlays, and visual storytelling. This template is part of [Xanthan](xanthan-web-github.io).
