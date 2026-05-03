@@ -3,10 +3,6 @@ title: LGBTQIA+
 layout: base
 header-image: /assets/images/backgrounds/encontro.png
 ---
-{% include images/jumbotron.html
-  image-path="/assets/images/backgrounds/encontro.png"
-  height="30vh"
-  background-position="center 60%"%}
 # Queer Activism during HIV and AIDS crises in Brasil, 1980s-1990s
 
 A ready-to-use template for creating immersive narrative essays with scrolling backgrounds, overlays, and visual storytelling. This template is part of [Xanthan](xanthan-web-github.io).
