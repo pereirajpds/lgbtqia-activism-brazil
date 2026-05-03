@@ -3,7 +3,7 @@ title: LGBTQIA+
 layout: base
 ---
 {% include images/jumbotron.html
-  image-path="/assets/images/backgrounds/encontro.jpg"
+  image-path="/assets/images/backgrounds/encontro.png"
   height="50vh"
   box-align="right"
   title="Activism"
