@@ -3,8 +3,7 @@ title: LGBTQIA+
 layout: base
 ---
 
-**
- Activism in Brasil during HIV and AIDS crises, 1980s-1990s**
+**Activism in Brasil during HIV and AIDS crises, 1980s-1990s**
 
 
 A ready-to-use template for creating immersive narrative essays with scrolling backgrounds, overlays, and visual storytelling. This template is part of [Xanthan](xanthan-web-github.io).
