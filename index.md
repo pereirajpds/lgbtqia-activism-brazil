@@ -1,7 +1,7 @@
 ---
 title: LGBTQIA+
 layout: base
-header-image: /assets/images/backgrounds/fish-1.jpg
+header-image: /assets/images/backgrounds/encontro.png
 header-height: 50vh
 header-position: cente
 ---
