@@ -3,7 +3,7 @@ title: LGBTQIA+
 layout: base
 ---
 {% include images/jumbotron.html
-  image-path="/assets/images/backgrounds/encontro.png"
+  image-path="/assets/images/encontro.png"
   height="30vh"
   background-position="center 60%"
 %}
