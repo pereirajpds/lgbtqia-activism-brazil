@@ -17,7 +17,7 @@ A ready-to-use template for creating immersive narrative essays with scrolling b
   text="firstimage"
 %}
 
-A ready-to-use template for creating immersive narrative essays with scrolling backgrounds, overlays, and visual storytelling. This template is part of [Xanthan](xanthan-web-github.io).
+This is a story about...
 
 This page is the `index.md` file in your repository. You'll evenually replace everything here with your own introduction to your scrollstory.
 
