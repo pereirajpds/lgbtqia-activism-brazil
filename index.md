@@ -11,8 +11,8 @@ header-position: cente
   image-path="/assets/images/backgrounds/encontro.png"
   caption="What a nice view"
   alt-text="Hiking trail through a canyon in the Sandia foothills."
-  image-position="right"
-  image-width="90%"
+  class="right"
+  width="90%"
   text="The text is about."
 %}
 
