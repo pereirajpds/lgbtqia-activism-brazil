@@ -13,7 +13,7 @@ A ready-to-use template for creating immersive narrative essays with scrolling b
   caption="What a nice view"
   alt-text="Hiking trail through a canyon in the Sandia foothills."
   class="right"
-  width="90%"
+  width="100%"
   text="firstimage"
 %}
 
