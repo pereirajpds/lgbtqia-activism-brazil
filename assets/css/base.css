@@ -40,11 +40,10 @@ PAGE SETUP & CUSTOMIZATION
 
   /* ===== SEMANTIC COLOR SYSTEM ===== */
   /* Backgrounds */
-  --bg-page: var(--warm-white);
-  --bg-card: var(--warm-light);
-  --bg-accent: var(--golden-wash);
-  --bg-code: var(--sage-pale);
-  --bg-nav: var(--sage-deep);
+  --bg-page: #d69f4c;
+  --text-body: #202221;
+  --accent-primary: #6b8e7f;
+  --bg-card: #dfb581;
 
   /* Text */
   --text-body: var(--sage-dark);
