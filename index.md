@@ -11,7 +11,7 @@ Forest doesn't replace Seedling or Sapling—it **includes** them. You can mix s
 
 The key to Forest essays is knowing when to use which tool. Not every moment needs a cinematic treatment. Sometimes a simple image alongside text is exactly right.
 {% endcapture %}
-{% include images/figure-wrap.html
+{% include images/figure.html
   image-path="/assets/images/backgrounds/encontro.png"
   caption="What a nice view"
   alt-text="Hiking trail through a canyon in the Sandia foothills."
