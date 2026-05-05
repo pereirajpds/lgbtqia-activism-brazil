@@ -6,7 +6,6 @@ header-height: 50vh
 header-position: cente
 ---
 # Queer Activism during HIV and AIDS crises in Brasil, 1980s-1990s
-A ready-to-use template for creating immersive narrative essays with scrolling backgrounds, overlays, and visual storytelling. This template is part of [Xanthan](xanthan-web-github.io).
 
 {% include images/figure.html
   image-path="/assets/images/backgrounds/encontro.png"
