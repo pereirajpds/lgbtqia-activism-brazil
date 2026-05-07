@@ -42,8 +42,8 @@ PAGE SETUP & CUSTOMIZATION
   /* Backgrounds */
   --bg-page: #dcc7acea;
   --text-body: hsl(150, 83%, 2%);
-  --accent-primary: #619c83;
-  --bg-card: #d8994b;
+  --accent-primary: #4f7c69;
+  --bg-card: #d7913c;
 
   /* Text */
   --text-body: var(--sage-deep);
