@@ -1,9 +1,9 @@
 ---
-
-![LGBTQIA+ Activism in Brazil]({{ site.baseurl }}/images/betinho.png)
-
-# LGBTQIA+ Activism in Brazil
-
+title: LGBTQIA+
+layout: base
+header-image: /assets/images/backgrounds/betinho.png
+header-height: 50vh
+header-position: center
 ---
 # Queer Activism during HIV and AIDS crises in Brasil, 1980s-1990s
 
