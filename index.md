@@ -15,6 +15,7 @@ header-position: center
   width="40%"
   text="firstimage"
 %}
+## Introduction
 
 This is a story about...
 
