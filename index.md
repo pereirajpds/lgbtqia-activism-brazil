@@ -45,13 +45,9 @@ Praesent sed vehicula velit, vel hendrerit neque. Vivamus scelerisque sed nunc n
 
 
 
-## Documentation
-- 📖 [Complete Xanthan Docs](docs/) — Your site has all the docs for your template
-- 🎨 [Design & Content](docs/content-design/) — Colors, fonts, images
-- 🏗️ [Navigation](docs/navigation/) — How to organize pages
+## Conclusion
+In cunclusion...
 
 
-## Questions or Problems?
-- Check the [troubleshooting guide](docs/content-design/troubleshooting)
-- Ask an AI assistant (Claude, ChatGPT) — They're great at helping customize templates
-- [Report an issue](https://github.com/xanthan-web/scrollstory-template/issues) on GitHub
+## Bibliography
+Primary Sources:
