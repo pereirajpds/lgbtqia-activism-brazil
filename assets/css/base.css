@@ -26,7 +26,7 @@ PAGE SETUP & CUSTOMIZATION
   --sage-pale: #b2cdbc;    /* Lightest sage tint */
   --sage: #6b8e7f;         /* Primary sage green */
   --sage-deep: #3d4e42;    /* Deep sage */
-  --sage-dark: #2d3e35;    /* Darkest sage, almost black */
+  --sage-dark: #0d0f0e;    /* Darkest sage, almost black */
 
   /* Warm neutrals */
   --warm-white: #f5f3f0;   /* Warm off-white */
@@ -40,9 +40,9 @@ PAGE SETUP & CUSTOMIZATION
 
   /* ===== SEMANTIC COLOR SYSTEM ===== */
   /* Backgrounds */
-  --bg-page: #f5d2a5ea;
-  --text-body: #202221;
-  --accent-primary: #6b8e7f;
+  --bg-page: #dcc7acea;
+  --text-body: hsl(150, 3%, 13%);
+  --accent-primary: #619c83;
   --bg-card: #d8994b;
 
   /* Text */
