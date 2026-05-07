@@ -5,7 +5,7 @@ layout: scrollstory
 date: 2025-07-21
 thumbnail: images/background/betinho.png
 summary: This essays demonstrates all the different components you might use on your page. Of course you don't need to use them all, but it's a good starting point if you feel comfortable with code snippets and deleting what you don't need.
-header-image: images/forest.png
+header-image: images/background/betinho.png
 header-title:
 header-position: 0px
 toc-section: piano
