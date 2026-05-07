@@ -8,7 +8,7 @@ header-position: cente
 # Queer Activism during HIV and AIDS crises in Brasil, 1980s-1990s
 
 {% include images/figure.html
-  image-path="/assets/images/backgrounds/encontro.png"
+  image-path="/assets/images/backgrounds/betinho.png"
   caption="What a nice view"
   alt-text="Hiking trail through a canyon in the Sandia foothills."
   class="right"
