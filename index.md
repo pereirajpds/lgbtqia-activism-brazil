@@ -1,18 +1,11 @@
 ---
-title: Forest
-author: Fred Gibbs
-layout: scrollstory
-date: 2025-07-21
-thumbnail: images/betinho.png
-summary: This essays demonstrates all the different components you might use on your page. Of course you don't need to use them all, but it's a good starting point if you feel comfortable with code snippets and deleting what you don't need.
-header-image: images/betinho.png
-header-title:
-header-position: 0px
-toc-section: piano
-geo: [44.600000, -110.500000]
-placename: Yellowstone National Park
-tags:
-  - music
+
+title: LGBTQIA+
+layout: base
+header-image: /assets/images/backgrounds/betinho.png
+header-height: 50vh
+header-position: center
+
 ---
 # Queer Activism during HIV and AIDS crises in Brasil, 1980s-1990s
 
