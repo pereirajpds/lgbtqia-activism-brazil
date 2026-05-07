@@ -47,7 +47,7 @@ PAGE SETUP & CUSTOMIZATION
 
   /* Text */
   --text-body: var(--sage-deep);
-  --text-on-dark: var(--warm-white);
+  --text-on-dark: var(--sage-dark);
   --text-muted: #666;
 
   /* Accents & Interactive */
