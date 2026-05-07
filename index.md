@@ -51,8 +51,7 @@ In cunclusion...
 
 ## EXTRA
 ---
-title: Bibliography
-layout: base
+
 ---
 
 # Bibliography
