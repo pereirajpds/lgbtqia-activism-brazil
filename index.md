@@ -32,7 +32,9 @@ This page is the `index.md` file in your repository. You'll evenually replace ev
 You should be viewing this page at `https://[your-username].github.io/[repository-name]`
 
 So that you can edit this homepage for your own site, all the instructions for editing your site are on the [instructions page](instructions).
+
 ## ABIA and State
+
 Below you'll see a **juxtapose component**—an interactive slider that lets readers compare two images by dragging a handle left and right. Perfect for before/after, then/now, or any two related images.
 
 {% include images/juxtapose.html
