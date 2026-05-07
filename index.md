@@ -50,9 +50,6 @@ In cunclusion...
 
 
 ## EXTRA
----
-
----
 
 # Bibliography
 
