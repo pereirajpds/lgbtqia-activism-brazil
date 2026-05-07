@@ -7,13 +7,11 @@ header-position: center
 ---
 # Queer Activism during HIV and AIDS crises in Brasil, 1980s-1990s
 
-{% include images/figure.html
-  image-path="/assets/images/backgrounds/betinho.png"
-  caption="What a nice view"
-  alt-text="Hiking trail through a canyon in the Sandia foothills."
-  class="right"
-  width="40%"
-  text="firstimage"
+{% {capture firstimage %}
+Forest doesn't replace Seedling or Sapling—it **includes** them. You can mix simple images, footnotes, and section headings with the advanced features we're about to show you.
+
+The key to Forest essays is knowing when to use which tool. Not every moment needs a cinematic treatment. Sometimes a simple image alongside text is exactly right.
+{% endcapture %}
 %}
 
 This is a story about...
