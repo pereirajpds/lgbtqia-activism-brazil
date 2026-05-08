@@ -100,6 +100,17 @@ Below you'll see a **juxtapose component**—an interactive slider that lets rea
   caption="The TV room becomes the History Department Common Room."
 %}
 
+text.....
+
+{% include scrollybox/bg.html
+  height="220vh"
+  position="top"
+  image-path="/assets/images/sarney.png"
+  above-box-space = "100vh"
+  box-content=' One stated reason for building a men-only dorm is that Hokona Hall could be freed up to be used as a women-only dorm, where they would have supervision "of the best sort".'
+%}
+
+
 
 **Why use juxtapose?** When you want readers to actively explore the relationship between two images. The interactive slider invites engagement—readers control what they see and how much of each image.
 
