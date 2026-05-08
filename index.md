@@ -95,9 +95,9 @@ This image has a caption, but no title|
 Below you'll see a **juxtapose component**—an interactive slider that lets readers compare two images by dragging a handle left and right. Perfect for before/after, then/now, or any two related images.
 
 {% include images/juxtapose.html
-image1="images/estado.png"
-image2="images/cartaz.png"
-caption="From the TV room to the Chair room (actually, the History Department Common Room). With a less good view of the mountains."
+  image1="/assets/images/estado.png"
+  image2="/assets/images/cartaz.png"
+  caption="The TV room becomes the History Department Common Room."
 %}
 
 
