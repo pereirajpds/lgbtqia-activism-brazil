@@ -37,6 +37,15 @@ The next section uses a basic scrollybox like you saw in Sapling. Keep scrolling
 
 ## ABIA and State
 
+{% include images/figure.html
+  image-path="/assets/images/backgrounds/herbet.png"
+  caption="***Figure1:*** The worst and most terrible disease of the century. Two Brazilians dead. ‘Gay Plague’ already terrifies São Paulo. Newspaper *O popular*, 1983."
+  alt-text="Hiking trail through a canyon in the Sandia foothills."
+  class="right"
+  width="40%"
+  text="firstimage"
+%}
+
 Below you'll see a **juxtapose component**—an interactive slider that lets readers compare two images by dragging a handle left and right. Perfect for before/after, then/now, or any two related images.
 
 {% include images/juxtapose.html
