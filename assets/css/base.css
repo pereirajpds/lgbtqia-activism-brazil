@@ -49,7 +49,7 @@ PAGE SETUP & CUSTOMIZATION
 
   /* Text */
   --text-body: var(--sage-deep);
-  --text-on-dark: var(--golden-clay); /* texto barra */
+  --text-on-dark: var(--bg-card); /* texto barra */
   --text-muted: #666;
 
   /* Accents & Interactive */
