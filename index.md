@@ -75,6 +75,19 @@ Brenda
   text="firstimage"
 %}
 
+Flight Attendance
+
+{% include images/figure.html
+  image-path="/assets/images/backgrounds/varig.png"
+  caption="***Figure3:*** The worst and most terrible disease of the century. Two Brazilians dead. ‘Gay Plague’ already terrifies São Paulo. Newspaper *O popular*, 1983."
+  alt-text="Hiking trail through a canyon in the Sandia foothills."
+  class="right"
+  width="40%"
+  text="firstimage"
+%}
+
+
+
 
 
 
