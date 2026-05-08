@@ -23,7 +23,7 @@ PAGE SETUP & CUSTOMIZATION
   :root {
   /* ===== NAMED COLORS - Friendly Modern Palette ===== */
   /* Sage/green family (lightest to darkest) */
-  --sage-pale:#61a77c;    /* Lightest sage tint */
+  --sage-pale:#609f78;    /* Lightest sage tint */
   --sage: #422d12;         /* Primary sage green */
   --sage-deep: #010904;    /* Deep sage */
   --sage-dark: #0d0f0e;    /* Darkest sage, almost black */
@@ -47,7 +47,7 @@ PAGE SETUP & CUSTOMIZATION
 
   /* Text */
   --text-body: var(--sage-deep);
-  --text-on-dark: var(--sage-dark);
+  --text-on-dark: var( --sage-pale);
   --text-muted: #666;
 
   /* Accents & Interactive */
