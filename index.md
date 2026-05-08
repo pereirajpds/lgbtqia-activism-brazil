@@ -25,6 +25,17 @@ You should be viewing this page at `https://[your-username].github.io/[repositor
 
 So that you can edit this homepage for your own site, all the instructions for editing your site are on the [instructions page](instructions).
 
+## Standard Scrollybox (From Sapling)
+The next section uses a basic scrollybox like you saw in Sapling. Keep scrolling to see text overlay a full-screen background image.
+
+{% include scrollybox/bg.html
+  height="220vh"
+  position="top"
+  image-path="images/mvh-women-supervision.jpg"
+  above-box-space = "100vh"
+  box-content=' One stated reason for building a men-only dorm is that Hokona Hall could be freed up to be used as a women-only dorm, where they would have supervision "of the best sort".'
+%}
+
 ## ABIA and State
 
 Below you'll see a **juxtapose component**—an interactive slider that lets readers compare two images by dragging a handle left and right. Perfect for before/after, then/now, or any two related images.
