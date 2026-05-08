@@ -112,7 +112,7 @@ Below you'll see a **juxtapose component**—an interactive slider that lets rea
   image-path="/assets/images/backgrounds/encontro.png"
   caption="***Figure4:*** Abia."
   alt-text="Hiking trail through a canyon in the Sandia foothills."
-  class="left"
+  class="right"
   width="40%"
   text="firstimage"
 %}
