@@ -30,7 +30,7 @@ PAGE SETUP & CUSTOMIZATION
 
   /* Warm neutrals */
   --warm-white: #f5f3f0;   /* Warm off-white */
-  --warm-light: #8e5310;   /* Light warm tone for cards */
+  --warm-light: #784409;   /* Light warm tone for cards */
   --golden-wash: #f5ece0;  /* Very light golden tint for special sections */
 
   /* Accent colors */
@@ -49,7 +49,7 @@ PAGE SETUP & CUSTOMIZATION
 
   /* Text */
   --text-body: var(--sage-deep);
-  --text-on-dark: var( --golden-wash); /* texto barra */
+  --text-on-dark: var(--golden-clay); /* texto barra */
   --text-muted: #666;
 
   /* Accents & Interactive */
