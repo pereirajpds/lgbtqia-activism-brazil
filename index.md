@@ -25,7 +25,7 @@ You should be viewing this page at `https://[your-username].github.io/[repositor
 
 So that you can edit this homepage for your own site, all the instructions for editing your site are on the [instructions page](instructions).
 
-The next section uses a basic scrollybox like you saw in Sapling. Keep scrolling to see text overlay a full-screen background image.
+The next section uses a basic scrollybox like you saw in Sapling. Keep scrolling to see text overlay a full-screen background image. [^telegrama]:
 
 {% include scrollybox/bg.html
   height="220vh"
