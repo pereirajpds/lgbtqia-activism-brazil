@@ -54,7 +54,7 @@ PAGE SETUP & CUSTOMIZATION
 
   /* Accents & Interactive */
   --accent-primary: var( --sage-pale); /* footnotes */
-  --accent-border: var(--golden-clay); /* subtitulo */
+  --accent-border: var(--golden-clay-dark); /* subtitulo */
   --interactive-hover: var( --golden-wash);
 
   /* Status colors */
