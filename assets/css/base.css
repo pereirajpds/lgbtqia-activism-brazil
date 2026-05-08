@@ -24,7 +24,7 @@ PAGE SETUP & CUSTOMIZATION
   /* ===== NAMED COLORS - Friendly Modern Palette ===== */
   /* Sage/green family (lightest to darkest) */
   --sage-pale:#4f795f;    /* Lightest sage tint */
-  --sage: #473114;         /* Primary sage green */
+  --sage: #b46f16;         /* Primary sage green */
   --sage-deep: #010904;    /* Deep sage */
   --sage-dark: #0d0f0e;    /* Darkest sage, almost black */
 
@@ -34,7 +34,7 @@ PAGE SETUP & CUSTOMIZATION
   --golden-wash: #f5ece0;  /* Very light golden tint for special sections */
 
   /* Accent colors */
-  --golden-clay: #b6771e;  /* Warm clay */
+  --golden-clay: #3e2809;  /* Warm clay */
   --golden-clay-dark: #bc812e ;  /* Darker warm clay for headings */
   --amber: #4e3a18;        /* Bright amber */
 
