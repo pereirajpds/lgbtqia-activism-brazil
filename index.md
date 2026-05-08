@@ -35,6 +35,55 @@ The next section uses a basic scrollybox like you saw in Sapling. Keep scrolling
   box-content=' One stated reason for building a men-only dorm is that Hokona Hall could be freed up to be used as a women-only dorm, where they would have supervision "of the best sort".'
 %}
 
+## Background Switching: The Advanced Feature
+This is what makes Forest essays truly cinematic. You're about to scroll through a section where the background image **switches** as you read, creating a visual sequence that matches your narrative.
+
+**Watch carefully:** The background will start with one image, then switch to another partway through. The text box stays visible throughout, but the background changes to match what you're reading about.
+
+<!-- this is an unclosed div that needs to be closed with bg-multi-long-close-->
+{% include scrollybox/bg-multi-long.html
+  bg-id="bg1"
+  image-path="/assets/images/telegrama.png"
+  above-box-space="0"
+  font-size = "150%"
+  line-height = "100%"
+%}
+
+Now we have a text box scrolling up over the first image. At various points (clearly labeled below) **the background image will switch** while the text continues scrolling.
+
+This is perfect for visual sequences: walking through a building room by room, showing historical change over time, or revealing evidence step by step.
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec ante ligula. Nulla fringilla ligula sit amet nisl consectetur ultricies. Mauris ac tellus eu ante lobortis rhoncus non eu nisl.
+
+
+### BACKGROUND IMAGE SWITCHES HERE
+
+{% include scrollybox/bg-switch.html
+  image-path="images/assets/vida.png"
+  switch-id="switch1"
+  bg-id="bg1"
+%}
+
+
+### The New Background
+Did you notice the background change? The floorplan switched to the TV room photo. Your text continued scrolling, but the visual context shifted.
+
+**Why use background switching?**
+- Narrative sequences (first this happened, then that)
+- Spatial movement (from room to room, place to place)
+- Evidence building (showing multiple sources for one argument)
+- Visual comparisons while maintaining narrative flow
+
+Duis ut dui dolor. Integer eu lectus at tellus accumsan euismod eget a ligula. Morbi venenatis, elit eu varius fermentum, ligula est dictum massa, sit amet ullamcorper augue nisl ut nunc.
+
+
+#### The End of This Sequence
+Watch as the text box scrolls out of view, followed by the background image fading away. Then normal scrolling resumes.
+
+{% include scrollybox/bg-multi-long-close.html %}
+
+text here...
+
 ## ABIA and State
 
 {% include images/figure.html
@@ -129,21 +178,11 @@ text.....
 
 
 
-**Why use juxtapose?** When you want readers to actively explore the relationship between two images. The interactive slider invites engagement—readers control what they see and how much of each image.
-
-**Use cases:**
-- Historical photos showing change over time
-- Different views of the same location
-- Comparing historical documents or maps
-- Revealing differences that might be subtle
-
-Praesent sed vehicula velit, vel hendrerit neque. Vivamus scelerisque sed nunc nec congue. Curabitur sapien risus, finibus id tincidunt iaculis, porta et ipsum.
-
-
 
 
 ## Conclusion
 In cunclusion...
+
 
 
 ## EXTRA
