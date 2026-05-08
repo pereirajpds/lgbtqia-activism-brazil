@@ -68,7 +68,6 @@ Outras formas de ativismo...
 %}
 
 
-
 ## Image Carousels (From Sapling)
 All Sapling components work in Forest too. Here's a carousel for comparing multiple images:
 
@@ -107,6 +106,15 @@ Below you'll see a **juxtapose component**—an interactive slider that lets rea
   image1="/assets/images/lampiao.jpg"
   image2="/assets/images/quemvecara.png"
   caption="The TV room becomes the History Department Common Room."
+%}
+
+{% include images/figure.html
+  image-path="/assets/images/backgrounds/encontro.png"
+  caption="***Figure4:*** Abia."
+  alt-text="Hiking trail through a canyon in the Sandia foothills."
+  class="left"
+  width="40%"
+  text="firstimage"
 %}
 
 text.....
