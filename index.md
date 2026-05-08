@@ -58,6 +58,7 @@ In cunclusion...
 
 - [^anderson2019]: Anderson, Mark J. ***Virtual Heritage: Designing Immersive Experiences for Public History***. Tucson: Sonoran Desert Press, 2019.
 
+- Anderson, Mark J. ***Virtual Heritage: Designing Immersive Experiences for Public History***. Tucson: Sonoran Desert Press, 2019.
 - Appler, Jane, and Robert L. DeLeon. “Community Archives and Borderlands Memory Work: Rethinking Participation in the Digital Age.” *Public History Quarterly* 47, no. 3 (2021): 233–259.
 
 - Castillo, Elena. “Mapping Migration: GIS as a Tool for Storytelling in the U.S. Southwest.” *Journal of Digital Humanities Methods* 8, no. 1 (2020): 15–34.
