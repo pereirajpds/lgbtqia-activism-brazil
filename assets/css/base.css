@@ -43,7 +43,8 @@ PAGE SETUP & CUSTOMIZATION
   /* Backgrounds */
   --bg-page: #eddecbd8;
   --text-body: hsl(150, 83%, 2%);
-  --accent-primary: #452f15; /* titulo */
+  --golden-clay-dark:  #4d765d;  /* Darker warm clay for headings */
+  --accent-primary: #4d765d; /* sub titulo */
   --bg-card: #eddecbd8;
 
   /* Text */
