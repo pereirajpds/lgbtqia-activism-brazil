@@ -35,7 +35,7 @@ TOPNAV
 
 .navbar-brand:hover {
   /* Typography */
-  color: var(--text-on-dark) !important;
+  color: var(--sage) !important;
 }
 
 .navbar-toggler {
