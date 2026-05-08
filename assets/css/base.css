@@ -30,11 +30,11 @@ PAGE SETUP & CUSTOMIZATION
 
   /* Warm neutrals */
   --warm-white: #f5f3f0;   /* Warm off-white */
-  --warm-light: #cec7bf;   /* Light warm tone for cards */
+  --warm-light: #9f7d56;   /* Light warm tone for cards */
   --golden-wash: #f5ece0;  /* Very light golden tint for special sections */
 
   /* Accent colors */
-  --golden-clay: #463217;  /* Warm clay */
+  --golden-clay: #4d765d;  /* Warm clay */
   --golden-clay-dark: #574225;  /* Darker warm clay for headings */
   --amber: #4e3a18;        /* Bright amber */
 
@@ -42,7 +42,7 @@ PAGE SETUP & CUSTOMIZATION
   /* Backgrounds */
   --bg-page: #eddecbd8;
   --text-body: hsl(150, 83%, 2%);
-  --accent-primary: #452f15;
+  --accent-primary: #452f15; /* titulo */
   --bg-card: #eddecbd8;
 
   /* Text */
@@ -51,7 +51,7 @@ PAGE SETUP & CUSTOMIZATION
   --text-muted: #666;
 
   /* Accents & Interactive */
-  --accent-primary: var(--warm-light);
+  --accent-primary: var(--warm-light); /* footnotes */
   --accent-border: var(--golden-clay); /* fundo */
   --interactive-hover: var(--warm-light);
 
