@@ -18,7 +18,7 @@ TOPNAV
   color: var(--text-on-dark) !important;
 
   /* Visual */
-  background-color: var(--bg-nav) !important;
+  background-color: var(--sage) !important;
   border-bottom: 1px solid var(--accent-border);
 }
 
