@@ -51,7 +51,7 @@ PAGE SETUP & CUSTOMIZATION
   --text-muted: #666;
 
   /* Accents & Interactive */
-  --accent-primary: var(--sage-pale);
+  --accent-primary: var(--warm-light);
   --accent-border: var(--golden-clay); /* fundo */
   --interactive-hover: var(--warm-light);
 
