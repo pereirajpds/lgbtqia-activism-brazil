@@ -454,7 +454,7 @@ footer {
   color: var(--text-on-dark);
 
   /* Visual */
-  background-color: var(--sage);
+  background-color: var(--golden-clay);
   border-top: 2px solid var(--accent-border);
   padding: 0;
 }
