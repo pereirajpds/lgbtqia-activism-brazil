@@ -48,6 +48,20 @@ The next section uses a basic scrollybox like you saw in Sapling. Keep scrolling
 
 Outras formas de ativismo...
 
+Brenda
+
+{% include images/figure.html
+  image-path="/assets/images/backgrounds/herbet.png"
+  caption="***Figure3:*** Brenda Lee."
+  alt-text="Hiking trail through a canyon in the Sandia foothills."
+  class="left"
+  width="40%"
+  text="firstimage"
+%}
+
+
+
+
 {% include images/figure.html
   class="center"
   width="60%"
