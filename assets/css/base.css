@@ -52,8 +52,8 @@ PAGE SETUP & CUSTOMIZATION
 
   /* Accents & Interactive */
   --accent-primary: var(--text-body);
-  --accent-border: var(--golden-clay);
-  --interactive-hover: var(--amber);
+  --accent-border: var(--golden-clay); /* fundo */
+  --interactive-hover: var(--sage-pale);
 
   /* Status colors */
   --success: #28a745;
