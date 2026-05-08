@@ -105,7 +105,7 @@ text.....
 {% include scrollybox/bg.html
   height="220vh"
   position="top"
-  image-path="/assets/images/lei.png"
+  image-path="/assets/images/acervo.png"
   above-box-space = "100vh"
   box-content=' One stated reason for building a men-only dorm is that Hokona Hall could be freed up to be used as a women-only dorm, where they would have supervision "of the best sort".'
 %}
