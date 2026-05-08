@@ -52,12 +52,21 @@ Outras formas de ativismo...
 
 {% include images/figure.html
   image-path="/assets/images/backgrounds/abia.png"
-  caption="***Figure3:*** Brenda Lee."
+  caption="***Figure3:*** Abia."
   alt-text="Hiking trail through a canyon in the Sandia foothills."
   class="left"
   width="40%"
   text="firstimage"
 %}
+
+{% include scrollybox/bg.html
+  height="220vh"
+  position="top"
+  image-path="/assets/images/brendalee.png"
+  above-box-space = "100vh"
+  box-content=' One stated reason for building a men-only dorm is that Hokona Hall could be freed up to be used as a women-only dorm, where they would have supervision "of the best sort".'
+%}
+
 
 
 ## Image Carousels (From Sapling)
