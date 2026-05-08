@@ -51,7 +51,7 @@ Outras formas de ativismo...
 Brenda
 
 {% include images/figure.html
-  image-path="/assets/images/backgrounds/herbet.png"
+  image-path="/assets/images/backgrounds/lee.png"
   caption="***Figure3:*** Brenda Lee."
   alt-text="Hiking trail through a canyon in the Sandia foothills."
   class="left"
