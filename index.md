@@ -48,26 +48,10 @@ The next section uses a basic scrollybox like you saw in Sapling. Keep scrolling
 
 Outras formas de ativismo...
 
-Brenda
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 {% include images/figure.html
-  image-path="/assets/images/backgrounds/lee.png"
+  image-path="/assets/images/backgrounds/abia.png"
   caption="***Figure3:*** Brenda Lee."
   alt-text="Hiking trail through a canyon in the Sandia foothills."
   class="left"
@@ -105,7 +89,6 @@ All Sapling components work in Forest too. Here's a carousel for comparing multi
 {% assign images =
 "/assets/images/brenda.png,
 /assets/images/varig.png,
-/assets/images/abia.png,
 /assets/images/dc.png,
 /assets/images/encontro.png,
 /assets/images/dinheiro.png," | split: ','
