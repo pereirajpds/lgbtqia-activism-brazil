@@ -9,7 +9,7 @@ header-position: center
 
 {% include images/figure.html
   image-path="/assets/images/backgrounds/peste.jpg"
-  caption="Figure1"[^popular1983]
+  caption="Figure1:" [^popular1983]: 
   alt-text="Hiking trail through a canyon in the Sandia foothills."
   class="right"
   width="40%"
@@ -57,7 +57,7 @@ In cunclusion...
 # Bibliography
 
  [^anderson2019]: Anderson, Mark J. ***Virtual Heritage: Designing Immersive Experiences for Public History***. Tucson: Sonoran Desert Press, 2019.
- [^popular1983]: Anderson, Mark J. ***Virtual Heritage: Designing Immersive Experiences for Public History***. Tucson: Sonoran Desert Press, 2019.
+ [^popular1983]: 
 
 ## Primary Sources
 
