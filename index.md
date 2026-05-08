@@ -59,29 +59,6 @@ Outras formas de ativismo...
   text="firstimage"
 %}
 
-Flight Attendance
-
-{% include images/figure.html
-  image-path="/assets/images/backgrounds/varig.png"
-  caption="***Figure3:*** The worst and most terrible disease of the century. Two Brazilians dead. ‘Gay Plague’ already terrifies São Paulo. Newspaper *O popular*, 1983."
-  alt-text="Hiking trail through a canyon in the Sandia foothills."
-  class="right"
-  width="40%"
-  text="firstimage"
-%}
-
-
-
-
-
-
-{% include images/figure.html
-  class="center"
-  width="60%"
-  caption="What a nice view"
-  alt-text="Hiking trails winding through a canyon in the Sandia foothills."
-  image-path="/assets/images/backgrounds/brenda.png"
-%}
 
 ## Image Carousels (From Sapling)
 All Sapling components work in Forest too. Here's a carousel for comparing multiple images:
