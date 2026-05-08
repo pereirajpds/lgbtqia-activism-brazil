@@ -103,18 +103,21 @@ Flight Attendance
 All Sapling components work in Forest too. Here's a carousel for comparing multiple images:
 
 {% assign images =
-"/assets/images/abia.png,
-/assets/images/encontro.png,
-/assets/images/dc.png," | split: ','
+"/assets/images/brenda.png,
+/assets/images/varig.png,
+/assets/images/abia.png,
+/assets/images/dc.png,
+/assets/images/encontro.png
+/assets/images/dinheiro.png," | split: ','
 %}
 
 {% assign headers =
-"A Photo Title,,
-No caption here" | split: ','
+"brenda,
+flight attendence" | split: ','
 %}
 
 {% assign captions =
-"It's useful to have informative captions|
+"abia|
 This image has a caption, but no title|
 " | split: '|'
 %}
