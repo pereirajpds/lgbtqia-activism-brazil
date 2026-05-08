@@ -17,7 +17,7 @@ header-position: center
 %}
 ## Introduction
 
-This is a story about...
+This is a story about...[^anderson2019]
 
 This page is the `index.md` file in your repository. You'll evenually replace everything here with your own introduction to your scrollstory.
 
@@ -56,7 +56,7 @@ In cunclusion...
 
 # Bibliography
 
-- Anderson, Mark J. ***Virtual Heritage: Designing Immersive Experiences for Public History***. Tucson: Sonoran Desert Press, 2019.
+- [^anderson2019] Anderson, Mark J. ***Virtual Heritage: Designing Immersive Experiences for Public History***. Tucson: Sonoran Desert Press, 2019.
 
 - Appler, Jane, and Robert L. DeLeon. “Community Archives and Borderlands Memory Work: Rethinking Participation in the Digital Age.” *Public History Quarterly* 47, no. 3 (2021): 233–259.
 
