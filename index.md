@@ -46,6 +46,16 @@ The next section uses a basic scrollybox like you saw in Sapling. Keep scrolling
   text="firstimage"
 %}
 
+Outras formas de ativismo...
+
+{% include images/figure.html
+  class="center"
+  width="60%"
+  caption="What a nice view"
+  alt-text="Hiking trails winding through a canyon in the Sandia foothills."
+  image-path="/assets/images/backgrounds/brenda.png"
+%}
+
 ## Image Carousels (From Sapling)
 All Sapling components work in Forest too. Here's a carousel for comparing multiple images:
 
