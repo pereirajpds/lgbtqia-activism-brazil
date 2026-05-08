@@ -46,6 +46,19 @@ The next section uses a basic scrollybox like you saw in Sapling. Keep scrolling
   text="firstimage"
 %}
 
+## Image Carousels (From Sapling)
+All Sapling components work in Forest too. Here's a carousel for comparing multiple images:
+
+{% assign images =
+"images/abia.png,
+images/encontro.png,
+images/dc.png" | split: ','
+%}
+
+{% include images/carousel.html
+images = images
+%}
+
 Below you'll see a **juxtapose component**—an interactive slider that lets readers compare two images by dragging a handle left and right. Perfect for before/after, then/now, or any two related images.
 
 {% include images/juxtapose.html
