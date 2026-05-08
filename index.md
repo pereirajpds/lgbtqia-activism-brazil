@@ -50,6 +50,22 @@ Outras formas de ativismo...
 
 Brenda
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 {% include images/figure.html
   image-path="/assets/images/backgrounds/lee.png"
   caption="***Figure3:*** Brenda Lee."
