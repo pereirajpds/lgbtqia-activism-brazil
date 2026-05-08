@@ -41,14 +41,14 @@ PAGE SETUP & CUSTOMIZATION
 
   /* ===== SEMANTIC COLOR SYSTEM ===== */
   /* Backgrounds */
-  --bg-page: #f1eae1d8;
+  --bg-page: #f1e2d0d8;
   --text-body: hsl(150, 83%, 2%);
   --golden-clay-dark:  #3f311d;  /* Darker warm clay for headings */
   --accent-primary: #5b8673; /* sub titulo */
   --bg-card: #eddecbd8;
 
   /* Text */
-  --text-body: var(--sage-pale);
+  --text-body: var(--sage-deep);
   --text-on-dark: var( --golden-wash); /* texto barra */
   --text-muted: #666;
 
