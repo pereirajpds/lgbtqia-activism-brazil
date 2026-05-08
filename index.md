@@ -123,7 +123,7 @@ This image has a caption, but no title|
 %}
 
 {% include images/carousel.html
-  width="80%"
+  width="100%"
   class="center"
   images=images
   headers=headers
