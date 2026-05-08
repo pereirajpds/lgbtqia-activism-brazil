@@ -1,7 +1,7 @@
 ---
 title: LGBTQIA+
 layout: base
-header-image: /assets/images/backgrounds/betinho.png
+header-image: /assets/images/backgrounds/betinho.jpg
 header-height: 50vh
 header-position: center
 ---
