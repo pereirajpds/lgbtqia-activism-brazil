@@ -107,7 +107,7 @@ All Sapling components work in Forest too. Here's a carousel for comparing multi
 /assets/images/varig.png,
 /assets/images/abia.png,
 /assets/images/dc.png,
-/assets/images/encontro.png
+/assets/images/encontro.png,
 /assets/images/dinheiro.png," | split: ','
 %}
 
@@ -130,6 +130,8 @@ This image has a caption, but no title|
   captions=captions
 %}
 
+## Justapose
+
 Below you'll see a **juxtapose component**—an interactive slider that lets readers compare two images by dragging a handle left and right. Perfect for before/after, then/now, or any two related images.
 
 {% include images/juxtapose.html
@@ -137,6 +139,7 @@ image1="images/estado.png"
 image2="images/cartaz.png"
 caption="From the TV room to the Chair room (actually, the History Department Common Room). With a less good view of the mountains."
 %}
+
 
 **Why use juxtapose?** When you want readers to actively explore the relationship between two images. The interactive slider invites engagement—readers control what they see and how much of each image.
 
