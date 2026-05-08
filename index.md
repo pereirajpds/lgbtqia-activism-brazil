@@ -25,7 +25,6 @@ You should be viewing this page at `https://[your-username].github.io/[repositor
 
 So that you can edit this homepage for your own site, all the instructions for editing your site are on the [instructions page](instructions).
 
-## Standard Scrollybox (From Sapling)
 The next section uses a basic scrollybox like you saw in Sapling. Keep scrolling to see text overlay a full-screen background image.
 
 {% include scrollybox/bg.html
@@ -68,6 +67,7 @@ In cunclusion...
 # Bibliography
 
  [^anderson2019]: Anderson, Mark J. ***Virtual Heritage: Designing Immersive Experiences for Public History***. Tucson: Sonoran Desert Press, 2019.
+ [^telegrama]:
 
 
 ## Primary Sources
