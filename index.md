@@ -96,7 +96,7 @@ Below you'll see a **juxtapose component**—an interactive slider that lets rea
 
 {% include images/juxtapose.html
   image1="/assets/images/estado.png"
-  image2="/assets/images/cartaz.png"
+  image2="/assets/images/quemvecara.png"
   caption="The TV room becomes the History Department Common Room."
 %}
 
