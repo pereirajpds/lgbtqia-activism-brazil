@@ -143,7 +143,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec ante ligu
 ### BACKGROUND IMAGE SWITCHES HERE
 
 {% include scrollybox/bg-switch.html
-  image-path="/assets/images/lei1996.png"
+  image-path="/assets/images/casacivil.png"
   switch-id="switch1"
   bg-id="bg1"
 %}
