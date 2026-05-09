@@ -139,13 +139,33 @@ This is perfect for visual sequences: walking through a building room by room, s
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec ante ligula. Nulla fringilla ligula sit amet nisl consectetur ultricies. Mauris ac tellus eu ante lobortis rhoncus non eu nisl.
 
+
 ### BACKGROUND IMAGE SWITCHES HERE
 
 {% include scrollybox/bg-switch.html
-  image-path="assets/images/1996.png"
+  image-path="/assets/images/1996.png"
   switch-id="switch1"
   bg-id="bg1"
 %}
+
+
+### The New Background
+Did you notice the background change? The floorplan switched to the TV room photo. Your text continued scrolling, but the visual context shifted.
+
+**Why use background switching?**
+- Narrative sequences (first this happened, then that)
+- Spatial movement (from room to room, place to place)
+- Evidence building (showing multiple sources for one argument)
+- Visual comparisons while maintaining narrative flow
+
+Duis ut dui dolor. Integer eu lectus at tellus accumsan euismod eget a ligula. Morbi venenatis, elit eu varius fermentum, ligula est dictum massa, sit amet ullamcorper augue nisl ut nunc.
+
+
+#### The End of This Sequence
+Watch as the text box scrolls out of view, followed by the background image fading away. Then normal scrolling resumes.
+
+{% include scrollybox/bg-multi-long-close.html %}
+
 
 ## Conclusion
 In cunclusion...
