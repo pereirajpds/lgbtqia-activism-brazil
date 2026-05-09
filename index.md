@@ -129,7 +129,7 @@ This is what makes Forest essays truly cinematic. You're about to scroll through
   bg-id="bg1"
   image-path="/assets/images/1988.png"
   above-box-space="0"
-  font-size = "150%"
+  font-size = "90%"
   line-height = "100%"
 %}
 
