@@ -24,7 +24,7 @@ In the 1980s, fear spread across Brazilian society. Newspapers O Povo (1983) des
   caption="***Figure2:*** 4th Meeting of People Living with HIV, Rio de Janeiro, 1991. The poster says Money is scarce, AIDS is not. Rio de Janeiro, 1991."
   alt-text="Hiking trail through a canyon in the Sandia foothills."
   class="left"
-  width="50%"
+  width="45%"
   text="firstimage"
 %}
 
