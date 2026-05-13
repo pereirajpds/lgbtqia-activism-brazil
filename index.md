@@ -33,6 +33,14 @@ The HIV/AIDS crisis of the 1980s and 1990s coincided with Brazil’s period of r
 
 Most of you are familiar with the United States' response to HIV/AIDS. Under President Ronald Reagan, the federal government responded slowly to the demands of non-governmental organizations (NGOs), while many people in the US depended on private insurance for treatment. Brazil followed a different path. The Brazilian state worked with NGOs and activists. Together, they created national campaigns to challenge the idea that HIV/AIDS only affected gay men. Activists and politicians also contributed to legal rights such as retirement benefits for people living with HIV. In 1988, Brazil’s new constitution recognized healthcare as a right rather than a private service, expanding the treatment for poor people with HIV/AIDS. [^anderson2019]
 
+{% include scrollybox/bg.html
+  height="220vh"
+  position="top"
+  image-path="/assets/images/telegrama.png"
+  above-box-space = "100vh"
+  box-content=' One stated reason for building a men-only dorm is that Hokona Hall could be freed up to be used as a women-only dorm, where they would have supervision "of the best sort".'
+%}
+
 This story is about how activism contributed to the Brazilian state's response to HIV/AIDS from the 1980s to the 1990s. In the first years of the epidemic, the state did not act fast enough. Groups such as ABIA, the Brazilian Interdisciplinary AIDS Association, pressured government officials to give people with HIV/AIDS access to treatment and produced public information via pamphlets and bulletins to show that everyone could be infected by HIV. In 1982, Brenda Lee created a shelter for trans people living with HIV/AIDS in São Paulo. Flight attendants brought medication from the United States to Brazil when many people could not access expensive medications like AZT. The 1996 law later made Brazil known for one of the most important public health responses to HIV/AIDS in the world.  However, the Brazilian state did not achieve this alone. Earlier, activists, queer communities, and people living with HIV helped each other survive the epidemic and pressured the state to take immediate action. [^anderson2019]
 
 
