@@ -5,17 +5,17 @@ header-image: /assets/images/backgrounds/betinho.jpg
 header-height: 50vh
 header-position: center
 ---
-# Queer Activism during HIV and AIDS crises in Brasil, 1980s-1990s
+# From “Gay Plague” to Human Right: Activisms During HIV/AIDS Crisis in Brazil, 1980s-1990s
 
 {% include images/figure.html
   image-path="/assets/images/backgrounds/peste.jpg"
   caption="***Figure1:*** The worst and most terrible disease of the century. Two Brazilians dead. ‘Gay Plague’ already terrifies São Paulo. Newspaper *O popular*, 1983."
   alt-text="Hiking trail through a canyon in the Sandia foothills."
   class="right"
-  width="40%"
+  width="60%"
   text="firstimage"
 %}
-## Introduction
+
 
 The period of Brazilian  redemocratization (1979-1985) marked a transition from dictatorship to democracy. Brazil was ending more than twenty years of military dictatorship (1964–1985). Political exiles and human rights activists returned to Brazil after years abroad. Social movements such as Black, queer, and feminist ones emerged. Politicians and social movements debated a new constitution to include labor rights, non-discrimination policies, and free public health as a constitutional right. This political transition shaped Brazil’s response to HIV/AIDS from the 1980s to the 1990s. [^anderson2019]
 
