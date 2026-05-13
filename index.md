@@ -57,8 +57,8 @@ Flight attendence,
 %}
 
 {% assign captions =
-"
-|
+" caption="***Figure2:*** 4th Meeting of People Living with HIV, Rio de Janeiro, 1991. The poster says Money is scarce, AIDS is not. Rio de Janeiro, 1991." |
+This image has a caption, but no title|
 " | split: '|'
 %}
 
