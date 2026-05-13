@@ -44,7 +44,7 @@ Most of you are familiar with the United States' response to HIV/AIDS. Under Pre
 This story is about how activism contributed to the Brazilian state's response to HIV/AIDS from the 1980s to the 1990s. In the first years of the epidemic, the state did not act fast enough. Groups such as ABIA, the Brazilian Interdisciplinary AIDS Association, pressured government officials to give people with HIV/AIDS access to treatment and produced public information via pamphlets and bulletins to show that everyone could be infected by HIV. In 1982, Brenda Lee created a shelter for trans people living with HIV/AIDS in São Paulo. Flight attendants brought medication from the United States to Brazil when many people could not access expensive medications like AZT. The 1996 law later made Brazil known for one of the most important public health responses to HIV/AIDS in the world.  However, the Brazilian state did not achieve this alone. Earlier, activists, queer communities, and people living with HIV helped each other survive the epidemic and pressured the state to take immediate action. [^anderson2019]
 
 {% assign images =
-"/assets/images/brenda.png,
+"/assets/images/lee.png,
 /assets/images/varig.png,
 /assets/images/dinheiro.png," | split: ','
 %}
@@ -55,7 +55,7 @@ Flight attendence" | split: ','
 %}
 
 {% assign captions =
-"4th Meeting of People Living with HIV, Rio de Janeiro, 1991. The poster says Money is scarce, AIDS is not. Rio de Janeiro, 1991|
+"4th Meeting of People Living with HIV, Rio de Janeiro, 1991. The poster says Money is scarce, AIDS is not |
 This image has a caption, but no title|
 " | split: '|'
 %}
