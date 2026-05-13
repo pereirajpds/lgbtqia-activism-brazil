@@ -58,7 +58,7 @@ Flight attendence,
 
 {% assign captions =
 "
-This image has a caption, but no title|
+|
 " | split: '|'
 %}
 
