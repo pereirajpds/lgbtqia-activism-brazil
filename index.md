@@ -51,11 +51,13 @@ This story is about how activism contributed to the Brazilian state's response t
 
 {% assign headers =
 "Brenda Lee,
-Flight attendence" | split: ','
+Flight attendence, 
+4th Meeting of People Living with HIV, Rio de Janeiro, 1991. The poster says Money is scarce, AIDS is not"
+| split: ','
 %}
 
 {% assign captions =
-"4th Meeting of People Living with HIV, Rio de Janeiro, 1991. The poster says Money is scarce, AIDS is not |
+"
 This image has a caption, but no title|
 " | split: '|'
 %}
