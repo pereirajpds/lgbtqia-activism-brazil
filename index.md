@@ -19,6 +19,7 @@ header-position: center
 In the 1980s, fear spread across Brazilian society. Newspapers O Povo (1983) described the first case of HIV/AIDS as the “gay plague, ” while other media claimed that AIDS was a health issue in the United States. Initially,  many Brazilians believed HIV affected only gay men or foreigners. In 1988, some politicians even defended banning HIV-positive people from entering the country. The physician falsely claimed mosquitoes could spread the virus. Meanwhile, activists  and people living with HIV pressured the Brazilian state to invest public money in the fight against HIV/AIDS in Brazil.[^anderson2019]
 
 
+
 {% include images/figure.html
   image-path="/assets/images/dinheiro.png"
   caption="***Figure2:*** 4th Meeting of People Living with HIV, Rio de Janeiro, 1991. The poster says Money is scarce, AIDS is not. Rio de Janeiro, 1991."
