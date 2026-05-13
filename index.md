@@ -20,11 +20,11 @@ In the 1980s, fear spread across Brazilian society. Newspapers O Povo (1983) des
 
 {% include images/figure.html
   image-path="/assets/images/backgrounds/dinheiro.png"
-  caption="***Figure2:*** 4th Meeting of People Living with HIV, Rio de Janeiro, 1991. The poster says: ""Money is scarce, AIDS is not." Rio de Janeiro, 1991."
+  caption="***Figure2:*** 4th Meeting of People Living with HIV, Rio de Janeiro, 1991. The poster says: "Money is scarce, AIDS is not." Rio de Janeiro, 1991."
   alt-text="Hiking trail through a canyon in the Sandia foothills."
   class="left"
   width="40%"
-  text="secondimage"
+  text="firstimage"
 %}
 
 The HIV/AIDS crisis of the 1980s and 1990s coincided with Brazil’s period of redemocratization (1979-1985). This period marked a transition from dictatorship to democracy. Brazil was ending more than twenty years of military dictatorship (1964–1985). Political exiles and human rights activists returned to Brazil after years abroad. Social movements such as Black, queer, and feminist ones emerged. Politicians and social movements debated a new constitution to include labor rights, non-discrimination policies, and free public health as a constitutional right. This political transition shaped Brazil’s response to HIV/AIDS from the 1980s to the 1990s.[^anderson2019]
