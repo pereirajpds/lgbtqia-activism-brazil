@@ -5,7 +5,7 @@ header-image: /assets/images/backgrounds/betinho.jpg
 header-height: 50vh
 header-position: center
 ---
-# From “Gay Plague” to Human Right: Activisms During HIV/AIDS Crisis in Brazil, 1980s-1990s
+# From “Gay Plague” to Human Right: Activisms During the HIV/AIDS Crisis in Brazil, 1980s-1990s
 
 {% include images/figure.html
   image-path="/assets/images/backgrounds/peste.jpg"
