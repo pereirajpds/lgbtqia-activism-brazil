@@ -23,7 +23,7 @@ In the 1980s, fear and misinformation spread across Brazilian society as the HIV
   caption="***Figure2:*** 4th Meeting of People Living with HIV, Rio de Janeiro, 1994. The main poster says Money is scarce, AIDS is not.https://pelavidda.org.br/vivendo.html"
   alt-text="Hiking trail through a canyon in the Sandia foothills."
   class="left"
-  width="45%"
+  width="50%"
   text="firstimage"
 %}
 
