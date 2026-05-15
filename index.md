@@ -9,7 +9,7 @@ header-position: center
 
 {% include images/figure.html
   image-path="/assets/images/backgrounds/peste.jpg"
-  caption="***Figure1:*** The worst and most terrible disease of the century. Two Brazilians dead. ‘Gay Plague’ already terrifies São Paulo. Newspaper *Notícias Populares*, 1983."
+  caption="***Figure1:*** The worst and most terrible disease of the century. Two Brazilians dead. ‘Gay Plague’ already terrifies São Paulo. Newspaper *Notícias Populares*, 1983." https://www.ioc.fiocruz.br/en/aids20anos/linhadotempo.html
   alt-text="Hiking trail through a canyon in the Sandia foothills."
   class="right"
   width="45%"
@@ -22,7 +22,7 @@ In the 1980s, fear and misinformation spread across Brazilian society as the HIV
 
 {% include images/figure.html
   image-path="/assets/images/dinheiro.png"
-  caption="***Figure2:*** 4th Meeting of People Living with HIV, Rio de Janeiro, 1991. The poster says Money is scarce, AIDS is not. Rio de Janeiro, 1991."
+  caption="***Figure2:*** 4th Meeting of People Living with HIV, Rio de Janeiro, 1994. The main poster says Money is scarce, AIDS is not. https://pelavidda.org.br/vivendo.html"
   alt-text="Hiking trail through a canyon in the Sandia foothills."
   class="left"
   width="45%"
@@ -229,6 +229,8 @@ In cunclusion...
 
  [^senado]: Annals of the National Constituent Assembly (Anais da Assembleia Nacional Constituinte), vol. 11 (Brasília: Senado Federal, 1987), 363. 
 
+ [^vida] Image from the 4th National Meeting of People Living with HIV and AIDS (1994), reproduced on the website of Grupo Pela VIDDA Rio de Janeiro,, accessed April 15, 2026, https://pelavidda.org.br/vivendo.html In picture 2, the 4th National Meeting of People Living with HIV and AIDS, hosted in Brazil during 1996, illustrates how to organize activists, patients, and advocacy networks around treatment access and citizenship rights from the 1990s. Reproduced on the website of Grupo Pela VIDDA Rio de Janeiro, an NGO supported by Associação Brasileira Interdisciplinar de AIDS (ABIA).
+
 
  Anderson, Mark J. ***Virtual Heritage: Designing Immersive Experiences for Public History***. Tucson: Sonoran Desert Press, 2019.
  [^telegrama]: Pela Vidda Telegrama.
@@ -241,7 +243,7 @@ In cunclusion...
 
 - Annals of the National Constituent Assembly (Anais da Assembleia Nacional Constituinte). Vol. 11. Brasília: Senado Federal, 1987. https://www.senado.leg.br/publicacoes/anais/constituinte/N011.pdf
 
-- Gonzalez, Maria P. ***Digital Storytelling in Community Contexts: Practices from the U.S.–Mexico Border***. Albuquerque: High Mesa University Press, 2022.
+- ‘4th National Meeting of People Living with HIV and AIDS’ Reproduced on the website of NGO *Pela VIDDA* Rio de Janeiro. 1994. https://pelavidda.org.br/vivendo.html
 
 - Hwang, Daniel, and Lisa Moreno. “Reconstructing Place: Photogrammetry and 3D Modeling for Local History Museums.” In *Digital Heritage and the Public*, edited by S. Karim and A. Velasquez, 112–134. Austin: Western Humanities Collaborative, 2023.
 
