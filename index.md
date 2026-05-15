@@ -224,7 +224,7 @@ In cunclusion...
 
  ## Primary Sources
 
-  - Annals of the National Constituent Assembly (Anais da Assembleia Nacional Constituinte). Vol. 11. Brasília: Senado Federal, 1987. https://www.senado.leg.br/publicacoes/anais/constituinte/N011.pdf
+ - Annals of the National Constituent Assembly (Anais da Assembleia Nacional Constituinte). Vol. 11. Brasília: Senado Federal, 1987. https://www.senado.leg.br/publicacoes/anais/constituinte/N011.pdf
 
   - Brazil. Law No. 7,670, September 8, 1988 (Lei nº 7.670, de 8 de setembro de 1988). Granting benefits to people living with HIV/AIDS. Câmara dos Deputados. Accessed May 1, 2026.  
  https://www2.camara.leg.br/legin/fed/lei/1988/lei-7670-8-setembro-1988-368200-publicacaooriginal-1-pl.html
@@ -238,7 +238,14 @@ In cunclusion...
 
   - Newspaper *Última Hora*. “O estilista Markito: uma vítima do ‘câncer gay’.” Reproduced by Agência Senado from the Biblioteca Nacional Digital. Accessed May 1, 2026. https://www12.senado.leg.br/noticias/especiais/arquivo-s/aids-chegou-ao-brasil-ha-40-anos-e-trouxe-terror-preconceito-e-desinformacao
 
- ## Bibliography
+ # Secondary Sources
+
+ - Alvarez, Sonia E. and Arturo Escobar. *The Making of Social Movements in Latin America : Identity, Strategy, and Democracy*. Westview Press, 1992.
+
+ - Galvão, Jane. *AIDS No Brasil : A Agenda de Construção de Uma Epidemia*. ABIA Press, 2000.
+
+ - Royles, Dan. *To Make the Wounded Whole: The African American Struggle Against HIV/AIDS.* University of North Carolina Press, 2020.
+
 
  [^jornais]: Fundação Oswaldo Cruz (Fiocruz), “A Epidemia da Aids Através do Tempo,” in O Vírus da Aids, 20 anos depois, accessed May 15, 2026,https://www.ioc.fiocruz.br/en/aids20anos/linhadotempo.htmlThe timeline reproduces 1983 newspaper Notícias Populares’ language such as "gay plague” and “câncer gay” and references the stigmatizing discourse surrounding the early AIDS crisis in Brazil. This paper reports the first cases of HIV/AIDS in Brazil.
 
@@ -258,43 +265,7 @@ In cunclusion...
 
  [^law1988]: Brazil, Law No. 7,670, September 8, 1988 (Lei nº 7.670, de 8 de setembro de 1988), granting benefits to people living with HIV/AIDS, Câmara dos Deputados. Brazil, Law No. 8,080, September 19, 1990 (Lei nº 8.080, de 19 de setembro de 1990), known as the Organic Health Law (Lei Orgânica da Saúde), establishing the Unified Health System (SUS) and recognizing healthcare as a universal right.
 
- 
- Anderson, Mark J. ***Virtual Heritage: Designing Immersive Experiences for Public History***. Tucson: Sonoran Desert Press, 2019.
- [^telegrama]: Pela Vidda Telegrama.
 
- ## Primary Sources
-
-  - Annals of the National Constituent Assembly (Anais da Assembleia Nacional Constituinte). Vol. 11. Brasília: Senado Federal, 1987. https://www.senado.leg.br/publicacoes/anais/constituinte/N011.pdf
-
-  - Brazil. Law No. 7,670, September 8, 1988 (Lei nº 7.670, de 8 de setembro de 1988). Granting benefits to people living with HIV/AIDS. Câmara dos Deputados. Accessed May 1, 2026.  
- https://www2.camara.leg.br/legin/fed/lei/1988/lei-7670-8-setembro-1988-368200-publicacaooriginal-1-pl.html
-
-  - Brazil, Law No. 8,080, September 19, 1990 (Lei nº 8.080, de 19 de setembro de 1990), known as the Organic Health Law (Lei Orgânica da Saúde), establishing the Unified Health System (SUS) and recognizing healthcare as a universal right.
-  https://www.planalto.gov.br/ccivil_03/leis/l8080.htm
- 
-  - ‘4th National Meeting of People Living with HIV and AIDS’ in the website of NGO *Grupo Pela VIDDA* 1994. https://pelavidda.org.br/vivendo.html
-
-  - Newspaper *Notícias Populares*. 1983, in Fundação Oswaldo Cruz (Fiocruz), O Vírus da Aids, 20 anos depois. Accessed May 1, 2026. https://www.ioc.fiocruz.br/en/aids20anos/linhadotempo.html
-
-  - Newspaper *Última Hora*. “O estilista Markito: uma vítima do ‘câncer gay’.” Reproduced by Agência Senado from the Biblioteca Nacional Digital. Accessed May 1, 2026. https://www12.senado.leg.br/noticias/especiais/arquivo-s/aids-chegou-ao-brasil-ha-40-anos-e-trouxe-terror-preconceito-e-desinformacao
-
- - Johnson, Lauren, and Emily Carter. “Metadata for the People: Participatory Cataloging in Community Archives.” *Archivaria* 92 (2021): 77–101.
-
- - Kiser, Thomas W. ***Humanistic Computing: Ethical Design for the Digital Humanities***. Chicago: Lakeshore Academic Press, 2018.
-
- - Moreno, Pilar. “Digitizing Memory: Oral Histories and the Politics of Representation in the Southwest.” *American Studies Review* 65, no. 4 (2020): 421–440.
-
- - Rogers, Matthew, and Cynthia Lee. “Pedagogy in the Virtual Museum: Digital Literacy for History Students.” *Teaching History with Technology* 14, no. 2 (2022): 55–73.
-
-  - Tran, Michael, and Hannah Ruiz. ***Borderlands Data: Methods for Visualizing Regional History***. Santa Fe: Southwest Humanities Institute Publications, 2021.
-
- ## Secondary Sources
-
- - Alvarez, Sonia E. and Arturo Escobar. *The Making of Social Movements in Latin America : Identity, Strategy, and Democracy*. Westview Press, 1992.
-
- - Galvão, Jane. *AIDS No Brasil : A Agenda de Construção de Uma Epidemia*. ABIA Press, 2000.
-
- - Royles, Dan. *To Make the Wounded Whole: The African American Struggle Against HIV/AIDS.* University of North Carolina Press, 2020.
 
 
 
