@@ -265,6 +265,9 @@ In cunclusion...
 
  [^law1988]: Brazil, Law No. 7,670, September 8, 1988 (Lei nº 7.670, de 8 de setembro de 1988), granting benefits to people living with HIV/AIDS, Câmara dos Deputados. Brazil, Law No. 8,080, September 19, 1990 (Lei nº 8.080, de 19 de setembro de 1990), known as the Organic Health Law (Lei Orgânica da Saúde), establishing the Unified Health System (SUS) and recognizing healthcare as a universal right.
 
+ [^varig]:Leandro Machado, “The Varig Flight Attendants Who ‘Smuggled’ Medication to Help AIDS Patients” (Os comissários da Varig que ‘contrabandeavam’ remédios para ajudar pacientes com Aids), BBC News Brasil, February 8, 2020. https://www.bbc.com/portuguese/brasil-51199929 Interview with former flight attendants Mario Augusto dos Santos Filho and Alexandre Santos Silva. Silva explained that he retired because of disability using the legal rights guaranteed under Brazil’s 1988 Constitution for people living with HIV/AIDS.
+
+
 
 
 
