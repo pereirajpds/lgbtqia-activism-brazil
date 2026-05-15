@@ -232,7 +232,9 @@ In cunclusion...
 
  [^alvarez]: Sonia E. Alvarez and Arturo Escobar. *The Making of Social Movements in Latin America : Identity, Strategy, and Democracy*. (Westview Press, 1992): 10-13, 58-59, 171-172, 185-188, 208, 213, 291-292.
 
-  [^jane]: Jane Galvão, *AIDS No Brasil : A Agenda de Construção de Uma Epidemia*. (Rio de Janeiro : ABIA Press 2000): 13-18, 20-21, 27-29.
+ [^jane]: Jane Galvão, *AIDS No Brasil : A Agenda de Construção de Uma Epidemia*. (Rio de Janeiro : ABIA Press 2000): 13-18, 20-21, 27-29.
+
+ [^dan]: Dan Royles, To Make the Wounded Whole: The African American Struggle Against HIV/AIDS (University of North Carolina Press, 2020): 406, 177, 236.
 
  
  Anderson, Mark J. ***Virtual Heritage: Designing Immersive Experiences for Public History***. Tucson: Sonoran Desert Press, 2019.
@@ -261,6 +263,11 @@ In cunclusion...
 ## Secondary Sources
 
 - Alvarez, Sonia E. and Arturo Escobar. *The Making of Social Movements in Latin America : Identity, Strategy, and Democracy*. Westview Press, 1992.
+
+- Galvão, Jane. *AIDS No Brasil : A Agenda de Construção de Uma Epidemia*. ABIA Press, 2000.
+
+- Royles, Dan. *To Make the Wounded Whole: The African American Struggle Against HIV/AIDS.* University of North Carolina Press, 2020.
+
 
 
 
