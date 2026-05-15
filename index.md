@@ -31,7 +31,7 @@ In the 1980s, fear and misinformation spread across Brazilian society as the HIV
 
  Most of you are familiar with the United States' response to HIV/AIDS. Under President Ronald Reagan, the federal government responded slowly to the demands of non-governmental organizations (NGOs), while many people in the US depended on private insurance for treatment.[^dan] Brazil followed a different path. The Brazilian state worked with NGOs and activists. Together, they created national campaigns to challenge the idea that HIV/AIDS only affected gay men.   Activists and politicians also contributed to social rights in Brazil’s new Constitution (1988). [^janeg] Some of these included retirement benefits for people living with HIV and the recognition of healthcare as a right rather than a private service, which expanded access to treatment for poor people living with HIV/AIDS. [^law1988]
 
- This story is about how activism contributed to the Brazilian state's response to HIV/AIDS from the 1980s to the 1990s. In the first years of the epidemic, the state did not act fast enough. [^jane3] Groups such as ABIA, the Brazilian Interdisciplinary AIDS Association, pressured government officials to give people with HIV/AIDS access to treatment and produced public information via pamphlets and bulletins to show that everyone could be infected by HIV. In 1982, Brenda Lee created a shelter for trans people living with HIV/AIDS in São Paulo. [^brenda] Flight attendants brought medication from the United States to Brazil when many people could not access expensive medications like AZT, one of the first drugs approved for the treatment of the disease. The 1996 law later made Brazil known for one of the most important public health responses to HIV/AIDS in the world.  However, the Brazilian state did not achieve this alone. Earlier, activists, queer communities, and people living with HIV helped each other survive the epidemic and pressured the state to take immediate action. [^varig]
+ This story is about how activism contributed to the Brazilian state's response to HIV/AIDS from the 1980s to the 1990s. In the first years of the epidemic, the state did not act fast enough. [^jane3] Groups such as ABIA, the Brazilian Interdisciplinary AIDS Association, pressured government officials to give people with HIV/AIDS access to treatment and produced public information via pamphlets and bulletins to show that everyone could be infected by HIV. [^abia] In 1982, Brenda Lee created a shelter for trans people living with HIV/AIDS in São Paulo. [^brenda] Flight attendants brought medication from the United States to Brazil when many people could not access expensive medications like AZT, one of the first drugs approved for the treatment of the disease. The 1996 law later made Brazil known for one of the most important public health responses to HIV/AIDS in the world.  However, the Brazilian state did not achieve this alone. Earlier, activists, queer communities, and people living with HIV helped each other survive the epidemic and pressured the state to take immediate action. [^varig]
 
 
 {% include scrollybox/bg.html
@@ -222,7 +222,9 @@ In cunclusion...
 
 ## Bibliography
 
- ## Primary Sources
+ # Primary Sources
+
+ - ABIA (Associação Brasileira Interdisciplinar de AIDS). Solidariedade em Rede (Solidarity in Network). Pamphlet. 1989. Reproduced in Richard Parker, “Sobre a História da ABIA.” Accessed March 15, 2026. https://abiaids.org.br/wp-content/uploads/2019/03/6-Parker-Sobre-a-histo%CC%81ria-da-ABIA-2.pdf
 
  - Annals of the National Constituent Assembly (Anais da Assembleia Nacional Constituinte). Vol. 11. Brasília: Senado Federal, 1987. https://www.senado.leg.br/publicacoes/anais/constituinte/N011.pdf
 
@@ -276,6 +278,8 @@ In cunclusion...
  [^brenda]: TV Brasil, Caminhos da Reportagem, ‘Era uma vez… Brenda Lee!,’ YouTube video, June 9, 2024, https://www.youtube.com/watch?v=CdVwKJWUJ5w Featuring statements by Brenda Lee and images of the Palácio das Princesas, her shelter from trans people living with HIV was founded in 1982 in São Paulo.
 
  [^jane3]: Jane Galvão, *AIDS No Brasil : A Agenda de Construção de Uma Epidemia*. (Rio de Janeiro : ABIA Press 2000): 98-100. According to Galvão (2000), a researcher at the ABIA, the state's greatest participation occurred between 1992 and 1996.
+
+ [^abia]: ABIA (Associação Brasileira Interdisciplinar de AIDS), 1989 pamphlet featuring artwork by the Brazilian cartoonist Henfil, who died from HIV/AIDS-related complications after contracting the virus through a blood transfusion, as did his brother Herbert de Souza (“Betinho”), the president of ABIA. The pamphlet emphasized solidarity and collective action against AIDS, declaring, "Against loneliness, solidarity” and “Alone, nobody escapes AIDS. Collectively, it is possible to stop AIDS.” It described AIDS not only as a medical condition but also as a social crisis shaped by panic, prejudice, and discrimination, while defending cooperation between civil society organizations and the government in public health prevention efforts.
 
 
 
