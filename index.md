@@ -22,7 +22,7 @@ In the 1980s, fear and misinformation spread across Brazilian society as the HIV
 
 {% include images/figure.html
   image-path="/assets/images/dinheiro.png"
-  caption="***Figure2:*** 4th Meeting of People Living with HIV, Rio de Janeiro, 1994. The main poster says Money is scarce, AIDS is not. https://pelavidda.org.br/vivendo.html"
+  caption="***Figure2:*** 4th Meeting of People Living with HIV, Rio de Janeiro, 1994. The main poster says Money is scarce, AIDS is not."
   alt-text="Hiking trail through a canyon in the Sandia foothills."
   class="left"
   width="45%"
@@ -229,9 +229,7 @@ In cunclusion...
 
  [^senado]: Annals of the National Constituent Assembly (Anais da Assembleia Nacional Constituinte), vol. 11 (Brasília: Senado Federal, 1987), 363. 
 
- [^vida]:  In picture 2, the 4th National Meeting of People Living with HIV and AIDS illustrates how to organize activists, patients, and advocacy networks around treatment access and citizenship rights from the 1990s. Reproduced on the website of Grupo Pela VIDDA Rio de Janeiro, an NGO supported by Associação Brasileira Interdisciplinar de AIDS (ABIA).
-
-
+ 
  Anderson, Mark J. ***Virtual Heritage: Designing Immersive Experiences for Public History***. Tucson: Sonoran Desert Press, 2019.
  [^telegrama]: Pela Vidda Telegrama.
 
