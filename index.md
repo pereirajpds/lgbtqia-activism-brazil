@@ -16,7 +16,7 @@ header-position: center
   text="firstimage"
 %}
 
-In the 1980s, fear and misinformation spread across Brazilian society as the HIV/AIDS crisis began to reach the country. Newspapers O Povo (1983) described the first case of HIV/AIDS as the 'gay plague,' while other media claimed that AIDS was only a health issue in the United States.[^jornais] Initially, many Brazilians believed that HIV affected only gay men or foreigners.[ˆmarkito] Some politicians even defended banning HIV-positive people from entering the country.[^senado] Meanwhile, activists and people living with HIV pressured the Brazilian state to invest public money into the fight against HIV/AIDS in Brazil.[^ongbook]
+In the 1980s, fear and misinformation spread across Brazilian society as the HIV/AIDS crisis began to reach the country. Newspapers O Povo (1983) described the first case of HIV/AIDS as the 'gay plague,' while other media claimed that AIDS was only a health issue in the United States.[^jornais] Initially, many Brazilians believed that HIV affected only gay men or foreigners.[^markito] Some politicians even defended banning HIV-positive people from entering the country.[^senado] Meanwhile, activists and people living with HIV pressured the Brazilian state to invest public money into the fight against HIV/AIDS in Brazil.[^ongbook]
 
 
 
@@ -223,11 +223,11 @@ In cunclusion...
 
 # Bibliography
 
- [^jornais]: Fundação Oswaldo Cruz (Fiocruz), “A Epidemia da Aids Através do Tempo,” in O Vírus da Aids, 20 anos depois, accessed May 15, 2026,  https://www.ioc.fiocruz.br/en/aids20anos/linhadotempo.html
-  The timeline reproduces 1983 newspaper Notícias Populares’ language such as "gay plague” and “câncer gay” and references the stigmatizing discourse surrounding the early AIDS crisis in Brazil. This paper reports the first cases of HIV/AIDS in Brazil.
+ [^jornais]: Fundação Oswaldo Cruz (Fiocruz), “A Epidemia da Aids Através do Tempo,” in O Vírus da Aids, 20 anos depois, accessed May 15, 2026,  https://www.ioc.fiocruz.br/en/aids20anos/linhadotempo.htmlThe timeline reproduces 1983 newspaper Notícias Populares’ language such as "gay plague” and “câncer gay” and references the stigmatizing discourse surrounding the early AIDS crisis in Brazil. This paper reports the first cases of HIV/AIDS in Brazil.
 
- [^markito]: Biblioteca Nacional Digital, reproduced by Agência Senado, O estilista Markito: segundo o jornal Última Hora, uma vítima do ‘câncer gay.’early 1980s.https://www12.senado.leg.br/noticias/especiais/arquivo-s/aids-chegou-ao-brasil-ha-40-anos-e-trouxe-terror-preconceito-e-desinformacaoFashion 
- According to the Newspaper Última Hora, a Victim of the ‘Gay Cancer.’ The newspaper reported that the famous Brazilian fashion designer Markito, who lived in New York, died from HIV/AIDS-related complications in the United States and that his body was being returned to Brazil. Markito's death was one of the first widely publicized cases of a Brazilian public figure.
+ [^markito]: Biblioteca Nacional Digital, reproduced by Agência Senado, O estilista Markito: segundo o jornal Última Hora, uma vítima do ‘câncer gay.’early 1980s.https://www12.senado.leg.br/noticias/especiais/arquivo-s/aids-chegou-ao-brasil-ha-40-anos-e-trouxe-terror-preconceito-e-desinformacaoFashion According to the Newspaper Última Hora, a Victim of the ‘Gay Cancer.’ The newspaper reported that the famous Brazilian fashion designer Markito, who lived in New York, died from HIV/AIDS-related complications in the United States and that his body was being returned to Brazil. Markito's death was one of the first widely publicized cases of a Brazilian public figure.
+
+ [^senado]: 
 
 
  Anderson, Mark J. ***Virtual Heritage: Designing Immersive Experiences for Public History***. Tucson: Sonoran Desert Press, 2019.
