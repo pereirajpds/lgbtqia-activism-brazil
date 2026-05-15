@@ -31,7 +31,7 @@ In the 1980s, fear and misinformation spread across Brazilian society as the HIV
 
  Most of you are familiar with the United States' response to HIV/AIDS. Under President Ronald Reagan, the federal government responded slowly to the demands of non-governmental organizations (NGOs), while many people in the US depended on private insurance for treatment.[^dan] Brazil followed a different path. The Brazilian state worked with NGOs and activists. Together, they created national campaigns to challenge the idea that HIV/AIDS only affected gay men.   Activists and politicians also contributed to social rights in Brazil’s new Constitution (1988). [^janeg] Some of these included retirement benefits for people living with HIV and the recognition of healthcare as a right rather than a private service, which expanded access to treatment for poor people living with HIV/AIDS. [^law1988]
 
- This story is about how activism contributed to the Brazilian state's response to HIV/AIDS from the 1980s to the 1990s. In the first years of the epidemic, the state did not act fast enough. Groups such as ABIA, the Brazilian Interdisciplinary AIDS Association, pressured government officials to give people with HIV/AIDS access to treatment and produced public information via pamphlets and bulletins to show that everyone could be infected by HIV. In 1982, Brenda Lee created a shelter for trans people living with HIV/AIDS in São Paulo. Flight attendants brought medication from the United States to Brazil when many people could not access expensive medications like AZT. The 1996 law later made Brazil known for one of the most important public health responses to HIV/AIDS in the world.  However, the Brazilian state did not achieve this alone. Earlier, activists, queer communities, and people living with HIV helped each other survive the epidemic and pressured the state to take immediate action. [^varig]
+ This story is about how activism contributed to the Brazilian state's response to HIV/AIDS from the 1980s to the 1990s. In the first years of the epidemic, the state did not act fast enough. Groups such as ABIA, the Brazilian Interdisciplinary AIDS Association, pressured government officials to give people with HIV/AIDS access to treatment and produced public information via pamphlets and bulletins to show that everyone could be infected by HIV. In 1982, Brenda Lee created a shelter for trans people living with HIV/AIDS in São Paulo. [^brenda] Flight attendants brought medication from the United States to Brazil when many people could not access expensive medications like AZT, one of the first drugs approved for the treatment of the disease. The 1996 law later made Brazil known for one of the most important public health responses to HIV/AIDS in the world.  However, the Brazilian state did not achieve this alone. Earlier, activists, queer communities, and people living with HIV helped each other survive the epidemic and pressured the state to take immediate action. [^varig]
 
 
 {% include scrollybox/bg.html
@@ -240,6 +240,8 @@ In cunclusion...
 
   - Newspaper *Última Hora*. “O estilista Markito: uma vítima do ‘câncer gay’.” Reproduced by Agência Senado from the Biblioteca Nacional Digital. Accessed May 1, 2026. https://www12.senado.leg.br/noticias/especiais/arquivo-s/aids-chegou-ao-brasil-ha-40-anos-e-trouxe-terror-preconceito-e-desinformacao
 
+  - TV Brasil, Caminhos da Reportagem, ‘Era uma vez… Brenda Lee!,’ YouTube video, June 9, 2024, https://www.youtube.com/watch?v=CdVwKJWUJ5w
+
 
 
  # Secondary Sources
@@ -269,7 +271,9 @@ In cunclusion...
 
  [^law1988]: Brazil, Law No. 7,670, September 8, 1988 (Lei nº 7.670, de 8 de setembro de 1988), granting benefits to people living with HIV/AIDS, Câmara dos Deputados. Brazil, Law No. 8,080, September 19, 1990 (Lei nº 8.080, de 19 de setembro de 1990), known as the Organic Health Law (Lei Orgânica da Saúde), establishing the Unified Health System (SUS) and recognizing healthcare as a universal right.
 
- [^varig]:Leandro Machado, “The Varig Flight Attendants Who ‘Smuggled’ Medication to Help AIDS Patients” (Os comissários da Varig que ‘contrabandeavam’ remédios para ajudar pacientes com Aids), BBC News Brasil, February 8, 2020. https://www.bbc.com/portuguese/brasil-51199929 Interview with former flight attendants Mario Augusto dos Santos Filho and Alexandre Santos Silva. Silva explained that he retired because of disability using the legal rights guaranteed under Brazil’s 1988 Constitution for people living with HIV/AIDS.
+ [^varig]: Leandro Machado, “The Varig Flight Attendants Who ‘Smuggled’ Medication to Help AIDS Patients” (Os comissários da Varig que ‘contrabandeavam’ remédios para ajudar pacientes com Aids), BBC News Brasil, February 8, 2020. https://www.bbc.com/portuguese/brasil-51199929 Interview with former flight attendants Mario Augusto dos Santos Filho and Alexandre Santos Silva. Silva explained that he retired because of disability using the legal rights guaranteed under Brazil’s 1988 Constitution for people living with HIV/AIDS.
+
+ [^brenda]: TV Brasil, Caminhos da Reportagem, ‘Era uma vez… Brenda Lee!,’ YouTube video, June 9, 2024, https://www.youtube.com/watch?v=CdVwKJWUJ5w Featuring statements by Brenda Lee and images of the Palácio das Princesas, her shelter from trans people living with HIV was founded in 1982 in São Paulo.
 
 
 
