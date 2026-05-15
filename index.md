@@ -39,7 +39,7 @@ In the 1980s, fear and misinformation spread across Brazilian society as the HIV
   position="top"
   image-path="/assets/images/telegrama.png"
   above-box-space = "100vh"
-  box-content=' One stated reason for building a men-only dorm is that Hokona Hall could be freed up to be used as a women-only dorm, where they would have supervision "of the best sort".'
+  box-content=' blabla blabla.'
 %}
 
 {% assign images =
