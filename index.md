@@ -227,7 +227,7 @@ In cunclusion...
 
  [^senado]: Annals of the National Constituent Assembly (Anais da Assembleia Nacional Constituinte), vol. 11 Brasília: Senado Federal,1987,363. 
 
- [^ongbook]: Image from the 4th National Meeting of People Living with HIV and AIDS (1994), reproduced on the website of Grupo Pela VIDDA Rio de Janeiro,, accessed April 15, 2026, https://pelavidda.org.br/vivendo.html In picture 2, the 4th National Meeting of People Living with HIV and AIDS, hosted in Brazil during 1996, illustrates how to organize activists, patients, and advocacy networks around treatment access and citizenship rights from the 1990s. Reproduced on the website of Grupo Pela VIDDA Rio de Janeiro, an NGO supported by Associação Brasileira Interdisciplinar de AIDS (ABIA).
+ [^ongbook]: Picture 2 is from the 4th National Meeting of People Living with HIV and AIDS (1994), reproduced on the website of Grupo Pela VIDDA Rio de Janeiro,, accessed April 15, 2026, https://pelavidda.org.br/vivendo.html In picture 2, the 4th National Meeting of People Living with HIV and AIDS, hosted in Brazil during 1996, illustrates how to organize activists, patients, and advocacy networks around treatment access and citizenship rights from the 1990s. Reproduced on the website of Grupo Pela VIDDA Rio de Janeiro, an NGO supported by Associação Brasileira Interdisciplinar de AIDS (ABIA).
 
  
  Anderson, Mark J. ***Virtual Heritage: Designing Immersive Experiences for Public History***. Tucson: Sonoran Desert Press, 2019.
@@ -241,7 +241,7 @@ In cunclusion...
 
 - Annals of the National Constituent Assembly (Anais da Assembleia Nacional Constituinte). Vol. 11. Brasília: Senado Federal, 1987. https://www.senado.leg.br/publicacoes/anais/constituinte/N011.pdf
 
-- Hwang, Daniel, and Lisa Moreno. “Reconstructing Place: Photogrammetry and 3D Modeling for Local History Museums.” In *Digital Heritage and the Public*, edited by S. Karim and A. Velasquez, 112–134. Austin: Western Humanities Collaborative, 2023.
+- ‘4th National Meeting of People Living with HIV and AIDS’ Reproduced on the website of NGO *Grupo Pela VIDDA* 1994. https://pelavidda.org.br/vivendo.html
 
 - Johnson, Lauren, and Emily Carter. “Metadata for the People: Participatory Cataloging in Community Archives.” *Archivaria* 92 (2021): 77–101.
 
