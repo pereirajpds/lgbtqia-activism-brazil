@@ -223,11 +223,11 @@ In cunclusion...
 
 # Bibliography
 
- [^jornais]: Fundação Oswaldo Cruz (Fiocruz), “A Epidemia da Aids Através do Tempo,” in O Vírus da Aids, 20 anos depois, accessed May 15, 2026,  https://www.ioc.fiocruz.br/en/aids20anos/linhadotempo.htmlThe timeline reproduces 1983 newspaper Notícias Populares’ language such as "gay plague” and “câncer gay” and references the stigmatizing discourse surrounding the early AIDS crisis in Brazil. This paper reports the first cases of HIV/AIDS in Brazil.
+ [^jornais]: Fundação Oswaldo Cruz (Fiocruz), “A Epidemia da Aids Através do Tempo,” in O Vírus da Aids, 20 anos depois, accessed May 15, 2026,https://www.ioc.fiocruz.br/en/aids20anos/linhadotempo.htmlThe timeline reproduces 1983 newspaper Notícias Populares’ language such as "gay plague” and “câncer gay” and references the stigmatizing discourse surrounding the early AIDS crisis in Brazil. This paper reports the first cases of HIV/AIDS in Brazil.
 
  [^markito]: Biblioteca Nacional Digital, reproduced by Agência Senado, O estilista Markito: segundo o jornal Última Hora, uma vítima do ‘câncer gay.’early 1980s.https://www12.senado.leg.br/noticias/especiais/arquivo-s/aids-chegou-ao-brasil-ha-40-anos-e-trouxe-terror-preconceito-e-desinformacaoFashion According to the Newspaper Última Hora, a Victim of the ‘Gay Cancer.’ The newspaper reported that the famous Brazilian fashion designer Markito, who lived in New York, died from HIV/AIDS-related complications in the United States and that his body was being returned to Brazil. Markito's death was one of the first widely publicized cases of a Brazilian public figure.
 
- [^senado]: Annals of the National Constituent Assembly (Anais da Assembleia Nacional Constituinte), vol. 11 (Brasília: Senado Federal, 1987), 363. 
+ [^senado]: Annals of the National Constituent Assembly (Anais da Assembleia Nacional Constituinte), vol. 11 Brasília: Senado Federal,1987,363. 
 
  
  Anderson, Mark J. ***Virtual Heritage: Designing Immersive Experiences for Public History***. Tucson: Sonoran Desert Press, 2019.
@@ -240,8 +240,6 @@ In cunclusion...
 - Newspaper *Última Hora*. “O estilista Markito: uma vítima do ‘câncer gay’.” Reproduced by Agência Senado from the Biblioteca Nacional Digital. Accessed May 1, 2026. https://www12.senado.leg.br/noticias/especiais/arquivo-s/aids-chegou-ao-brasil-ha-40-anos-e-trouxe-terror-preconceito-e-desinformacao
 
 - Annals of the National Constituent Assembly (Anais da Assembleia Nacional Constituinte). Vol. 11. Brasília: Senado Federal, 1987. https://www.senado.leg.br/publicacoes/anais/constituinte/N011.pdf
-
-- ‘4th National Meeting of People Living with HIV and AIDS’ Reproduced on the website of NGO *Pela VIDDA* Rio de Janeiro. 1994. https://pelavidda.org.br/vivendo.html
 
 - Hwang, Daniel, and Lisa Moreno. “Reconstructing Place: Photogrammetry and 3D Modeling for Local History Museums.” In *Digital Heritage and the Public*, edited by S. Karim and A. Velasquez, 112–134. Austin: Western Humanities Collaborative, 2023.
 
