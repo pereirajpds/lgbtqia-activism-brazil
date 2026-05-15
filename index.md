@@ -9,7 +9,7 @@ header-position: center
 
 {% include images/figure.html
   image-path="/assets/images/backgrounds/peste.jpg"
-  caption="***Figure1:*** Newspaper *Notícias Populares*,1983. Title,The worst and most terrible disease of the century. Two Brazilians dead.‘Gay Plague’ already terrifies São Paulo. https://www.ioc.fiocruz.br/en/aids20anos/linhadotempo.html"
+  caption="***Figure1:***, The worst and most terrible disease of the century. Two Brazilians dead.‘Gay Plague’ already terrifies São Paulo. Newspaper *Notícias Populares*,1983."
   alt-text="Hiking trail through a canyon in the Sandia foothills."
   class="right"
   width="35%"
