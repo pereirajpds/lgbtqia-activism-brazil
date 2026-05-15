@@ -27,7 +27,7 @@ In the 1980s, fear and misinformation spread across Brazilian society as the HIV
   text="firstimage"
 %}
 
- The HIV/AIDS crisis of the 1980s and 1990s coincided with Brazil’s period of redemocratization (1979-1985). This period marked a transition from dictatorship to democracy. Brazil was ending more than twenty years of military dictatorship (1964–1985). Political exiles and human rights activists returned to Brazil after years abroad. Social movements such as Black, queer, and feminist ones emerged.[^alvarez] Politicians and social movements debated a new constitution to include labor rights, non-discrimination policies, and free public health as a constitutional right. This political transition shaped Brazil’s response to HIV/AIDS from the 1980s to the 1990s.
+ The HIV/AIDS crisis of the 1980s and 1990s coincided with Brazil’s period of redemocratization (1979-1985). This period marked a transition from dictatorship to democracy. Brazil was ending more than twenty years of military dictatorship (1964–1985). Political exiles and human rights activists returned to Brazil after years abroad. Social movements such as Black, queer, and feminist ones emerged.[^alvarez] Politicians and social movements debated a new constitution to include labor rights, non-discrimination policies, and free public health as a constitutional right. This political transition shaped Brazil’s response to HIV/AIDS from the 1980s to the 1990s.[^jane]
 
  Most of you are familiar with the United States' response to HIV/AIDS. Under President Ronald Reagan, the federal government responded slowly to the demands of non-governmental organizations (NGOs), while many people in the US depended on private insurance for treatment. Brazil followed a different path. The Brazilian state worked with NGOs and activists. Together, they created national campaigns to challenge the idea that HIV/AIDS only affected gay men. Activists and politicians also contributed to legal rights such as retirement benefits for people living with HIV. In 1988, Brazil’s new constitution recognized healthcare as a right rather than a private service, expanding the treatment for poor people with HIV/AIDS.
 
@@ -232,6 +232,8 @@ In cunclusion...
 
  [^alvarez]: Sonia E. Alvarez and Arturo Escobar. *The Making of Social Movements in Latin America : Identity, Strategy, and Democracy*. (Westview Press, 1992): 10-13, 58-59, 171-172, 185-188, 208, 213, 291-292.
 
+  [^jane]: Jane Galvão, *AIDS No Brasil : A Agenda de Construção de Uma Epidemia*. (Rio de Janeiro : ABIA Press 2000): 13-18, 20-21, 27-29.
+
  
  Anderson, Mark J. ***Virtual Heritage: Designing Immersive Experiences for Public History***. Tucson: Sonoran Desert Press, 2019.
  [^telegrama]: Pela Vidda Telegrama.
@@ -259,4 +261,6 @@ In cunclusion...
 ## Secondary Sources
 
 - Alvarez, Sonia E. and Arturo Escobar. *The Making of Social Movements in Latin America : Identity, Strategy, and Democracy*. Westview Press, 1992.
+
+
 
