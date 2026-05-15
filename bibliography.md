@@ -5,7 +5,7 @@ layout: base
 
 # Bibliography
 
-# Primary Sources
+  Primary Sources
 
   - ABIA (Associação Brasileira Interdisciplinar de AIDS). Solidariedade em Rede (Solidarity in Network). Pamphlet. 1989. Reproduced in Richard Parker, “Sobre a História da ABIA.” Accessed March 15, 2026. https://abiaids.org.br/wp-content/uploads/2019/03/6-Parker-Sobre-a-histo%CC%81ria-da-ABIA-2.pdf
 
@@ -27,7 +27,7 @@ layout: base
 
   - TV Brasil, Caminhos da Reportagem, ‘Era uma vez… Brenda Lee!,’ YouTube video, June 9, 2024, https://www.youtube.com/watch?v=CdVwKJWUJ5w
 
- # Secondary Sources
+  Secondary Sources
 
   - Alvarez, Sonia E. and Arturo Escobar. *The Making of Social Movements in Latin America : Identity, Strategy, and Democracy*. Westview Press, 1992.
 
