@@ -230,6 +230,8 @@ In cunclusion...
 
  [^ongbook]: Picture 2 is from the 4th National Meeting of People Living with HIV and AIDS (1994), reproduced on the website of Grupo Pela VIDDA Rio de Janeiro,, accessed April 15, 2026, https://pelavidda.org.br/vivendo.html In picture 2, the 4th National Meeting of People Living with HIV and AIDS, hosted in Brazil during 1996, illustrates how to organize activists, patients, and advocacy networks around treatment access and citizenship rights from the 1990s. Reproduced on the website of Grupo Pela VIDDA Rio de Janeiro, an NGO supported by Associação Brasileira Interdisciplinar de AIDS (ABIA).
 
+ [^alvarez]: Sonia E. Alvarez and Arturo Escobar. *The Making of Social Movements in Latin America : Identity, Strategy, and Democracy*. (Westview Press, 1992): 10-13, 58-59, 171-172, 185-188, 208, 213, 291-292.
+
  
  Anderson, Mark J. ***Virtual Heritage: Designing Immersive Experiences for Public History***. Tucson: Sonoran Desert Press, 2019.
  [^telegrama]: Pela Vidda Telegrama.
@@ -256,5 +258,5 @@ In cunclusion...
 
 ## Secondary Sources
 
-- [^alvarez]: Alvarez, Sonia E. and Arturo Escobar. *The Making of Social Movements in Latin America : Identity, Strategy, and Democracy*. (Westview Press, 1992): 10-13, 58-59, 171-172, 185-188, 208, 213, 291-292.
+- Alvarez, Sonia E. and Arturo Escobar. *The Making of Social Movements in Latin America : Identity, Strategy, and Democracy*. Westview Press, 1992.
 
