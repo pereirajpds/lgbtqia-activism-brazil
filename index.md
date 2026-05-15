@@ -224,16 +224,17 @@ In cunclusion...
 # Bibliography
 
  [^jornais]: Fundação Oswaldo Cruz (Fiocruz), “A Epidemia da Aids Através do Tempo,” in O Vírus da Aids, 20 anos depois, accessed May 15, 2026,  https://www.ioc.fiocruz.br/en/aids20anos/linhadotempo.htmlThe timeline reproduces 1983 newspaper Notícias Populares’ language such as "gay plague” and “câncer gay” and references the stigmatizing discourse surrounding the early AIDS crisis in Brazil. This paper reports the first cases of HIV/AIDS in Brazil. 
-[^markito]:Biblioteca Nacional Digital, reproduced by Agência Senado, “O estilista Markito: segundo o jornal Última Hora, uma vítima do ‘câncer gay’,” early 1980s.https://www12.senado.leg.br/noticias/especiais/arquivo-s/aids-chegou-ao-brasil-ha-40-anos-e-trouxe-terror-preconceito-e-desinformacaoFashion Designer Markito: According to the Newspaper Última Hora, a Victim of the ‘Gay Cancer.’ The newspaper reported that the famous Brazilian fashion designer Markito, who lived in New York, died from HIV/AIDS-related complications in the United States and that his body was being returned to Brazil. Markito's death was one of the first widely publicized cases of a Brazilian public figure.
+
+[^markito]:Biblioteca Nacional Digital, reproduced by Agência Senado, “O estilista Markito: segundo o jornal Última Hora, uma vítima do ‘câncer gay’,” early 1980s.https://www12.senado.leg.br/noticias/especiais/arquivo-s/aids-chegou-ao-brasil-ha-40-anos-e-trouxe-terror-preconceito-e-desinformacaoFashion According to the Newspaper Última Hora, a Victim of the ‘Gay Cancer.’ The newspaper reported that the famous Brazilian fashion designer Markito, who lived in New York, died from HIV/AIDS-related complications in the United States and that his body was being returned to Brazil. Markito's death was one of the first widely publicized cases of a Brazilian public figure.
 
 
  Anderson, Mark J. ***Virtual Heritage: Designing Immersive Experiences for Public History***. Tucson: Sonoran Desert Press, 2019.
  [^telegrama]: Pela Vidda Telegrama.
 
-
 ## Primary Sources
 
 - Anderson, Mark J. ***Virtual Heritage: Designing Immersive Experiences for Public History***. Tucson: Sonoran Desert Press, 2019.
+
 - Appler, Jane, and Robert L. DeLeon. “Community Archives and Borderlands Memory Work: Rethinking Participation in the Digital Age.” *Public History Quarterly* 47, no. 3 (2021): 233–259.
 
 - Castillo, Elena. “Mapping Migration: GIS as a Tool for Storytelling in the U.S. Southwest.” *Journal of Digital Humanities Methods* 8, no. 1 (2020): 15–34.
