@@ -256,5 +256,5 @@ In cunclusion...
 
 ## Secondary Sources
 
-- [^alvarez]: Alvarez, Sonia E. and Arturo Escobar. *The Making of Social Movements in Latin America : Identity, Strategy, and Democracy*. Westview Press, 1992.
+- [^alvarez]: Alvarez, Sonia E. and Arturo Escobar. *The Making of Social Movements in Latin America : Identity, Strategy, and Democracy*. (Westview Press, 1992): 10-13, 58-59, 171-172, 185-188, 208, 213, 291-292.
 
