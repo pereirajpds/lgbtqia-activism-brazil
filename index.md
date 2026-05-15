@@ -246,33 +246,33 @@ In cunclusion...
 
  # Bibliography
 
-## Primary Sources
+ ## Primary Sources
 
-- Newspaper *Notícias Populares*. 1983, in Fundação Oswaldo Cruz (Fiocruz), O Vírus da Aids, 20 anos depois. Accessed May 1, 2026. https://www.ioc.fiocruz.br/en/aids20anos/linhadotempo.html
+ - Newspaper *Notícias Populares*. 1983, in Fundação Oswaldo Cruz (Fiocruz), O Vírus da Aids, 20 anos depois. Accessed May 1, 2026. https://www.ioc.fiocruz.br/en/aids20anos/linhadotempo.html
 
-- Newspaper *Última Hora*. “O estilista Markito: uma vítima do ‘câncer gay’.” Reproduced by Agência Senado from the Biblioteca Nacional Digital. Accessed May 1, 2026. https://www12.senado.leg.br/noticias/especiais/arquivo-s/aids-chegou-ao-brasil-ha-40-anos-e-trouxe-terror-preconceito-e-desinformacao
+  - Newspaper *Última Hora*. “O estilista Markito: uma vítima do ‘câncer gay’.” Reproduced by Agência Senado from the Biblioteca Nacional Digital. Accessed May 1, 2026. https://www12.senado.leg.br/noticias/especiais/arquivo-s/aids-chegou-ao-brasil-ha-40-anos-e-trouxe-terror-preconceito-e-desinformacao
 
-- Annals of the National Constituent Assembly (Anais da Assembleia Nacional Constituinte). Vol. 11. Brasília: Senado Federal, 1987. https://www.senado.leg.br/publicacoes/anais/constituinte/N011.pdf
+ - Annals of the National Constituent Assembly (Anais da Assembleia Nacional Constituinte). Vol. 11. Brasília: Senado Federal, 1987. https://www.senado.leg.br/publicacoes/anais/constituinte/N011.pdf
 
-- ‘4th National Meeting of People Living with HIV and AIDS’ in the website of NGO *Grupo Pela VIDDA* 1994. https://pelavidda.org.br/vivendo.html
+ - ‘4th National Meeting of People Living with HIV and AIDS’ in the website of NGO *Grupo Pela VIDDA* 1994. https://pelavidda.org.br/vivendo.html
 
-- Johnson, Lauren, and Emily Carter. “Metadata for the People: Participatory Cataloging in Community Archives.” *Archivaria* 92 (2021): 77–101.
+ - Johnson, Lauren, and Emily Carter. “Metadata for the People: Participatory Cataloging in Community Archives.” *Archivaria* 92 (2021): 77–101.
 
-- Kiser, Thomas W. ***Humanistic Computing: Ethical Design for the Digital Humanities***. Chicago: Lakeshore Academic Press, 2018.
+ - Kiser, Thomas W. ***Humanistic Computing: Ethical Design for the Digital Humanities***. Chicago: Lakeshore Academic Press, 2018.
 
-- Moreno, Pilar. “Digitizing Memory: Oral Histories and the Politics of Representation in the Southwest.” *American Studies Review* 65, no. 4 (2020): 421–440.
+ - Moreno, Pilar. “Digitizing Memory: Oral Histories and the Politics of Representation in the Southwest.” *American Studies Review* 65, no. 4 (2020): 421–440.
 
-- Rogers, Matthew, and Cynthia Lee. “Pedagogy in the Virtual Museum: Digital Literacy for History Students.” *Teaching History with Technology* 14, no. 2 (2022): 55–73.
+ - Rogers, Matthew, and Cynthia Lee. “Pedagogy in the Virtual Museum: Digital Literacy for History Students.” *Teaching History with Technology* 14, no. 2 (2022): 55–73.
 
-- Tran, Michael, and Hannah Ruiz. ***Borderlands Data: Methods for Visualizing Regional History***. Santa Fe: Southwest Humanities Institute Publications, 2021.
+  - Tran, Michael, and Hannah Ruiz. ***Borderlands Data: Methods for Visualizing Regional History***. Santa Fe: Southwest Humanities Institute Publications, 2021.
 
-## Secondary Sources
+ ## Secondary Sources
 
-- Alvarez, Sonia E. and Arturo Escobar. *The Making of Social Movements in Latin America : Identity, Strategy, and Democracy*. Westview Press, 1992.
+ - Alvarez, Sonia E. and Arturo Escobar. *The Making of Social Movements in Latin America : Identity, Strategy, and Democracy*. Westview Press, 1992.
 
-- Galvão, Jane. *AIDS No Brasil : A Agenda de Construção de Uma Epidemia*. ABIA Press, 2000.
+ - Galvão, Jane. *AIDS No Brasil : A Agenda de Construção de Uma Epidemia*. ABIA Press, 2000.
 
-- Royles, Dan. *To Make the Wounded Whole: The African American Struggle Against HIV/AIDS.* University of North Carolina Press, 2020.
+ - Royles, Dan. *To Make the Wounded Whole: The African American Struggle Against HIV/AIDS.* University of North Carolina Press, 2020.
 
 
 
