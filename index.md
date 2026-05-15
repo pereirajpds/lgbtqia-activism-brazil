@@ -220,7 +220,7 @@ In cunclusion...
 
 ## EXTRA
 
-# Bibliography
+# Footnotes
 
  [^jornais]: Fundação Oswaldo Cruz (Fiocruz), “A Epidemia da Aids Através do Tempo,” in O Vírus da Aids, 20 anos depois, accessed May 15, 2026,https://www.ioc.fiocruz.br/en/aids20anos/linhadotempo.htmlThe timeline reproduces 1983 newspaper Notícias Populares’ language such as "gay plague” and “câncer gay” and references the stigmatizing discourse surrounding the early AIDS crisis in Brazil. This paper reports the first cases of HIV/AIDS in Brazil.
 
@@ -243,6 +243,8 @@ In cunclusion...
  
  Anderson, Mark J. ***Virtual Heritage: Designing Immersive Experiences for Public History***. Tucson: Sonoran Desert Press, 2019.
  [^telegrama]: Pela Vidda Telegrama.
+
+ # Bibliography
 
 ## Primary Sources
 
