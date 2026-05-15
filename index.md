@@ -235,9 +235,9 @@ In cunclusion...
 
 ## Primary Sources
 
-- Notícias Populares. 1983, in Fundação Oswaldo Cruz (Fiocruz), O Vírus da Aids, 20 anos depois. Accessed May 1, 2026. https://www.ioc.fiocruz.br/en/aids20anos/linhadotempo.html
+- Newspaper *Notícias Populares*. 1983, in Fundação Oswaldo Cruz (Fiocruz), O Vírus da Aids, 20 anos depois. Accessed May 1, 2026. https://www.ioc.fiocruz.br/en/aids20anos/linhadotempo.html
 
-- Última Hora. “O estilista Markito: uma vítima do ‘câncer gay’.” Reproduced by Agência Senado from the Biblioteca Nacional Digital. Accessed May 1, 2026. https://www12.senado.leg.br/noticias/especiais/arquivo-s/aids-chegou-ao-brasil-ha-40-anos-e-trouxe-terror-preconceito-e-desinformacao
+- Newspaper *Última Hora*. “O estilista Markito: uma vítima do ‘câncer gay’.” Reproduced by Agência Senado from the Biblioteca Nacional Digital. Accessed May 1, 2026. https://www12.senado.leg.br/noticias/especiais/arquivo-s/aids-chegou-ao-brasil-ha-40-anos-e-trouxe-terror-preconceito-e-desinformacao
 
 - Annals of the National Constituent Assembly (Anais da Assembleia Nacional Constituinte). Vol. 11. Brasília: Senado Federal, 1987. https://www.senado.leg.br/publicacoes/anais/constituinte/N011.pdf
 
