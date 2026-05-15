@@ -29,8 +29,6 @@ In the 1980s, fear and misinformation spread across Brazilian society as the HIV
   text="firstimage"
 %}
 
-The HIV/AIDS crisis of the 1980s and 1990s coincided with Brazil’s period of redemocratization (1979-1985). This period marked a transition from dictatorship to democracy. Brazil was ending more than twenty years of military dictatorship (1964–1985). Political exiles and human rights activists returned to Brazil after years abroad. Social movements such as Black, queer, and feminist ones emerged. Politicians and social movements debated a new constitution to include labor rights, non-discrimination policies, and free public health as a constitutional right. This political transition shaped Brazil’s response to HIV/AIDS from the 1980s to the 1990s.[^anderson2019]
-
 Most of you are familiar with the United States' response to HIV/AIDS. Under President Ronald Reagan, the federal government responded slowly to the demands of non-governmental organizations (NGOs), while many people in the US depended on private insurance for treatment. Brazil followed a different path. The Brazilian state worked with NGOs and activists. Together, they created national campaigns to challenge the idea that HIV/AIDS only affected gay men. Activists and politicians also contributed to legal rights such as retirement benefits for people living with HIV. In 1988, Brazil’s new constitution recognized healthcare as a right rather than a private service, expanding the treatment for poor people with HIV/AIDS. [^anderson2019]
 
 {% include scrollybox/bg.html
@@ -228,6 +226,8 @@ In cunclusion...
  [^markito]: Biblioteca Nacional Digital, reproduced by Agência Senado, O estilista Markito: segundo o jornal Última Hora, uma vítima do ‘câncer gay.’early 1980s.https://www12.senado.leg.br/noticias/especiais/arquivo-s/aids-chegou-ao-brasil-ha-40-anos-e-trouxe-terror-preconceito-e-desinformacaoFashion According to the Newspaper Última Hora, a Victim of the ‘Gay Cancer.’ The newspaper reported that the famous Brazilian fashion designer Markito, who lived in New York, died from HIV/AIDS-related complications in the United States and that his body was being returned to Brazil. Markito's death was one of the first widely publicized cases of a Brazilian public figure.
 
  [^senado]: Annals of the National Constituent Assembly (Anais da Assembleia Nacional Constituinte), vol. 11 Brasília: Senado Federal,1987,363. 
+
+ [^ongbook]: Image from the 4th National Meeting of People Living with HIV and AIDS (1994), reproduced on the website of Grupo Pela VIDDA Rio de Janeiro,, accessed April 15, 2026, https://pelavidda.org.br/vivendo.html In picture 2, the 4th National Meeting of People Living with HIV and AIDS, hosted in Brazil during 1996, illustrates how to organize activists, patients, and advocacy networks around treatment access and citizenship rights from the 1990s. Reproduced on the website of Grupo Pela VIDDA Rio de Janeiro, an NGO supported by Associação Brasileira Interdisciplinar de AIDS (ABIA).
 
  
  Anderson, Mark J. ***Virtual Heritage: Designing Immersive Experiences for Public History***. Tucson: Sonoran Desert Press, 2019.
