@@ -241,7 +241,7 @@ In cunclusion...
 
 - Annals of the National Constituent Assembly (Anais da Assembleia Nacional Constituinte). Vol. 11. Brasília: Senado Federal, 1987. https://www.senado.leg.br/publicacoes/anais/constituinte/N011.pdf
 
-- ‘4th National Meeting of People Living with HIV and AIDS’ Reproduced on the website of NGO *Grupo Pela VIDDA* 1994. https://pelavidda.org.br/vivendo.html
+- ‘4th National Meeting of People Living with HIV and AIDS’ in the website of NGO *Grupo Pela VIDDA* 1994. https://pelavidda.org.br/vivendo.html
 
 - Johnson, Lauren, and Emily Carter. “Metadata for the People: Participatory Cataloging in Community Archives.” *Archivaria* 92 (2021): 77–101.
 
