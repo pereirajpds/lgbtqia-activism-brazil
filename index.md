@@ -76,6 +76,9 @@ header-position: center
 
 ## ABIA, Queer Activism and the State Response to HIV/AIDS Crisis
 
+## The 1996 Law and Legal Rights to People Living with HIV
+
+## Conclusion
 
 
 
