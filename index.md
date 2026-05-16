@@ -281,6 +281,8 @@ In cunclusion...
 
   - Brazil. Law No. 9,313, November 13, 1996. https://www.planalto.gov.br/ccivil_03/leis/l9313.htm
 
+  - CARTA para Além dos Muros. Directed by André Canto. Brazil: Sendero Filmes, 2019. Documentary. YouTube video, 1:32:03. Posted by “Rinnesuke Hashiki.” Accessed March 15, 2026. https://www.youtube.com/watch?v=LULBaeqz2Zs&t=5221s
+
   - ‘4th National Meeting of People Living with HIV and AIDS’ in the website of NGO *Grupo Pela VIDDA* 1994. https://pelavidda.org.br/vivendo.html
 
   - Machado, Leandro. “The Varig Flight Attendants Who ‘Smuggled’ Medication to Help AIDS Patients” (Os comissários da Varig que ‘contrabandeavam’ remédios para ajudar pacientes com Aids). BBC News Brasil. February 8, 2020. https://www.bbc.com/portuguese/brasil-51199929
