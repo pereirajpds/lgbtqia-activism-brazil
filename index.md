@@ -93,22 +93,20 @@ This image has a caption, but no title|
   captions=captions
 %}
 
-
-
-
-
-
-
-
-
-
-
-
 ## ABIA, Queer Activism and the State Response to HIV/AIDS Crisis
 
 ## The 1996 Law and Legal Rights to People Living with HIV
 
 ## Conclusion
+
+{% include images/figure.html
+  image-path="/assets/images/backgrounds/herbet.png"
+  caption="***Figure4:*** Herbert José de Sousa, Betinho (1935-1997). Comitê Betinho 2023."
+  alt-text="Hiking trail through a canyon in the Sandia foothills."
+  class="right"
+  width="45%"
+  text="firstimage"
+%}
 
 
 
