@@ -59,7 +59,7 @@ header-position: center
 
   The first officially recognized AIDS cases in Brazil appeared in 1983. Newspapers quickly connected the disease to sexuality. Headlines described the “gay plague” arriving in São Paulo and terrifying the city. [^jornais] Like in the United States, many people treated HIV/AIDS not only as a medical crisis but also as a discrimination issue. [^dan2]
 
-  Many Brazilians believed HIV affected only gay men, drug users, sex workers, transgender people, or foreigners. Groups already targeted by discrimination also faced violence during the epidemic. In 1984, the newspaper O Dia reported that men shot and killed trans women because they associated them with AIDS. In 1987, the newspaper O Estado used the term “aidéticos,” a stigmatizing label for people living with AIDS, and claimed that drug users, including women, intentionally shared syringes to spread the virus to others.
+  Many Brazilians believed HIV affected only gay men, drug users, sex workers, transgender people, or foreigners. Groups already targeted by discrimination also faced violence during the epidemic. In 1984, the newspaper O Dia reported that men shot and killed trans women because they associated them with AIDS. In 1987, the newspaper O Estado published the headline 'People with AIDS Make a Death Pact and Spread the Virus in Santa Catarina.' The newspaper placed on its front page the image of a woman accused of spreading HIV and described her as an “aidética,” a stigmatizing term used for people living with AIDS. The caption also claimed she intentionally shared syringes while using cocaine at a private party.[^flo]
 
   Politicians also showed confusion and prejudice. During debates connected to Brazil’s 1988 Constitution, Congressman and physician Raimundo Bezerra claimed that mosquitoes could spread HIV. Other members of Congress repeated misinformation about the disease or described AIDS as a consequence of “immorality.” Some politicians even described AIDS as a punishment for “sin” and criticized government condom campaigns because they believed these campaigns encouraged homosexuality and sexual freedom. [^ag] Public fear increased because scientific information remained limited. Hospitals lacked preparation to receive growing numbers of patients, and many doctors had little training about HIV transmission and treatment. [^cartas] Some families abandoned relatives diagnosed with AIDS, especially transgender people. [^brenda]
 
@@ -289,9 +289,11 @@ In cunclusion...
 
   - Memória da Homossexualidade Brasileira. *Tríplice conexão: machismo, homofobia e aids (Triple Connection: Machismo, Homophobia, and AIDS)*. Memória da Homossexualidade Brasileira. December 2010. https://memoriamhb.blogspot.com/2010/12/triplice-conexao-machismo.html
 
-  - Newspaper *Notícias Populares*. 1983, in Fundação Oswaldo Cruz (Fiocruz), O Vírus da Aids, 20 anos depois. Accessed May 1, 2026. https://www.ioc.fiocruz.br/en/aids20anos/linhadotempo.html
+  - *Notícias Populares*. 1983, in Fundação Oswaldo Cruz (Fiocruz), O Vírus da Aids, 20 anos depois.Newspaper. Accessed May 1, 2026. https://www.ioc.fiocruz.br/en/aids20anos/linhadotempo.html
 
-  - Newspaper *Última Hora*. “O estilista Markito: uma vítima do ‘câncer gay’.” Reproduced by Agência Senado from the Biblioteca Nacional Digital. Accessed May 1, 2026. https://www12.senado.leg.br/noticias/especiais/arquivo-s/aids-chegou-ao-brasil-ha-40-anos-e-trouxe-terror-preconceito-e-desinformacao
+  - *Última Hora*. “O estilista Markito: uma vítima do ‘câncer gay’. Newspaper. Reproduced by Agência Senado from the Biblioteca Nacional Digital. Accessed May 1, 2026. https://www12.senado.leg.br/noticias/especiais/arquivo-s/aids-chegou-ao-brasil-ha-40-anos-e-trouxe-terror-preconceito-e-desinformacao
+  
+  - *O Estado (Florianópolis)*, v. 73,  no 2218.  October 21, 1987, Newspaper, reproduced in Graziele Regina de Amorim, Outsiders do bairro Trindade: “Pacto da morte” ou “Gangue da Aids”? Para além da construção de um episódio (Florianópolis 1987) (“Outsiders from the Trindade Neighborhood: ‘Death Pact’ or ‘AIDS Gang’? Beyond the Construction of an Episode [Florianópolis, 1987]”), master’s thesis, Universidade Federal de Santa Catarina, 2009, 175. https://repositorio.ufsc.br/handle/123456789/93082
   
   - *Pela VIDDA* . Telegram from Raldo Bonifácio Costa Filho, president of NGO Grupo Pela VIDDA from Niterói, Rio de Janeiro, to President of Brazil Fernando Henrique Cardoso. September 18, 1995. Instituto Fernando Henrique Cardoso Archive. http://acervo.ifhc.org.br/?linkId=90
 
@@ -347,6 +349,11 @@ In cunclusion...
   [^ag1]: Agência Senado, “Aids chegou ao Brasil há 40 anos e trouxe terror, preconceito e desinformação” (“AIDS Arrived in Brazil 40 Years Ago and Brought Terror, Prejudice, and Misinformation”), Agência Senado, 2023.https://www12.senado.leg.br/noticias/especiais/arquivo-s/aids-chegou-ao-brasil-ha-40-anos-e-trouxe-terror-preconceito-e-desinformacao This file includes a photograph of the cover of Lampião da Esquina, year 2, issue no. 20 (1980). 
   
   [^br2]: Brasil. Ministério da Saúde. Secretaria de Vigilância em Saúde e Ambiente. Departamento de HIV, AIDS, Tuberculose, Hepatites Virais e Infecções Sexualmente Transmissíveis, Histórias da Aids no Brasil: 1983–2003 (Histories of AIDS in Brazil: 1983–2003), 2nd ed., 2 vols. (Brasília: Ministério da Saúde, 2025): 19-20. https://bvsms.saude.gov.br/bvs/publicacoes/historias_aids_Brasil_v2.pdf Brazil’s Ministry of Health produced this publication to document the history of HIV/AIDS. Memória da Homossexualidade Brasileira,'Tríplice conexão: machismo, homofobia e aids' (Triple Connection: Machismo, Homophobia, and AIDS), Memória da Homossexualidade Brasileira, December 2010, https://memoriamhb.blogspot.com/2010/12/triplice-conexao-machismo.html The article contains João Antônio Mascarenhas’s personal accounts about his participation in Brazil’s Constituent Assembly debates during the 1980s.
+  
+  [^flo]: O Estado (Florianópolis), 73, no. 2218, October 21, 1987, Newspaper, reproduced in Graziele Regina de Amorim, Outsiders do bairro Trindade: “Pacto da morte” ou “Gangue da Aids”? Para além da construção de um episódio (Florianópolis 1987) (“Outsiders from the Trindade Neighborhood: ‘Death Pact’ or ‘AIDS Gang’? Beyond the Construction of an Episode [Florianópolis, 1987]”), master’s thesis, Universidade Federal de Santa Catarina, 2009, 175.https://repositorio.ufsc.br/handle/123456789/93082 
+
+
+
 
 
 
