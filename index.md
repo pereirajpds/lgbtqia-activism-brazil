@@ -67,6 +67,10 @@ header-position: center
   
   Activists also challenged discrimination through legal action. In 1987, Folha de São Paulo reported that homosexual organizations in Pernambuco sued a judge accused of discriminatory statements that associated gay people with the spread of the “gay plague” in Brazil. During the early 1990s, transgender activists in São Paulo also organized politically to demand state protection from violence and better access to formal employment. 
 
+  Activists helped transform HIV/AIDS from a stigmatized ‘gay plague’ into a public health and human rights issue within Brazilian democracy.
+
+
+
   {% assign images =
 "/assets/images/SC.png,
 /assets/images/lamp.png,
@@ -92,8 +96,6 @@ This image has a caption, but no title|
   captions=captions
 %}
 
-
-Activists helped transform HIV/AIDS from a stigmatized ‘gay plague’ into a public health and human rights issue within Brazilian democracy.
 
 
 
