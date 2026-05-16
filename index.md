@@ -63,11 +63,11 @@ header-position: center
 
   Politicians also showed confusion and prejudice. During debates connected to Brazil’s 1988 Constitution, Congressman and physician Raimundo Bezerra claimed that mosquitoes could spread HIV. Other members of Congress repeated misinformation about the disease or described AIDS as a consequence of “immorality.” Some politicians even described AIDS as a punishment for “sin” and criticized government condom campaigns because they believed these campaigns encouraged homosexuality and sexual freedom. [^ag] Public fear increased because scientific information remained limited. Hospitals lacked preparation to receive growing numbers of patients, and many doctors had little training about HIV transmission and treatment. [^cartas] Some families abandoned relatives diagnosed with AIDS, especially transgender people. [^brenda]
 
-  However, while newspapers spread fear, politicians debated, and hospitals struggled with limited resources, activists were already organizing responses. However, while newspapers spread fear, politicians debated, and hospitals struggled with limited resources, activists were already organizing responses. The newspaper Lampião da Esquina, one of the most important queer publications during the 1970s and early 1980s. Its cover, ‘A National Gay Meeting Took Place in Rio,' discussed violence suffered by queer people; gender, race, and sexual discrimination; and national meetings organized by queer groups in 1980.[^ag1] João Antônio Mascarenhas, founder of Lampião da Esquina, also defended legal protections against discrimination based on sexual orientation during the Constituent Assembly debates of the 1987. [^br2]
-  Activists also challenged discrimination through legal action. In 1987, the group Triângulo Rosa, funded by Mascarenhas, sued Judge Cláudio Américo de Miranda after he publicly stated that he would never allow homosexuals to become judges. [^juiz]. 
+  However, while newspapers spread fear, politicians debated, and hospitals struggled with limited resources, activists were already organizing responses. However, while newspapers spread fear, politicians debated, and hospitals struggled with limited resources, activists were already organizing responses. The newspaper Lampião da Esquina, one of the most important queer publications during the 1970s and early 1980s. Its cover, ‘A National Gay Meeting Took Place in Rio,' discussed violence suffered by queer people; gender, race, and sexual discrimination; and national meetings organized by queer groups in 1980.[^ag1] João Antônio Mascarenhas, founder of Lampião da Esquina, also defended legal protections against discrimination based on sexual orientation during the Constituent Assembly debates of the 1987. [^br2] Activists also challenged discrimination through legal action. In 1987, the group Triângulo Rosa, funded by Mascarenhas, sued Judge Cláudio Américo de Miranda after he publicly stated that he would never allow homosexuals to become judges. [^juiz]. 
 
-  Activists helped transform HIV/AIDS from a stigmatized ‘gay plague’ into a public health and human rights issue within Brazilian democracy.
+  Politicians rejected a proposal to include sexual orientation among the forms of discrimination prohibited by Brazil’s new Constitution. [^ementa] The debate revealed the resistance queer activists faced during Brazil’s transition to democracy. At the same time, activists helped transform HIV/AIDS from a stigmatized “gay plague” into a public health and human rights issue within Brazilian democracy.
 
+  
   {% assign images =
 "/assets/images/SC.png,
 /assets/images/lamp.png,
@@ -319,6 +319,8 @@ In cunclusion...
 
   - ‘4th National Meeting of People Living with HIV and AIDS’ in the website of NGO *Grupo Pela VIDDA* 1994. https://pelavidda.org.br/vivendo.html
 
+  -  Grupo homossexual processa juiz de PE por discriminação (Homosexual Group Sues Pernambuco Judge for Discrimination). Folha de São Paulo. July 2, 1987. Cad. Cidades, Seção Mortes. Reproduced in https://museubajuba.org/os-sombrios-anos-da-peste-gay/
+
   - Machado, Leandro. “The Varig Flight Attendants Who ‘Smuggled’ Medication to Help AIDS Patients” (Os comissários da Varig que ‘contrabandeavam’ remédios para ajudar pacientes com Aids). BBC News Brasil. February 8, 2020. https://www.bbc.com/portuguese/brasil-51199929
 
   - Memória da Homossexualidade Brasileira. *Tríplice conexão: machismo, homofobia e aids (Triple Connection: Machismo, Homophobia, and AIDS)*. Memória da Homossexualidade Brasileira. December 2010. https://memoriamhb.blogspot.com/2010/12/triplice-conexao-machismo.html
@@ -330,6 +332,8 @@ In cunclusion...
   - *O Estado (Florianópolis)*, v. 73,  no 2218.  October 21, 1987, Newspaper, reproduced in Graziele Regina de Amorim, Outsiders do bairro Trindade: “Pacto da morte” ou “Gangue da Aids”? Para além da construção de um episódio (Florianópolis 1987) (“Outsiders from the Trindade Neighborhood: ‘Death Pact’ or ‘AIDS Gang’? Beyond the Construction of an Episode [Florianópolis, 1987]”), master’s thesis, Universidade Federal de Santa Catarina, 2009, 175. https://repositorio.ufsc.br/handle/123456789/93082
   
   - *Pela VIDDA* . Telegram from Raldo Bonifácio Costa Filho, president of NGO Grupo Pela VIDDA from Niterói, Rio de Janeiro, to President of Brazil Fernando Henrique Cardoso. September 18, 1995. Instituto Fernando Henrique Cardoso Archive. http://acervo.ifhc.org.br/?linkId=90
+
+  -  Rejeitada emenda pró-homossexual ( Pro-Homosexual Amendment Rejected). Correio Braziliense (Brasília). January 29, 1988. Reproduced in https://museubajuba.org/os-sombrios-anos-da-peste-gay/
 
   - TV Brasil, Caminhos da Reportagem, ‘Era uma vez… Brenda Lee!,’ YouTube video, June 9, 2024, https://www.youtube.com/watch?v=CdVwKJWUJ5w
 
@@ -389,6 +393,8 @@ In cunclusion...
    [^dia]: O Dia (Brazil), newspaper clipping, 1984, in Práticas de cuidados às populações em situações de vulnerabilidades (Care Practices for Populations in Situations of Vulnerability), ed. Luís Paulo Souza e Souza and Rosana Franciele Botelho Ruas (Campo Grande, MS: Editora Inovar, 2024): 75.https://www.editorainovar.com.br/omp/index.php/inovar/catalog/view/1192/402/2207
 
    [^juiz]: Grupo homossexual processa juiz de PE por discriminação (Homosexual Group Sues Pernambuco Judge for Discrimination), Folha de São Paulo, July 2, 1987, Cad. Cidades, Seção Mortes, reproduced in https://museubajuba.org/os-sombrios-anos-da-peste-gay/
+
+   [^ementa]: Rejeitada emenda pró-homossexual (Pro-Homosexual Amendment Rejected), Correio Braziliense (Brasília), January 29, 1988, reproduced in https://museubajuba.org/os-sombrios-anos-da-peste-gay/
 
 
 
