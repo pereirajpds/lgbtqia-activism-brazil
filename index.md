@@ -103,6 +103,7 @@ This image has a caption, but no title|
   width="45%"
   text="firstimage"
 %}
+
 ## Conclusion
 
   In the 1980s and 1990s, Brazil faced two major transformations at the same time. The country was leaving more than twenty years of military dictatorship and rebuilding democracy just as the HIV/AIDS epidemic spread across the world. Because of this, the fight against HIV/AIDS became connected to larger debates about healthcare, inequality, citizenship, and human rights in Brazil.
