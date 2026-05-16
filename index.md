@@ -40,7 +40,8 @@ header-position: center
   position="top"
   image-path="/assets/images/telegrama.png"
   above-box-space = "100vh"
-  box-content=' In September 1995, Raldo Bonifácio Costa Filho (Grupo Pela VIDDA de Niterói), a Rio de Janeiro NGO connected to ABIA, sent a telegram to President of Brazil Fernando Henrique Cardoso asking him to approve a law requiring private health insurance companies to provide coverage for people living with HIV/AIDS. The group also reminded the president of a promise made during the 1994 presidential campaign, when government representatives attended the Fourth National Meeting of People Living with HIV/AIDS in Rio de Janeiro. The telegram shows how civil society organizations directly pressured the Brazilian state for healthcare rights and access to treatment during the AIDS crisis. Grupo Pela VIDDA de Niterói, Telegram to President Fernando Henrique Cardoso, September 18, 1995, Instituto Fernando Henrique Cardoso Archive. http://acervo.ifhc.org.br/?linkId=90 '
+  box-content=' In September 1995, Raldo Bonifácio Costa Filho (Grupo Pela VIDDA de Niterói), a Rio de Janeiro NGO connected to ABIA, sent a telegram to President of Brazil Fernando Henrique Cardoso asking him to approve a law requiring private health insurance companies to provide coverage for people living with HIV/AIDS. The group also reminded the president of a promise made during the 1994 presidential campaign, when government representatives attended the Fourth National Meeting of People Living with HIV/AIDS in Rio de Janeiro. The telegram shows how civil society organizations directly pressured the Brazilian state for healthcare rights and access to treatment during the AIDS crisis. [^pela]
+  *Pela VIDDA* (NGO), Telegram to President of Brazil Fernando Henrique Cardoso, September 18, 1995, Instituto Fernando Henrique Cardoso Archive. http://acervo.ifhc.org.br/?linkId=90 '
 %}
 
 {% assign images =
@@ -245,6 +246,8 @@ In cunclusion...
   - Newspaper *Notícias Populares*. 1983, in Fundação Oswaldo Cruz (Fiocruz), O Vírus da Aids, 20 anos depois. Accessed May 1, 2026. https://www.ioc.fiocruz.br/en/aids20anos/linhadotempo.html
 
   - Newspaper *Última Hora*. “O estilista Markito: uma vítima do ‘câncer gay’.” Reproduced by Agência Senado from the Biblioteca Nacional Digital. Accessed May 1, 2026. https://www12.senado.leg.br/noticias/especiais/arquivo-s/aids-chegou-ao-brasil-ha-40-anos-e-trouxe-terror-preconceito-e-desinformacao
+  
+  - *Pela VIDDA* . Telegram from Raldo Bonifácio Costa Filho, president of NGO Grupo Pela VIDDA from Niterói, Rio de Janeiro, to President of Brazil Fernando Henrique Cardoso. September 18, 1995. Instituto Fernando Henrique Cardoso Archive. http://acervo.ifhc.org.br/?linkId=90
 
   - TV Brasil, Caminhos da Reportagem, ‘Era uma vez… Brenda Lee!,’ YouTube video, June 9, 2024, https://www.youtube.com/watch?v=CdVwKJWUJ5w
 
@@ -284,6 +287,8 @@ In cunclusion...
  [^abia]: ABIA (Associação Brasileira Interdisciplinar de AIDS), 1989 pamphlet featuring artwork by the Brazilian cartoonist Henfil, who died from HIV/AIDS-related complications after contracting the virus through a blood transfusion, as did his brother Herbert de Souza (“Betinho”), the president of ABIA. The pamphlet emphasized solidarity and collective action against AIDS, declaring, "Against loneliness, solidarity” and “Alone, nobody escapes AIDS. Collectively, it is possible to stop AIDS.” It described AIDS not only as a medical condition but also as a social crisis shaped by panic, prejudice, and discrimination, while defending cooperation between civil society organizations and the government in public health prevention efforts.
 
  [^1996]: Brazil, Law No. 9,313, November 13, 1996 (Lei nº 9.313, de 13 de novembro de 1996) https://www.planalto.gov.br/ccivil_03/leis/l9313.htm Signed by President Fernando Henrique Cardoso, guaranteeing the free distribution of HIV/AIDS medication through Brazil’s public health system (SUS).
+
+  [^pela] *Pela VIDDA* (NGO), Telegram to President of Brazil Fernando Henrique Cardoso, September 18, 1995, Instituto Fernando Henrique Cardoso Archive. http://acervo.ifhc.org.br/?linkId=90 
 
 
 
