@@ -299,6 +299,8 @@ In cunclusion...
 
  - Alvarez, Sonia E. and Arturo Escobar. *The Making of Social Movements in Latin America : Identity, Strategy, and Democracy*. Westview Press, 1992.
 
+ - Brasil. Ministério da Saúde. Secretaria de Vigilância em Saúde e Ambiente. Departamento de HIV, Aids, Tuberculose, Hepatites Virais e Infecções Sexualmente Transmissíveis. Histórias da Aids no Brasil: 1983–2003 (Histories of AIDS in Brazil: 1983–2003). 2nd ed. 2 vols. Brasília: Ministério da Saúde, 2025. https://bvsms.saude.gov.br/bvs/publicacoes/historias_aids_Brasil_v2.pdf
+
  - Galvão, Jane. *AIDS No Brasil : A Agenda de Construção de Uma Epidemia*. ABIA Press, 2000.
 
  - Royles, Dan. *To Make the Wounded Whole: The African American Struggle Against HIV/AIDS.* University of North Carolina Press, 2020.
