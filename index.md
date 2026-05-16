@@ -45,7 +45,7 @@ header-position: center
   *Pela VIDDA* (NGO), Telegram to President of Brazil Fernando Henrique Cardoso, September 18, 1995, Instituto Fernando Henrique Cardoso Archive. http://acervo.ifhc.org.br/?linkId=90 '
 %}
 
-## Fear, Violence, and Activists' Responses in the Beginning of the Epidemic
+## Fear, Violence, and Social Movements' Responses 
 
 
 {% include images/figure.html
