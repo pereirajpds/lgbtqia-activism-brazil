@@ -8,7 +8,7 @@ header-position: center
 # From “Gay Plague” to Human Right: Activisms During the HIV/AIDS Crisis in Brazil, 1980s-1990s
 
 {% include images/figure.html
-  image-path="/assets/images/backgrounds/peste.jpg"
+  image-path="/assets/images/backgrounds/uberaba.png"
   caption="***Figure1:***, The worst and most terrible disease of the century. Two Brazilians dead.‘Gay Plague’ already terrifies São Paulo. Newspaper *Notícias Populares*,1983."
   alt-text="Hiking trail through a canyon in the Sandia foothills."
   class="right"
@@ -45,6 +45,16 @@ header-position: center
 %}
 
 ## Fear, Violence, and Activists' Responses in the Beginning of the Epidemic
+
+
+{% include images/figure.html
+  image-path="/assets/images/backgrounds/peste.jpg"
+  caption="***Figure1:***, The worst and most terrible disease of the century. Two Brazilians dead.‘Gay Plague’ already terrifies São Paulo. Newspaper *Notícias Populares*,1983."
+  alt-text="Hiking trail through a canyon in the Sandia foothills."
+  class="right"
+  width="40%"
+  text="firstimage"
+%}
 
   The first officially recognized AIDS cases in Brazil appeared in 1983. Newspapers quickly connected the disease to sexuality. Headlines described the “gay plague” arriving in São Paulo and terrifying the city. Like in the United States, many people treated HIV/AIDS not only as a medical crisis but also as a moral issue. 
 
