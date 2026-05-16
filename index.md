@@ -338,7 +338,8 @@ In cunclusion...
 
  [^cartas]: *Carta para Além dos Muros*, directed by André Canto (Brazil Sendero Filmes, 2019), documentary, YouTube, posted by “Rinnesuke Hashiki,” https://www.youtube.com/watch?v=LULBaeqz2Zs&t=5221s The documentary includes interviews with physicians such as Drauzio Varella, HIV/AIDS activists, politicians, and people living with HIV/AIDS who experienced the epidemic during the 1980s and 1990s. 
 
-  [^ag]: Agência Senado, “Aids chegou ao Brasil há 40 anos e trouxe terror, preconceito e desinformação” (“AIDS Arrived in Brazil 40 Years Ago and Brought Terror, Prejudice, and Misinformation”), Agência Senado, 2023.https://www12.senado.leg.br/noticias/especiais/arquivo-s/aids-chegou-ao-brasil-ha-40-anos-e-trouxe-terror-preconceito-e-desinformacao
+  [^ag]: Agência Senado, “Aids chegou ao Brasil há 40 anos e trouxe terror, preconceito e desinformação” (“AIDS Arrived in Brazil 40 Years Ago and Brought Terror, Prejudice, and Misinformation”), Agência Senado, 2023.https://www12.senado.leg.br/noticias/especiais/arquivo-s/aids-chegou-ao-brasil-ha-40-anos-e-trouxe-terror-preconceito-e-desinformacao This file contains statements regarding HIV/AIDS made by politicians during the meetings for the 1988 Constitution.
+
 
 
  
