@@ -40,7 +40,7 @@ header-position: center
   position="top"
   image-path="/assets/images/telegrama.png"
   above-box-space = "100vh"
-  box-content=' In September 1995, Raldo Bonifácio Costa Filho (Grupo Pela VIDDA de Niterói), a Rio de Janeiro NGO connected to ABIA, sent a telegram to President of Brazil Fernando Henrique Cardoso asking him to approve a law requiring private health insurance companies to provide coverage for people living with HIV/AIDS. The group also reminded the president of a promise made during the 1994 presidential campaign, when government representatives attended the Fourth National Meeting of People Living with HIV/AIDS in Rio de Janeiro. The telegram shows how civil society organizations directly pressured the Brazilian state for healthcare rights and access to treatment during the AIDS crisis. [^pela]
+  box-content=' In September 1995, Raldo Bonifácio Costa Filho (Grupo Pela VIDDA de Niterói), a Rio de Janeiro NGO connected to ABIA, sent a telegram to President of Brazil Fernando Henrique Cardoso asking him to approve a law requiring private health insurance companies to provide coverage for people living with HIV/AIDS. The group also reminded the president of a promise made during the 1994 presidential campaign, when government representatives attended the Fourth National Meeting of People Living with HIV/AIDS in Rio de Janeiro. The telegram shows how civil society organizations directly pressured the Brazilian state for healthcare rights and access to treatment during the AIDS crisis. 
   *Pela VIDDA* (NGO), Telegram to President of Brazil Fernando Henrique Cardoso, September 18, 1995, Instituto Fernando Henrique Cardoso Archive. http://acervo.ifhc.org.br/?linkId=90 '
 %}
 
