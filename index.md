@@ -9,7 +9,8 @@ header-position: center
 
 {% include images/figure.html
   image-path="/assets/images/backgrounds/uberaba.png"
-  caption="***Figure1:***, The worst and most terrible disease of the century. Two Brazilians dead.‘Gay Plague’ already terrifies São Paulo. Newspaper *Notícias Populares*,1983."
+  caption="***Figure1:***, The newspaper Última Hora (1983) reported the death of Brazilian fashion designer Markito, one of the first public AIDS-related deaths involving a famous Brazilian figure. The headline stated, 'Markito’s Body Goes Directly to Uberaba,' a city in Minas Gerais, Brazil, where he would be buried after dying in New York, where he had been receiving treatment for the disease. The newspaper described AIDS as “gay cancer,” reflecting the stigma and misinformation surrounding HIV/AIDS during the early years of the epidemic in Brazil. Source: Agência Senado.
+  https://www12.senado.leg.br/noticias/especiais/arquivo-s aids-chegou-ao-brasil-ha-40-anos-e-trouxe-terror-preconceito-e-desinformacao"
   alt-text="Hiking trail through a canyon in the Sandia foothills."
   class="right"
   width="40%"
