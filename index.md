@@ -288,7 +288,7 @@ In cunclusion...
 
  [^1996]: Brazil, Law No. 9,313, November 13, 1996 (Lei nº 9.313, de 13 de novembro de 1996) https://www.planalto.gov.br/ccivil_03/leis/l9313.htm Signed by President Fernando Henrique Cardoso, guaranteeing the free distribution of HIV/AIDS medication through Brazil’s public health system (SUS).
 
-  [^pela] *Pela VIDDA* (NGO), Telegram to President of Brazil Fernando Henrique Cardoso, September 18, 1995, Instituto Fernando Henrique Cardoso Archive. http://acervo.ifhc.org.br/?linkId=90 
+  [^pela]: *Pela VIDDA* (NGO), Telegram to President of Brazil Fernando Henrique Cardoso, September 18, 1995, Instituto Fernando Henrique Cardoso Archive. http://acervo.ifhc.org.br/?linkId=90 
 
 
 
