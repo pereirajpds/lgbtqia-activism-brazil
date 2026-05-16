@@ -234,6 +234,9 @@ In cunclusion...
 
   - Brazil, Law No. 8,080, September 19, 1990 (Lei nº 8.080, de 19 de setembro de 1990), known as the Organic Health Law (Lei Orgânica da Saúde), establishing the Unified Health System (SUS) and recognizing healthcare as a universal right.
   https://www.planalto.gov.br/ccivil_03/leis/l8080.htm
+
+  - Brazil. Law No. 9,313, November 13, 1996. https://www.planalto.gov.br/ccivil_03/leis/l9313.htm
+
  
   - ‘4th National Meeting of People Living with HIV and AIDS’ in the website of NGO *Grupo Pela VIDDA* 1994. https://pelavidda.org.br/vivendo.html
 
