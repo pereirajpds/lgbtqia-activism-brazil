@@ -340,10 +340,8 @@ In cunclusion...
 
   [^ag]: Agência Senado, “Aids chegou ao Brasil há 40 anos e trouxe terror, preconceito e desinformação” (“AIDS Arrived in Brazil 40 Years Ago and Brought Terror, Prejudice, and Misinformation”), Agência Senado, 2023.https://www12.senado.leg.br/noticias/especiais/arquivo-s/aids-chegou-ao-brasil-ha-40-anos-e-trouxe-terror-preconceito-e-desinformacao This file contains statements regarding HIV/AIDS made by politicians during the meetings for the 1988 Constitution.
 
-  [^ag1]: Agência Senado, “Aids chegou ao Brasil há 40 anos e trouxe terror, preconceito e desinformação” (“AIDS Arrived in Brazil 40 Years Ago and Brought Terror, Prejudice, and Misinformation”), Agência Senado, 2023.https://www12.senado.leg.br/noticias/especiais/arquivo-s/aids-chegou-ao-brasil-ha-40-anos-e-trouxe-terror-preconceito-e-desinformacao This file includes a photograph of the cover of Lampião da Esquina, year 2, issue no. 20 (1980).
+  [^ag1]: Agência Senado, “Aids chegou ao Brasil há 40 anos e trouxe terror, preconceito e desinformação” (“AIDS Arrived in Brazil 40 Years Ago and Brought Terror, Prejudice, and Misinformation”), Agência Senado, 2023.https://www12.senado.leg.br/noticias/especiais/arquivo-s/aids-chegou-ao-brasil-ha-40-anos-e-trouxe-terror-preconceito-e-desinformacao This file includes a photograph of the cover of Lampião da Esquina, year 2, issue no. 20 (1980). Brasil. Ministério da Saúde. Secretaria de Vigilância em Saúde e Ambiente. Departamento de HIV, Aids, Tuberculose, Hepatites Virais e Infecções Sexualmente Transmissíveis, Histórias da Aids no Brasil: 1983–2003 (Histories of AIDS in Brazil: 1983–2003), 2nd ed., 2 vols. (Brasília: Ministério da Saúde, 2025): 19-20. https://bvsms.saude.gov.br/bvs/publicacoes/historias_aids_Brasil_v2.pdf
 
-  [^br]: Brasil. Ministério da Saúde. Secretaria de Vigilância em Saúde e Ambiente. Departamento de HIV, Aids, Tuberculose, Hepatites Virais e Infecções Sexualmente Transmissíveis, Histórias da Aids no Brasil: 1983–2003 (Histories of AIDS in Brazil: 1983–2003), 2nd ed., 2 vols. (Brasília: Ministério da Saúde, 2025): 19-20. https://bvsms.saude.gov.br/bvs/publicacoes/historias_aids_Brasil_v2.pdf
-  
 
 
 
