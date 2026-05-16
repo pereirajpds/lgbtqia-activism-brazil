@@ -17,12 +17,7 @@ header-position: center
 %}
 
  In the 1980s, fear and misinformation spread across Brazilian society as the HIV/AIDS crisis began to reach the country. Newspapers Notícias Populares (1983) described the first case of HIV/AIDS as the 'gay plague,' while other media claimed that AIDS was only a health issue in the United States.[^jornais] Initially, many Brazilians believed that HIV affected only gay men or foreigners.[^markito] Some politicians even defended banning HIV-positive people from entering the country.[^senado] Meanwhile, activists and people living with HIV pressured the Brazilian state to invest public money into the fight against HIV/AIDS in Brazil.[^ongbook]
-
  
-
-
-
-
  The HIV/AIDS crisis of the 1980s and 1990s coincided with Brazil’s period of redemocratization (1979-1985). This period marked a transition from dictatorship to democracy. Brazil was ending more than twenty years of military dictatorship (1964–1985). Political exiles and human rights activists returned to Brazil after years abroad. Social movements such as Black, queer, and feminist ones emerged.[^alvarez] Politicians and social movements debated a new constitution to include labor rights, non-discrimination policies, and free public health as a constitutional right. This political transition shaped Brazil’s response to HIV/AIDS from the 1980s to the 1990s.[^jane]
 
 {% include images/figure.html
