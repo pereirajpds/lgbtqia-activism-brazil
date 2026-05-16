@@ -63,7 +63,7 @@ header-position: center
 
   Politicians also showed confusion and prejudice. During debates connected to Brazil’s 1988 Constitution, Congressman and physician Raimundo Bezerra claimed that mosquitoes could spread HIV. Other members of Congress repeated misinformation about the disease or described AIDS as a consequence of “immorality.” Some politicians even described AIDS as a punishment for “sin” and criticized government condom campaigns because they believed these campaigns encouraged homosexuality and sexual freedom.
 
-  Public fear increased because scientific information remained limited. Hospitals lacked preparation to receive growing numbers of patients, and many doctors had little training about HIV transmission and treatment. Some families abandoned relatives diagnosed with AIDS, especially transgender people.
+  Public fear increased because scientific information remained limited. Hospitals lacked preparation to receive growing numbers of patients, and many doctors had little training about HIV transmission and treatment. [ˆdoc] Some families abandoned relatives diagnosed with AIDS, especially transgender people. [^brenda]
 
   However, while newspapers spread fear, politicians debated, and hospitals struggled with limited resources, activists were already organizing responses. The newspaper Lampião da Esquina, one of the most important queer publications during the final years of Brazil’s military dictatorship, helped create political networks across the country during the late 1970s and early 1980s. Its covers discussed police violence, discrimination, legal protections, and national meetings organized by queer groups. The newspaper also denounced discrimination against the Black Brazilian singer Leci Brandão because she was a Black lesbian woman.
 
@@ -333,6 +333,10 @@ In cunclusion...
  [^pela]: *Pela VIDDA* (NGO), Telegram to President of Brazil Fernando Henrique Cardoso, September 18, 1995, Instituto Fernando Henrique Cardoso Archive. http://acervo.ifhc.org.br/?linkId=90 
 
  [^dan2]: Dan Royles, To Make the Wounded Whole: The African American Struggle Against HIV/AIDS (University of North Carolina Press, 2020): 4-5, 19, 141, 170-171.
+
+ [ˆdoc]: Carta para Além dos Muros, directed by André Canto (Brazil: Sendero Filmes, 2019), documentary, YouTube video, 1:32:03, posted by “Rinnesuke Hashiki,” accessed March15, 2026,https://www.youtube.com/watch?v=LULBaeqz2Zs&t=5221s
+ The documentary includes interviews with physicians such as Drauzio Varella, HIV/AIDS activists, politicians, and people living with HIV/AIDS who experienced the epidemic during the 1980s and 1990s. They played important roles in activism, healthcare, and public responses to the crisis in Brazil. 
+
 
 
 
