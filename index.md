@@ -26,7 +26,7 @@ header-position: center
   caption="***Figure2:*** 4th Meeting of People Living with HIV, Rio de Janeiro, 1994. The main poster says Money is scarce, AIDS is not.https://pelavidda.org.br/vivendo.html"
   alt-text="Hiking trail through a canyon in the Sandia foothills."
   class="center"
-  width="100%"
+  width="90%"
   text="firstimage"
 %}
 
@@ -109,7 +109,7 @@ This image has a caption, but no title|
   caption="***Figure5:*** Abia."
   alt-text="Hiking trail through a canyon in the Sandia foothills."
   class="left"
-  width="100%"
+  width="90%"
   text="firstimage"
 %}
 
