@@ -12,7 +12,7 @@ header-position: center
   caption="***Figure1:***, The worst and most terrible disease of the century. Two Brazilians dead.‘Gay Plague’ already terrifies São Paulo. Newspaper *Notícias Populares*,1983."
   alt-text="Hiking trail through a canyon in the Sandia foothills."
   class="right"
-  width="55%"
+  width="60%"
   text="firstimage"
 %}
 
@@ -23,7 +23,7 @@ In the 1980s, fear and misinformation spread across Brazilian society as the HIV
   caption="***Figure2:*** 4th Meeting of People Living with HIV, Rio de Janeiro, 1994. The main poster says Money is scarce, AIDS is not.https://pelavidda.org.br/vivendo.html"
   alt-text="Hiking trail through a canyon in the Sandia foothills."
   class="left"
-  width="60%"
+  width="65%"
   text="firstimage"
 %}
 
