@@ -337,7 +337,9 @@ In cunclusion...
  [^dan2]: Dan Royles, To Make the Wounded Whole: The African American Struggle Against HIV/AIDS (University of North Carolina Press, 2020): 4-5, 19, 141, 170-171.
 
  [^cartas]: Carta para Além dos Muros, directed by André Canto (Brazil: Sendero Filmes, 2019), documentary, YouTube video, 1:32:03, posted by “Rinnesuke Hashiki,” accessed March15, 2026,https://www.youtube.com/watch?v=LULBaeqz2Zs&t=5221s
- The documentary includes interviews with physicians such as Drauzio Varella, HIV/AIDS activists, politicians, and people living with HIV/AIDS who experienced the epidemic during the 1980s and 1990s. They played important roles in activism, healthcare, and public responses to the crisis in Brazil.The documentary is also a tribute to the Brazilian writer Caio Fernando Abreu, who died from AIDS complications in 1996 and became one of the most important public voices discussing HIV/AIDS stigma and sexuality in Brazil.
+ The documentary includes interviews with physicians such as Drauzio Varella, HIV/AIDS activists, politicians, and people living with HIV/AIDS who experienced the epidemic during the 1980s and 1990s. 
+
+
 
 
 
