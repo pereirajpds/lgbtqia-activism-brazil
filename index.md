@@ -106,7 +106,7 @@ This image has a caption, but no title|
 
 ## Conclusion
 
-  In the 1980s and 1990s, Brazil faced two major transformations at the same time. The country was leaving more than twenty years of military dictatorship and rebuilding democracy just as the HIV/AIDS epidemic spread across the world. Because of this, the fight against HIV/AIDS became connected to larger debates about healthcare, inequality, citizenship, and human rights in Brazil.
+  In the 1980s and 1990s, Brazil faced two major transformations at the same time. The country was leaving more than twenty years of military dictatorship and rebuilding democracy just as the HIV/AIDS epidemic spread across the world.   The history of HIV/AIDS in Brazil therefore reveals more than the history of a disease. It shows how ordinary people helped reshape debates about democracy, healthcare, sexuality, citizenship, and human dignity during one of the most difficult moments in modern Brazilian history.
 
   At first, fear and misinformation shaped how many Brazilians understood AIDS. Newspapers, politicians, and even some doctors described HIV/AIDS as a disease connected to homosexual men, drug users, and other so-called “risk groups.” Many people believed the epidemic existed only in the United States or Europe and not in Brazil. Others treated AIDS as a moral issue instead of a public health crisis. They blamed people’s sexuality or lifestyle rather than focusing on prevention, treatment, healthcare access, and social support.
 
@@ -118,8 +118,6 @@ This image has a caption, but no title|
 
   Activists also pressured the government to regulate blood banks, expand public healthcare, defend the rights of people living with HIV/AIDS, and eventually provide free HIV medication through Brazil’s public healthcare system after 1996. During Brazil’s transition to democracy, activists pushed for new social rights. Even though Brazil’s 1988 Constitution did not ban discrimination based on sexual orientation, people living with HIV/AIDS gained important legal protections, including retirement rights for people too sick to work and broader access to free public healthcare.
 
-  The history of HIV/AIDS in Brazil therefore reveals more than the history of a disease. It shows how ordinary people helped reshape debates about democracy, healthcare, sexuality, citizenship, and human dignity during one of the most difficult moments in modern Brazilian history.
-  
   However, the epidemic did not end discrimination. Many people living with HIV/AIDS still faced stigma, poverty, racism, homophobia, and difficulties accessing treatment, prevention, and both public and private healthcare in Brazil. In 1989, activist Herbert de Souza, known as Betinho, argued that Brazil could become an example in the fight against HIV/AIDS through solidarity and collective action. More than thirty years later, Richard Parker, one of ABIA’s founders and current president, continues to defend this idea. He argues that HIV/AIDS is not only a medical issue because inequality and discrimination still shape who receives care, protection, and support in Brazil today.
 
 
