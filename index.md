@@ -9,8 +9,8 @@ header-position: center
 
 {% include images/figure.html
   image-path="/assets/images/backgrounds/uberaba.png"
-  caption="***Figure1:***, The newspaper Última Hora (1983) reported the death of Brazilian fashion designer Markito, one of the first public AIDS-related deaths involving a famous Brazilian figure. The headline stated, 'Markito’s Body Goes Directly to Uberaba,' a city in Minas Gerais, Brazil, where he would be buried after dying in New York, where he had been receiving treatment for the disease. The newspaper described AIDS as “gay cancer,” reflecting the stigma and misinformation surrounding HIV/AIDS during the early years of the epidemic in Brazil. Source: Agência Senado.
-  https://www12.senado.leg.br/noticias/especiais/arquivo-s aids-chegou-ao-brasil-ha-40-anos-e-trouxe-terror-preconceito-e-desinformacao"
+  caption="***Figure1:***, The newspaper Última Hora (1983) reported the death of Brazilian fashion designer Markito, one of the first public AIDS-related deaths involving a famous Brazilian figure. The headline stated, 'Markito’s Body Goes Directly to Uberaba,' a city in Minas Gerais, Brazil, where he would be buried after dying in New York, where he had been receiving treatment for the disease. The newspaper described AIDS as “gay cancer,” reflecting the stigma and misinformation surrounding HIV/AIDS during the early years of the epidemic in Brazil. 
+  Source: Agência Senado  https://www12.senado.leg.br/noticias/especiais/arquivo-s aids-chegou-ao-brasil-ha-40-anos-e-trouxe-terror-preconceito-e-desinformacao"
   alt-text="Hiking trail through a canyon in the Sandia foothills."
   class="right"
   width="40%"
@@ -50,7 +50,7 @@ header-position: center
 
 {% include images/figure.html
   image-path="/assets/images/backgrounds/peste.jpg"
-  caption="***Figure1:***, The worst and most terrible disease of the century. Two Brazilians dead.‘Gay Plague’ already terrifies São Paulo. Newspaper *Notícias Populares*,1983."
+  caption="***Figure3:***, The worst and most terrible disease of the century. Two Brazilians dead.‘Gay Plague’ already terrifies São Paulo. Newspaper *Notícias Populares*,1983. https://www.ioc.fiocruz.br/en/aids20anos/linhadotempo.html"
   alt-text="Hiking trail through a canyon in the Sandia foothills."
   class="right"
   width="40%"
@@ -270,7 +270,7 @@ In cunclusion...
 
  - Annals of the National Constituent Assembly (Anais da Assembleia Nacional Constituinte). Vol. 11. Brasília: Senado Federal, 1987. https://www.senado.leg.br/publicacoes/anais/constituinte/N011.pdf
 
-  - Brazil. Law No. 7,670, September 8, 1988 (Lei nº 7.670, de 8 de setembro de 1988). Granting benefits to people living with HIV/AIDS. Câmara dos Deputados. Accessed May 1, 2026.  
+ - Brazil. Law No. 7,670, September 8, 1988 (Lei nº 7.670, de 8 de setembro de 1988). Granting benefits to people living with HIV/AIDS. Câmara dos Deputados. Accessed May 1, 2026.  
  https://www2.camara.leg.br/legin/fed/lei/1988/lei-7670-8-setembro-1988-368200-publicacaooriginal-1-pl.html
 
   - Brazil, Law No. 8,080, September 19, 1990 (Lei nº 8.080, de 19 de setembro de 1990), known as the Organic Health Law (Lei Orgânica da Saúde), establishing the Unified Health System (SUS) and recognizing healthcare as a universal right.
@@ -278,7 +278,6 @@ In cunclusion...
 
   - Brazil. Law No. 9,313, November 13, 1996. https://www.planalto.gov.br/ccivil_03/leis/l9313.htm
 
- 
   - ‘4th National Meeting of People Living with HIV and AIDS’ in the website of NGO *Grupo Pela VIDDA* 1994. https://pelavidda.org.br/vivendo.html
 
   - Machado, Leandro. “The Varig Flight Attendants Who ‘Smuggled’ Medication to Help AIDS Patients” (Os comissários da Varig que ‘contrabandeavam’ remédios para ajudar pacientes com Aids). BBC News Brasil. February 8, 2020. https://www.bbc.com/portuguese/brasil-51199929
