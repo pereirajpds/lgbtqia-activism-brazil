@@ -67,7 +67,7 @@ header-position: center
 
   Activists also challenged discrimination through legal action. In 1987, Folha de São Paulo reported that homosexual organizations in Pernambuco sued a judge accused of discriminatory statements that associated gay people with the spread of the “gay plague” in Brazil. During the early 1990s, transgender activists in São Paulo also organized politically to demand state protection from violence and better access to formal employment. João Antônio Mascarenhas, founder of Lampião da Esquina, also defended legal protections against discrimination based on sexual orientation during the Constituent Assembly debates of the 1987.
   
-  Activists, therefore, pressured the Brazilian state not only for medical treatment but also for protection against violence and discrimination, retirement benefits for people living with HIV/AIDS and safer working conditions, just like other citizens within Brazilian democracy. For these movements, activism during the HIV/AIDS crisis also meant fighting for social equality
+  Activists, therefore, pressured the Brazilian state not only for medical treatment but also for protection against violence and discrimination, retirement benefits for people living with HIV/AIDS and safer working conditions, just like other citizens within Brazilian democracy. For these movements, activism during the HIV/AIDS crisis also meant fighting for social equality.
 
 
 
