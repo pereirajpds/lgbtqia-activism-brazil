@@ -59,7 +59,7 @@ header-position: center
 
   The first officially recognized AIDS cases in Brazil appeared in 1983. Newspapers quickly connected the disease to sexuality. Headlines described the “gay plague” arriving in São Paulo and terrifying the city. [^jornais] Like in the United States, many people treated HIV/AIDS not only as a medical crisis but also as a discrimination issue. [^dan2]
 
-  Many Brazilians believed HIV affected only gay men, drug users, sex workers, transgender people, or foreigners. Groups already targeted by discrimination also faced violence during the epidemic. In 1984, the newspaper O Dia reported that men shot and killed trans women because they associated them with AIDS. In 1987, the newspaper O Estado published the headline 'People with AIDS Make a Death Pact and Spread the Virus in Santa Catarina.' The newspaper placed on its front page the image of a woman accused of spreading HIV and described her as an “aidética,” a stigmatizing term used for people living with AIDS. The caption also claimed she intentionally shared syringes while using cocaine at a private party.[^flo]
+  Many Brazilians believed HIV affected only gay men, drug users, sex workers, transgender people, or foreigners. Groups already targeted by discrimination also faced violence during the epidemic. In 1984, the newspaper O Dia reported that a gang of men in the city of Recife killed trans women. [^dia] In 1987, the newspaper O Estado published the headline 'People with AIDS Make a Death Pact and Spread the Virus in Santa Catarina.' The newspaper placed on its front page the image of a woman accused of spreading HIV and described her as an “aidética,” a stigmatizing term used for people living with AIDS. The caption also claimed she intentionally shared syringes while using cocaine at a private party.[^flo]
 
   Politicians also showed confusion and prejudice. During debates connected to Brazil’s 1988 Constitution, Congressman and physician Raimundo Bezerra claimed that mosquitoes could spread HIV. Other members of Congress repeated misinformation about the disease or described AIDS as a consequence of “immorality.” Some politicians even described AIDS as a punishment for “sin” and criticized government condom campaigns because they believed these campaigns encouraged homosexuality and sexual freedom. [^ag] Public fear increased because scientific information remained limited. Hospitals lacked preparation to receive growing numbers of patients, and many doctors had little training about HIV transmission and treatment. [^cartas] Some families abandoned relatives diagnosed with AIDS, especially transgender people. [^brenda]
 
@@ -283,6 +283,8 @@ In cunclusion...
 
   - CARTA para Além dos Muros. Directed by André Canto. Brazil: Sendero Filmes, 2019. Documentary. YouTube video, 1:32:03. Posted by “Rinnesuke Hashiki.” Accessed March 15, 2026. https://www.youtube.com/watch?v=LULBaeqz2Zs&t=5221s
 
+  -  O Dia (Brazil). Newspaper clipping. 1984. Reproduced in Práticas de cuidados às populações em situações de vulnerabilidades (Care Practices for Populations in Situations of Vulnerability), edited by Luís Paulo Souza e Souza and Rosana Franciele Botelho Ruas. Campo Grande, MS: Editora Inovar, 2024, 75. https://www.editorainovar.com.br/omp/index.php/inovar/catalog/view/1192/402/2207 
+
   - ‘4th National Meeting of People Living with HIV and AIDS’ in the website of NGO *Grupo Pela VIDDA* 1994. https://pelavidda.org.br/vivendo.html
 
   - Machado, Leandro. “The Varig Flight Attendants Who ‘Smuggled’ Medication to Help AIDS Patients” (Os comissários da Varig que ‘contrabandeavam’ remédios para ajudar pacientes com Aids). BBC News Brasil. February 8, 2020. https://www.bbc.com/portuguese/brasil-51199929
@@ -351,6 +353,9 @@ In cunclusion...
   [^br2]: Brasil. Ministério da Saúde. Secretaria de Vigilância em Saúde e Ambiente. Departamento de HIV, AIDS, Tuberculose, Hepatites Virais e Infecções Sexualmente Transmissíveis, Histórias da Aids no Brasil: 1983–2003 (Histories of AIDS in Brazil: 1983–2003), 2nd ed., 2 vols. (Brasília: Ministério da Saúde, 2025): 19-20. https://bvsms.saude.gov.br/bvs/publicacoes/historias_aids_Brasil_v2.pdf Brazil’s Ministry of Health produced this publication to document the history of HIV/AIDS. Memória da Homossexualidade Brasileira,'Tríplice conexão: machismo, homofobia e aids' (Triple Connection: Machismo, Homophobia, and AIDS), Memória da Homossexualidade Brasileira, December 2010, https://memoriamhb.blogspot.com/2010/12/triplice-conexao-machismo.html The article contains João Antônio Mascarenhas’s personal accounts about his participation in Brazil’s Constituent Assembly debates during the 1980s.
   
   [^flo]: O Estado (Florianópolis), 73, no. 2218, October 21, 1987, Newspaper, reproduced in Graziele Regina de Amorim, Outsiders do bairro Trindade: “Pacto da morte” ou “Gangue da Aids”? Para além da construção de um episódio (Florianópolis 1987) (“Outsiders from the Trindade Neighborhood: ‘Death Pact’ or ‘AIDS Gang’? Beyond the Construction of an Episode [Florianópolis, 1987]”), master’s thesis, Universidade Federal de Santa Catarina, 2009, 175.https://repositorio.ufsc.br/handle/123456789/93082 
+
+   [^dia]: O Dia (Brazil), newspaper clipping, 1984, in Práticas de cuidados às populações em situações de vulnerabilidades (Care Practices for Populations in Situations of Vulnerability), ed. Luís Paulo Souza e Souza and Rosana Franciele Botelho Ruas (Campo Grande, MS: Editora Inovar, 2024): 75.https://www.editorainovar.com.br/omp/index.php/inovar/catalog/view/1192/402/2207
+
 
 
 
