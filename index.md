@@ -64,12 +64,9 @@ header-position: center
   Politicians also showed confusion and prejudice. During debates connected to Brazil’s 1988 Constitution, Congressman and physician Raimundo Bezerra claimed that mosquitoes could spread HIV. Other members of Congress repeated misinformation about the disease or described AIDS as a consequence of “immorality.” Some politicians even described AIDS as a punishment for “sin” and criticized government condom campaigns because they believed these campaigns encouraged homosexuality and sexual freedom. [^ag] Public fear increased because scientific information remained limited. Hospitals lacked preparation to receive growing numbers of patients, and many doctors had little training about HIV transmission and treatment. [^cartas] Some families abandoned relatives diagnosed with AIDS, especially transgender people. [^brenda]
 
   However, while newspapers spread fear, politicians debated, and hospitals struggled with limited resources, activists were already organizing responses. However, while newspapers spread fear, politicians debated, and hospitals struggled with limited resources, activists were already organizing responses. The newspaper Lampião da Esquina, one of the most important queer publications during the 1970s and early 1980s. Its cover, ‘A National Gay Meeting Took Place in Rio,' discussed violence suffered by queer people; gender, race, and sexual discrimination; and national meetings organized by queer groups in 1980.[^ag1] João Antônio Mascarenhas, founder of Lampião da Esquina, also defended legal protections against discrimination based on sexual orientation during the Constituent Assembly debates of the 1987. [^br2]
-  
-  Activists also challenged discrimination through legal action. In 1987, Folha de São Paulo reported that homosexual organizations in Pernambuco sued a judge accused of discriminatory statements that associated gay people with the spread of the “gay plague” in Brazil. During the early 1990s, transgender activists in São Paulo also organized politically to demand state protection from violence and better access to formal employment. 
+  Activists also challenged discrimination through legal action. In 1987, the group Triângulo Rosa, funded by Mascarenhas, sued Judge Cláudio Américo de Miranda after he publicly stated that he would never allow homosexuals to become judges. [^juiz]. 
 
   Activists helped transform HIV/AIDS from a stigmatized ‘gay plague’ into a public health and human rights issue within Brazilian democracy.
-
-
 
   {% assign images =
 "/assets/images/SC.png,
@@ -390,6 +387,8 @@ In cunclusion...
   [^flo]: O Estado (Florianópolis), 73, no. 2218, October 21, 1987, Newspaper, reproduced in Graziele Regina de Amorim, Outsiders do bairro Trindade: “Pacto da morte” ou “Gangue da Aids”? Para além da construção de um episódio (Florianópolis 1987) (“Outsiders from the Trindade Neighborhood: ‘Death Pact’ or ‘AIDS Gang’? Beyond the Construction of an Episode [Florianópolis, 1987]”), master’s thesis, Universidade Federal de Santa Catarina, 2009, 175.https://repositorio.ufsc.br/handle/123456789/93082 
 
    [^dia]: O Dia (Brazil), newspaper clipping, 1984, in Práticas de cuidados às populações em situações de vulnerabilidades (Care Practices for Populations in Situations of Vulnerability), ed. Luís Paulo Souza e Souza and Rosana Franciele Botelho Ruas (Campo Grande, MS: Editora Inovar, 2024): 75.https://www.editorainovar.com.br/omp/index.php/inovar/catalog/view/1192/402/2207
+
+   [^juiz]: Grupo homossexual processa juiz de PE por discriminação (Homosexual Group Sues Pernambuco Judge for Discrimination), Folha de São Paulo, July 2, 1987, Cad. Cidades, Seção Mortes, reproduced in https://museubajuba.org/os-sombrios-anos-da-peste-gay/
 
 
 
