@@ -16,7 +16,7 @@ header-position: center
   text="firstimage"
 %}
 
-In the 1980s, fear and misinformation spread across Brazilian society as the HIV/AIDS crisis began to reach the country. Newspapers Notícias Populares (1983) described the first case of HIV/AIDS as the 'gay plague,' while other media claimed that AIDS was only a health issue in the United States.[^jornais] Initially, many Brazilians believed that HIV affected only gay men or foreigners.[^markito] Some politicians even defended banning HIV-positive people from entering the country.[^senado] Meanwhile, activists and people living with HIV pressured the Brazilian state to invest public money into the fight against HIV/AIDS in Brazil.[^ongbook]
+ In the 1980s, fear and misinformation spread across Brazilian society as the HIV/AIDS crisis began to reach the country. Newspapers Notícias Populares (1983) described the first case of HIV/AIDS as the 'gay plague,' while other media claimed that AIDS was only a health issue in the United States.[^jornais] Initially, many Brazilians believed that HIV affected only gay men or foreigners.[^markito] Some politicians even defended banning HIV-positive people from entering the country.[^senado] Meanwhile, activists and people living with HIV pressured the Brazilian state to invest public money into the fight against HIV/AIDS in Brazil.[^ongbook]
 
  
 
