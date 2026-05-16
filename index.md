@@ -32,8 +32,7 @@ header-position: center
   class="center"
   width="100%"
   text="firstimage"
-  style="margin-right: 15px; margin-bottom: 10px; padding: 10px"
-%}
+  %}
 
  Most of you are familiar with the United States' response to HIV/AIDS. Under President Ronald Reagan, the federal government responded slowly to the demands of non-governmental organizations (NGOs), while many people in the US depended on private insurance for treatment.[^dan] Brazil followed a different path. The Brazilian state worked with NGOs and activists. Together, they created national campaigns to challenge the idea that HIV/AIDS only affected gay men.   Activists and politicians also contributed to social rights in Brazil’s new Constitution (1988). [^janeg] Some of these included retirement benefits for people living with HIV and the recognition of healthcare as a right rather than a private service, which expanded access to treatment for poor people living with HIV/AIDS. [^law1988]. Then, a law passed in 1996 made Brazil known for one of the most important public health responses to HIV/AIDS in the world. [^1996] However, the Brazilian state did not achieve this alone. 
 
