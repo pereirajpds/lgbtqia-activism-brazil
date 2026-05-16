@@ -65,6 +65,7 @@ header-position: center
 
   However, while newspapers spread fear, politicians debated, and hospitals struggled with limited resources, activists were already organizing responses. However, while newspapers spread fear, politicians debated, and hospitals struggled with limited resources, activists were already organizing responses. The newspaper Lampião da Esquina, one of the most important queer publications during the 1970s and early 1980s. Its cover, ‘A National Gay Meeting Took Place in Rio,' discussed violence suffered by queer people; gender, race, and sexual discrimination; and national meetings organized by queer groups in 1980.[^ag1] João Antônio Mascarenhas, founder of Lampião da Esquina, also defended legal protections against discrimination based on sexual orientation during the Constituent Assembly debates of the 1987. [^br2]
   
+  
   Activists also challenged discrimination through legal action. In 1987, Folha de São Paulo reported that homosexual organizations in Pernambuco sued a judge accused of discriminatory statements that associated gay people with the spread of the “gay plague” in Brazil. During the early 1990s, transgender activists in São Paulo also organized politically to demand state protection from violence and better access to formal employment. 
 
   {% assign images =
