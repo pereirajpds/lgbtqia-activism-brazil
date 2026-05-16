@@ -18,6 +18,8 @@ header-position: center
 
 In the 1980s, fear and misinformation spread across Brazilian society as the HIV/AIDS crisis began to reach the country. Newspapers Notícias Populares (1983) described the first case of HIV/AIDS as the 'gay plague,' while other media claimed that AIDS was only a health issue in the United States.[^jornais] Initially, many Brazilians believed that HIV affected only gay men or foreigners.[^markito] Some politicians even defended banning HIV-positive people from entering the country.[^senado] Meanwhile, activists and people living with HIV pressured the Brazilian state to invest public money into the fight against HIV/AIDS in Brazil.[^ongbook]
 
+ The HIV/AIDS crisis of the 1980s and 1990s coincided with Brazil’s period of redemocratization (1979-1985). This period marked a transition from dictatorship to democracy. Brazil was ending more than twenty years of military dictatorship (1964–1985). Political exiles and human rights activists returned to Brazil after years abroad. Social movements such as Black, queer, and feminist ones emerged.[^alvarez] Politicians and social movements debated a new constitution to include labor rights, non-discrimination policies, and free public health as a constitutional right. This political transition shaped Brazil’s response to HIV/AIDS from the 1980s to the 1990s.[^jane]
+
 {% include images/figure.html
   image-path="/assets/images/dinheiro.png"
   caption="***Figure2:*** 4th Meeting of People Living with HIV, Rio de Janeiro, 1994. The main poster says Money is scarce, AIDS is not.https://pelavidda.org.br/vivendo.html"
@@ -26,8 +28,6 @@ In the 1980s, fear and misinformation spread across Brazilian society as the HIV
   width="100%"
   text="firstimage"
 %}
-
- The HIV/AIDS crisis of the 1980s and 1990s coincided with Brazil’s period of redemocratization (1979-1985). This period marked a transition from dictatorship to democracy. Brazil was ending more than twenty years of military dictatorship (1964–1985). Political exiles and human rights activists returned to Brazil after years abroad. Social movements such as Black, queer, and feminist ones emerged.[^alvarez] Politicians and social movements debated a new constitution to include labor rights, non-discrimination policies, and free public health as a constitutional right. This political transition shaped Brazil’s response to HIV/AIDS from the 1980s to the 1990s.[^jane]
 
  Most of you are familiar with the United States' response to HIV/AIDS. Under President Ronald Reagan, the federal government responded slowly to the demands of non-governmental organizations (NGOs), while many people in the US depended on private insurance for treatment.[^dan] Brazil followed a different path. The Brazilian state worked with NGOs and activists. Together, they created national campaigns to challenge the idea that HIV/AIDS only affected gay men.   Activists and politicians also contributed to social rights in Brazil’s new Constitution (1988). [^janeg] Some of these included retirement benefits for people living with HIV and the recognition of healthcare as a right rather than a private service, which expanded access to treatment for poor people living with HIV/AIDS. [^law1988]. Then, a law passed in 1996 made Brazil known for one of the most important public health responses to HIV/AIDS in the world. [^1996] However, the Brazilian state did not achieve this alone. 
 
