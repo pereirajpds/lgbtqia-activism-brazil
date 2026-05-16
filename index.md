@@ -57,7 +57,7 @@ header-position: center
   text="firstimage"
 %}
 
-  The first officially recognized AIDS cases in Brazil appeared in 1983. Newspapers quickly connected the disease to sexuality. Headlines described the “gay plague” arriving in São Paulo and terrifying the city. Like in the United States, many people treated HIV/AIDS not only as a medical crisis but also as a moral issue. 
+  The first officially recognized AIDS cases in Brazil appeared in 1983. Newspapers quickly connected the disease to sexuality. Headlines described the “gay plague” arriving in São Paulo and terrifying the city. [^jornais] Like in the United States, many people treated HIV/AIDS not only as a medical crisis but also as a discrimination issue. [^dan2]
 
   Many Brazilians believed HIV affected only gay men, drug users, sex workers, transgender people, or foreigners. Groups already targeted by discrimination also faced violence during the epidemic. In 1984, the newspaper O Dia reported that men shot and killed trans women because they associated them with AIDS. In 1987, the newspaper O Estado used the term “aidéticos,” a stigmatizing label for people living with AIDS, and claimed that drug users, including women, intentionally shared syringes to spread the virus to others.
 
@@ -327,7 +327,9 @@ In cunclusion...
 
  [^1996]: Brazil, Law No. 9,313, November 13, 1996 (Lei nº 9.313, de 13 de novembro de 1996) https://www.planalto.gov.br/ccivil_03/leis/l9313.htm Signed by President Fernando Henrique Cardoso, guaranteeing the free distribution of HIV/AIDS medication through Brazil’s public health system (SUS).
 
-  [^pela]: *Pela VIDDA* (NGO), Telegram to President of Brazil Fernando Henrique Cardoso, September 18, 1995, Instituto Fernando Henrique Cardoso Archive. http://acervo.ifhc.org.br/?linkId=90 
+ [^pela]: *Pela VIDDA* (NGO), Telegram to President of Brazil Fernando Henrique Cardoso, September 18, 1995, Instituto Fernando Henrique Cardoso Archive. http://acervo.ifhc.org.br/?linkId=90 
+
+ [^dan2]: Dan Royles, To Make the Wounded Whole: The African American Struggle Against HIV/AIDS (University of North Carolina Press, 2020): 4-5, 19, 141, 170-171.
 
 
 
