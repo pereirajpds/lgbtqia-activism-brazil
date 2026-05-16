@@ -271,6 +271,8 @@ In cunclusion...
 
  - ABIA (Associação Brasileira Interdisciplinar de AIDS). Solidariedade em Rede (Solidarity in Network). Pamphlet. 1989. Reproduced in Richard Parker, “Sobre a História da ABIA.” Accessed March 15, 2026. https://abiaids.org.br/wp-content/uploads/2019/03/6-Parker-Sobre-a-histo%CC%81ria-da-ABIA-2.pdf
 
+ - Agência Senado, “Aids chegou ao Brasil há 40 anos e trouxe terror, preconceito e desinformação” (“AIDS Arrived in Brazil 40 Years Ago and Brought Terror, Prejudice, and Misinformation”), Agência Senado, 2023.
+
  - Annals of the National Constituent Assembly (Anais da Assembleia Nacional Constituinte). Vol. 11. Brasília: Senado Federal, 1987. https://www.senado.leg.br/publicacoes/anais/constituinte/N011.pdf
 
  - Brazil. Law No. 7,670, September 8, 1988 (Lei nº 7.670, de 8 de setembro de 1988). Granting benefits to people living with HIV/AIDS. Câmara dos Deputados. Accessed May 1, 2026.  
@@ -336,8 +338,10 @@ In cunclusion...
 
  [^dan2]: Dan Royles, To Make the Wounded Whole: The African American Struggle Against HIV/AIDS (University of North Carolina Press, 2020): 4-5, 19, 141, 170-171.
 
- [^cartas]: Carta para Além dos Muros, directed by André Canto (Brazil Sendero Filmes, 2019), documentary, YouTube, posted by “Rinnesuke Hashiki,” accessed March15, 2026,https://www.youtube.com/watch?v=LULBaeqz2Zs&t=5221s
- The documentary includes interviews with physicians such as Drauzio Varella, HIV/AIDS activists, politicians, and people living with HIV/AIDS who experienced the epidemic during the 1980s and 1990s. 
+ [^cartas]: *Carta para Além dos Muros*, directed by André Canto (Brazil Sendero Filmes, 2019), documentary, YouTube, posted by “Rinnesuke Hashiki,” https://www.youtube.com/watch?v=LULBaeqz2Zs&t=5221s The documentary includes interviews with physicians such as Drauzio Varella, HIV/AIDS activists, politicians, and people living with HIV/AIDS who experienced the epidemic during the 1980s and 1990s. 
+
+  [^ag]: Agência Senado, “Aids chegou ao Brasil há 40 anos e trouxe terror, preconceito e desinformação” (“AIDS Arrived in Brazil 40 Years Ago and Brought Terror, Prejudice, and Misinformation”), Agência Senado, 2023.https://www12.senado.leg.br/noticias/especiais/arquivo-s/aids-chegou-ao-brasil-ha-40-anos-e-trouxe-terror-preconceito-e-desinformacao
+
 
  
 
