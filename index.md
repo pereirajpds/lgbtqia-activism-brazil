@@ -148,14 +148,7 @@ This image has a caption, but no title|
   Abia, 2021.  '
 %}
 
-<!-- this is an unclosed div that needs to be closed with bg-multi-long-close-->
-{% include scrollybox/bg-multi-long.html
-  bg-id="bg1"
-  image-path="/assets/images/boletin1.png"
-  above-box-space="0"
-  font-size = "90%"
-  line-height = "100%"
-%}
+
 
   <!-- this is an unclosed div that needs to be closed with bg-multi-long-close-->
 {% include scrollybox/bg-multi-long.html
@@ -176,7 +169,7 @@ This image has a caption, but no title|
   ### BACKGROUND IMAGE SWITCHES HERE
 
 {% include scrollybox/bg-switch.html
-  image-path="/assets/images/casacivil.png"
+  image-path="/assets/images/boletin1.png"
   switch-id="switch1"
   bg-id="bg1"
 %}
