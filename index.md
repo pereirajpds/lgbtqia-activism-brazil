@@ -26,7 +26,7 @@ header-position: center
   caption="***Figure2:*** 4th Meeting of People Living with HIV, Rio de Janeiro, 1994. 'The main poster says Money is scarce, AIDS is not.' Source: https://pelavidda.org.br/vivendo.html"
   alt-text="Hiking trail through a canyon in the Sandia foothills."
   class="center"
-  width="90%"
+  width="100%"
   text="firstimage"
 %}
 
@@ -143,7 +143,8 @@ This image has a caption, but no title|
   "It Doesn’t Matter With Whom."
   "There Is Something Positive Waiting for You. And It Is Not AIDS."
   "Serodiscordant Couples."
-  "Love, Life, Live."
+  "Love, Life, Live." 
+  These are some of the slogans from the ABIA newsletter.
   Abia, 2021.  '
 %}
 
