@@ -114,11 +114,18 @@ This image has a caption, but no title|
   Herbert Daniel was a former guerrilla fighter against Brazil’s military dictatorship and a queer civil rights. During the dictatorship, Daniel also contributed texts to the queer newspaper Lampião da Esquina. In 1989, the activist founded Grupo Pela VIDDA, an organization linked to ABIA that organized support groups, legal assistance, and anti-discrimination campaigns for people living with HIV/AIDS, especially in communities around Rio de Janeiro. In addition, the NGO pressures politicians to fulfill their political promises. Daniel announced that he lived with HIV in 1989 and died from health complications in 1992.[^abia3]
   
   Betinho became popular in Brazil for social activism and human rights work. He also had hemophilia and contracted HIV through contaminated blood transfusions, along with his brothers the cartoonist Henfil and musician Chico Mário.[^abia4] Their experiences helped show to society that HIV/AIDS not only affected gay men. This mattered politically.
+
+  {% include images/figure.html
+  image-path="/assets/images/backgrounds/abia.png"
+  caption="***Figure 6:*** Abia Bulletin. Live Life, a network of solidarity. Created by cartoonist Henfil."
+  alt-text="Hiking trail through a canyon in the Sandia foothills."
+  class="left"
+  width="40%"
+  text="firstimage"
+%}
   
   Newspapers, politicians, and physicians debated how to respond to the AIDS/HIV crisis in  Brazil’s new constitution through the idea of 'risk groups.' This links queer people and drug users as the main targets for HIV/AIDS. This language reinforced stigma and encouraged many Brazilians to believe they were 'safe' from HIV.[^abia5] Instead of focusing on 'risk groups,' activists emphasized 'risk behavior.' HIV was connected to actions and exposure, not only to sexuality. Anyone could contract the virus.[^abia6]
 
-  Newspapers, politicians, and physicians debated how to respond to the AIDS/HIV crisis in  Brazil’s new constitution through the idea of 'risk groups.' This links queer people and drug users as the main targets for HIV/AIDS. This language reinforced stigma and encouraged many Brazilians to believe they were 'safe' from HIV.[^abia5] Instead of focusing on 'risk groups,' activists emphasized 'risk behavior.' HIV was connected to actions and exposure, not only to sexuality. Anyone could contract the virus.[^abia6]
-   
   ABIA's activists reinforced this idea through public campaigns, bulletins, community meetings, posters, and educational materials. These sources explained how HIV spreads through unprotected sex, contaminated blood, and shared syringes and reinforced the importance of a solidarity network.[^abia] The organization also promoted self-esteem through artistic exhibitions such as 'cabaret from prevention,' naturalizing gay love while providing information to avoid risk behavior, banners, posters, and public campaigns. Some campaigns defended love between two men and relationships involving HIV-positive couples. Others promoted slogans such as 'Friends Are Friends, Needles Are Separate,' reinforcing that people should not share needles or syringes. ABIA tried to reduce fear and stigma while encouraging prevention and solidarity.[^abia7]
 
   ABIA’s bulletins also created spaces for readers to share experiences, ask for help, and build solidarity networks across Brazil. Some readers wrote letters describing illness, discrimination, loneliness, and the lack of medical treatment in their cities. Christian group wrote letter defended queer rights and opposed sexual discrimination. Others asked for support to create local HIV/AIDS organizations and community groups. HIV/AIDS activism connected healthcare, religion, sexuality, and mutual support during the epidemic.[^abia8]
