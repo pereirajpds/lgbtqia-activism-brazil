@@ -147,7 +147,7 @@ This image has a caption, but no title|
   "Serodiscordant Couples."
   "Love, Life, Live." 
   These are some of the slogans from the ABIA newsletter.
-  Abia, 2021.  '
+  (Abia, 2021).  '
 %}
   
   ABIA's members pressured the government for blood banks properly test donated blood for diseases such as HIV. The organization also organized meetings with politicians and national and international NGOs to defend public health policies and the rights of people living with HIV/AIDS.[^abia8] ABIA became a bridge between civil society, politicians, and international organizations such as the Ford Foundation.[^abia9]
@@ -163,15 +163,6 @@ This image has a caption, but no title|
   image2="/assets/images/pegar.png"
   caption=" ***Figure 6:*** Federal government, Ministry of Health Campaign (1988): ‘You can’t tell who has AIDS by looking.’’If you do not protect yourself, AIDS will get you.’‘Through contaminated needles and syringes.’ ‘Through blood transfusions or contact with contaminated blood.’ ‘ From an infected mother to her child during pregnancy or childbirth.”
   Source: Senate Agency. "
-%}
-
-{% include images/figure.html
-  image-path="/assets/images/backgrounds/encontro.png"
-  caption="***Figure 4:*** Abia."
-  alt-text="Hiking trail through a canyon in the Sandia foothills."
-  class="right"
-  width="40%"
-  text="firstimage"
 %}
 
   While organizations such as ABIA pressured politicians and transformed public debate, other activists focused on immediate survival. Community care emerged because the state failed to respond adequately during the early years of the epidemic. Many Brazilians living with HIV/AIDS could not access medications such as AZT, one of the first drugs used to treat the disease. The Brazilian government only approved this drug for use in 1991, started producing it nationally in 1993, and guaranteed free universal access through the public healthcare system in 1996. Until then, many people depended on informal solidarity networks to survive.[^jane5]
@@ -200,15 +191,10 @@ This image has a caption, but no title|
   
   During Brazil’s transition from dictatorship to democracy, activists also pushed for new social rights. Even though Brazil’s 1988 Constitution did not ban discrimination based on sexual orientation, people living with HIV/AIDS gained important legal protections.[^law1988] Brazil expanded free public healthcare, recognized retirement rights for people who became too sick to work, and, in 1996, guaranteed free HIV medication through the public healthcare system.[^1996] Rather than simply accepting social inequalities, discrimination and repression, activism during the HIV/AIDS crisis in Brazil transformed sexuality into a political issue connected to healthcare and human rights. 
 
-  ## Background Switching: The Advanced Feature
-  This is what makes Forest essays truly cinematic. You're about to scroll through a section where the background image **switches** as you read, creating a visual sequence that matches your narrative.
-
-  **Watch carefully:** The background will start with one image, then switch to another partway through. The text box stays visible throughout, but the background changes to match what you're reading about.
-
 <!-- this is an unclosed div that needs to be closed with bg-multi-long-close-->
 {% include scrollybox/bg-multi-long.html
   bg-id="bg1"
-  image-path="/assets/images/lei1998.png"
+  image-path="/assets/images/solid.png"
   above-box-space="0"
   font-size = "90%"
   line-height = "100%"
