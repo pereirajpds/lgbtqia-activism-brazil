@@ -112,6 +112,8 @@ This image has a caption, but no title|
   
   Newspapers, politicians, and physicians debated how to respond to the AIDS/HIV crisis in  Brazil’s new constitution through the idea of 'risk groups.' This links queer people and drug users as the main targets for HIV/AIDS. This language reinforced stigma and encouraged many Brazilians to believe they were 'safe' from HIV.[^abia5] Instead of focusing on 'risk groups,' activists emphasized 'risk behavior.' HIV was connected to actions and exposure, not only to sexuality. Anyone could contract the virus.[^abia6]
 
+  ABIA reinforced this idea through public campaigns, bulletins, community meetings, and educational materials that explained how HIV spread through unprotected sex, contaminated blood, shared syringes and reinforce the importace of a solidarity neetwork.[^abia] The organization also promoted self esteem through artistic exhibitions suca as 'cabaret from prevention,' naturalizing gay love while porvide information to avoid risk behavior, banners, posters, and public campaigns. Some campaigns defended love between two men and relationships involving HIV-positive couples. Others promoted slogans such as “Friends, friends, syringes apart,” reinforcing that people should not share needles or syringes. ABIA tried to reduce fear and stigma while encouraging prevention and solidarity.[^abia7]
+
 
 ## Conclusion
 
@@ -354,6 +356,8 @@ In cunclusion...
 
  - ABIA (Associação Brasileira Interdisciplinar de AIDS). Solidariedade em Rede (Solidarity in Network). Pamphlet. 1989. Reproduced in Richard Parker, “Sobre a História da ABIA.” Accessed March 15, 2026. https://abiaids.org.br/wp-content/uploads/2019/03/6-Parker-Sobre-a-histo%CC%81ria-da-ABIA-2.pdf
 
+ - ABIA Poster of cultural exhibitions as a cabaret of prevention and campaign advertisements in Richard Parker and Peter Aggleton, Estigma, discriminação e AIDS (Rio de Janeiro: Associação Brasileira Interdisciplinas de Aids, ABIA, 2021)
+
  - Agência Senado, “Aids chegou ao Brasil há 40 anos e trouxe terror, preconceito e desinformação” (“AIDS Arrived in Brazil 40 Years Ago and Brought Terror, Prejudice, and Misinformation”), Agência Senado, 2023.
 
  - Annals of the National Constituent Assembly (Anais da Assembleia Nacional Constituinte). Vol. 11. Brasília: Senado Federal, 1987. https://www.senado.leg.br/publicacoes/anais/constituinte/N011.pdf
@@ -462,6 +466,8 @@ In cunclusion...
    [^abia5]: Agência Senado, “Aids chegou ao Brasil há 40 anos e trouxe terror, preconceito e desinformação” (“AIDS Arrived in Brazil 40 Years Ago and Brought Terror, Prejudice, and Misinformation”), Agência Senado, 2023.https://www12.senado.leg.br/noticias/especiais/arquivo-s/aids-chegou-ao-brasil-ha-40-anos-e-trouxe-terror-preconceito-e-desinformacao This file includes a photograph of the cover of Lampião da Esquina, year 2, issue no. 20 (1980). This file contains speeches by politicians during  Brazil’s Constituent Assembly. Some politicians and physicians still described HIV/AIDS through moral judgment and the idea of “risk groups.” Members of the Health Subcommittee often connected the epidemic to homosexuality, drug use, and “acceptable” behavior instead of focusing only on forms of prevention.
 
    [^abia6]: ABIA (Associação Brasileira Interdisciplinar de AIDS). Solidariedade em Rede (Solidarity in Network). Pamphlet and Report. 1989. Reproduced in Richard Parker, Sobre a História da ABIA. Accessed March 15, 2026. https://abiaids.org.br/wp-content/uploads/2019/03/6-Parker-Sobre-a-histo%CC%81ria-da-ABIA-2.pdf Richard Parker and Peter Aggleton, Estigma, discriminação e AIDS (Rio de Janeiro: Associação Brasileira Interdisciplinas de Aids, ABIA, 2021): 18, 58-59, 73 https://abiaids.org.br/wp-content/uploads/2021/05/livro-digital-final-ESTIGMA-DISCRIMINA%C3%87%C3%83O-E-AIDS-pagina-espelhada-10052020.pdf Richard Parker is an American anthropologist and one of ABIA’s founders. Parker is president of ABIA and has been participating  in many debates about HIV/AIDS policies and activism in the Brazil since the 1980s. 
+
+   [^abia7]: ABIA Poster of cultural exhibitions as a cabaret of prevention and campaign advertisements in Richard Parker and Peter Aggleton, Estigma, discriminação e AIDS (Rio de Janeiro: Associação Brasileira Interdisciplinas de Aids, ABIA, 2021): 12, 17, 23, 54.https://abiaids.org.br/wp-content/uploads/2021/05/livro-digital-final-ESTIGMA-DISCRIMINA%C3%87%C3%83O-E-AIDS-pagina-espelhada-10052020.pdf ABIA (Associação Brasileira Interdisciplinar de AIDS). 
 
 
 
