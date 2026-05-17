@@ -107,9 +107,7 @@ This image has a caption, but no title|
   
   Brazil’s transition from dictatorship to democracy created new political opportunities during the late 1970s and 1980s. After the Amnesty Law of 1979, political exiles returned to the country, censorship weakened, and social movements expanded. Feminist organizations, Black movements, labor unions and queer  groups became active. ABIA, the Brazilian Interdisciplinary AIDS Association, emerged in this context.[^abia1] Sociologists and human rights activists Herbert Daniel (1946–1992) and Herbert 'Betinho' de Souza (1935–1997) founded ABIA in 1986 after returning to Brazil from years of political exile.[^abia2]
 
-  Herbert Daniel was a former guerrilla fighter against Brazil’s military dictatorship and a queer civil rights. During the dictatorship, Daniel also contributed texts to the queer newspaper Lampião da Esquina. In 1989, the activist founded Grupo Pela VIDDA, an organization linked to ABIA that organized support groups, legal assistance, and anti-discrimination campaigns for people living with HIV/AIDS, especially in communities around Rio de Janeiro. Daniel publicly announced that he lived with HIV in 1989 and died from health complications in 1992.[^abia3]
-
-{% include images/figure.html
+  {% include images/figure.html
   image-path="/assets/images/backgrounds/daniel1.png"
   caption="***Figure5:*** Herbert Daniel (946 – 1992). Source: https://www.dukeupress.edu/exile-within-exiles "
   alt-text="Hiking trail through a canyon in the Sandia foothills."
@@ -117,10 +115,10 @@ This image has a caption, but no title|
   width="45%"
   text="firstimage"
 %}
+  Herbert Daniel was a former guerrilla fighter against Brazil’s military dictatorship and a queer civil rights. During the dictatorship, Daniel also contributed texts to the queer newspaper Lampião da Esquina. In 1989, the activist founded Grupo Pela VIDDA, an organization linked to ABIA that organized support groups, legal assistance, and anti-discrimination campaigns for people living with HIV/AIDS, especially in communities around Rio de Janeiro. Daniel publicly announced that he lived with HIV in 1989 and died from health complications in 1992.[^abia3]
+  
+  Betinho became nationally known for social activism and human rights work. He also had hemophilia and contracted HIV through contaminated blood transfusions, along with his brothers the cartoonist Henfil and musician Chico Mário.[^abia4] Their experiences helped show that HIV/AIDS not only affected gay men. This mattered politically.
 
-  
-  Betinho became nationally known for social activism and human rights work. He also had hemophilia and contracted HIV through contaminated blood transfusions, along with his brothers the cartoonist Henfil and musician Chico Mário.[^abia4] Their experiences helped show that HIV/AIDS not only affected gay men. This mattered politically. 
-  
   Newspapers, politicians, and physicians debated how to respond to the AIDS/HIV crisis in  Brazil’s new constitution through the idea of 'risk groups.' This links queer people and drug users as the main targets for HIV/AIDS. This language reinforced stigma and encouraged many Brazilians to believe they were 'safe' from HIV.[^abia5] Instead of focusing on 'risk groups,' activists emphasized 'risk behavior.' HIV was connected to actions and exposure, not only to sexuality. Anyone could contract the virus.[^abia6]
 
   ABIA reinforced this idea through public campaigns, bulletins, community meetings, and educational materials that explained how HIV spread through unprotected sex, contaminated blood, shared syringes and reinforce the importace of a solidarity neetwork.[^abia] The organization also promoted self esteem through artistic exhibitions suca as 'cabaret from prevention,' naturalizing gay love while porvide information to avoid risk behavior, banners, posters, and public campaigns. Some campaigns defended love between two men and relationships involving HIV-positive couples. Others promoted slogans such as “Friends, friends, syringes apart,” reinforcing that people should not share needles or syringes. ABIA tried to reduce fear and stigma while encouraging prevention and solidarity.[^abia7]
