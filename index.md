@@ -107,7 +107,7 @@ This image has a caption, but no title|
   caption="***Figure 5:*** Herbert Daniel (946 – 1992). Source: https://www.dukeupress.edu/exile-within-exiles "
   alt-text="Hiking trail through a canyon in the Sandia foothills."
   class="left"
-  width="40%"
+  width="35%"
   text="firstimage"
 %}
 
@@ -166,7 +166,8 @@ This image has a caption, but no title|
   {% include images/figure.html
   image-path="/assets/images/AZT.png"
   caption="***Figure7:*** Brazil started to produce AZT (Zidovudine) in 1993.
-  https://www.ioc.fiocruz.br/aids20anos/linhadotempo.html"
+  https://www.ioc.fiocruz.br/aids20anos
+  /linhadotempo.html"
   alt-text="Hiking trail through a canyon in the Sandia foothills."
   class="left"
   width="35%"
