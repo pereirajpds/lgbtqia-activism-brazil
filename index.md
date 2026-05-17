@@ -236,7 +236,23 @@ This image has a caption, but no title|
   - Evidence building (showing multiple sources for one argument)
   -  Visual comparisons while maintaining narrative flow
 
-  Duis ut dui dolor. Integer eu lectus at tellus accumsan euismod eget a ligula. Morbi venenatis, elit eu varius fermentum, ligula est dictum massa, sit amet ullamcorper augue nisl ut nunc.
+  ## Conclusion
+
+  Brazil’s response to HIV/AIDS did not begin with the government. Activists, informal networks, doctors, and marginalized communities built many of the first responses to the epidemic. What began as social exclusion later became one of the most important public HIV/AIDS treatment systems in the world.
+  
+  In the 1980s and 1990s, Brazil faced two major transformations at the same time. The country was leaving more than twenty years of military dictatorship and rebuilding democracy just as the HIV/AIDS epidemic was spreading across the world. The history of HIV/AIDS in Brazil therefore reveals more than the history of a disease. It shows how ordinary people helped reshape debates about democracy, healthcare, sexuality, citizenship, and human dignity during one of the most difficult moments in modern Brazilian history.
+  
+  At first, fear and misinformation shaped how many Brazilians understood AIDS. Newspapers, politicians, and even some doctors described HIV/AIDS as a disease connected to homosexual men, drug users, and other so-called ‘risk groups.’ Part of civil society and politicians believed the epidemic existed only in the United States or Europe and not in Brazil. Others treated AIDS as a moral issue instead of a public health crisis. They blamed people’s sexuality or lifestyle instead of focusing on prevention, treatment, healthcare access, and social support.
+  
+  Patients, doctors, NGOs, queer communities, and activists challenged these ideas. Brazil’s response to HIV/AIDS did not come only from the state. Activists pressured the government to act while also creating immediate forms of care. They organized shelters, support groups, protests, prevention campaigns, and informal treatment networks across the country. They claimed that AIDS was not only about sexuality. Poverty, racism, gender inequality, discrimination, and public healthcare shaped the epidemic.
+  
+  The Brazilian government created national HIV/AIDS policies in the beginning of the 1990s. Before that, Brenda Lee transformed her house into a shelter for people abandoned during the epidemic. Doctors, volunteers, and activists created informal care systems for HIV patients rejected by hospitals and families. Flight attendants, NGOs, and community groups carried medicines in suitcases, raised money, and shared information about treatment and prevention.
+  
+  The HIV and AIDS crisi also changed public discussions about sexuality in Brazil. During the dictatorship and the first years of the epidemic, many politicians, newspapers, and religious groups tried to silence discussions about homosexuality, drug use, and sexual behavior. HIV/AIDS activism challenged this misinformation. Activists organized protests, public campaigns, artistic exhibitions, shelters, and national meetings that forced Brazilian society to openly discuss prevention, discrimination, healthcare access, and sexuality.
+  
+  During Brazil’s transition to democracy, activists pushed for new social rights. Activists reshaped Brazil itself. Their pressure helped transform healthcare into a constitutional right and contributed directly to the 1996 law that guaranteed free HIV/AIDS treatment through the public healthcare system. Brazil later became internationally recognized for its HIV/AIDS policies, but this achievement depended on collective struggle. 
+  
+  However, the epidemic did not end discrimination. Many people living with HIV/AIDS still faced stigma, poverty, racism, homophobia, and difficulties accessing treatment. In 1989, activist Herbert de Souza, known as Betinho, argued that Brazil could become an example in the fight against HIV/AIDS through solidarity and collective action. More than thirty years later, Richard Parker, one of ABIA’s founders and current president, continues to defend this idea. Parker argues that HIV/AIDS is not only a medical issue because inequality and discrimination still shape who receives care, protection, and support in Brazil today. The fight against HIV/AIDS in Brazil shows that marginalized communities were not passive victims of the crisis. Queer and human rights activists became, and continue to be, important political actors who pressure the democratic state to respond.
 
 
   #### The End of This Sequence
