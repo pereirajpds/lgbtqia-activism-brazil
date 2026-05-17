@@ -148,6 +148,57 @@ This image has a caption, but no title|
   Abia, 2021.  '
 %}
 
+<!-- this is an unclosed div that needs to be closed with bg-multi-long-close-->
+{% include scrollybox/bg-multi-long.html
+  bg-id="bg1"
+  image-path="/assets/images/boletin1.png"
+  above-box-space="0"
+  font-size = "90%"
+  line-height = "100%"
+%}
+
+  <!-- this is an unclosed div that needs to be closed with bg-multi-long-close-->
+{% include scrollybox/bg-multi-long.html
+  bg-id="bg1"
+  image-path="/assets/images/boletin2.png"
+  above-box-space="0"
+  font-size = "90%"
+  line-height = "100%"
+%}
+
+  Now we have a text box scrolling up over the first image. At various points (clearly labeled below) **the background image will switch** while the text continues scrolling.
+
+  This is perfect for visual sequences: walking through a building room by room, showing historical change over time, or revealing evidence step by step.
+
+  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec ante ligula. Nulla fringilla ligula sit amet nisl consectetur ultricies. Mauris ac tellus eu ante lobortis rhoncus non eu nisl.
+
+
+  ### BACKGROUND IMAGE SWITCHES HERE
+
+{% include scrollybox/bg-switch.html
+  image-path="/assets/images/casacivil.png"
+  switch-id="switch1"
+  bg-id="bg1"
+%}
+
+
+### The New Background
+Did you notice the background change? The floorplan switched to the TV room photo. Your text continued scrolling, but the visual context shifted.
+
+**Why use background switching?**
+- Narrative sequences (first this happened, then that)
+- Spatial movement (from room to room, place to place)
+- Evidence building (showing multiple sources for one argument)
+- Visual comparisons while maintaining narrative flow
+
+Duis ut dui dolor. Integer eu lectus at tellus accumsan euismod eget a ligula. Morbi venenatis, elit eu varius fermentum, ligula est dictum massa, sit amet ullamcorper augue nisl ut nunc.
+
+
+#### The End of This Sequence
+Watch as the text box scrolls out of view, followed by the background image fading away. Then normal scrolling resumes.
+
+{% include scrollybox/bg-multi-long-close.html %}
+
   ABIA’s bulletins also created spaces for readers to share experiences, ask for help, and build solidarity networks across Brazil. Some readers wrote letters describing illness, discrimination, loneliness, and the lack of medical treatment in their cities. Christian group wrote letter defended queer rights and opposed sexual discrimination. Others asked for support to create local HIV/AIDS organizations and community groups. HIV/AIDS activism connected healthcare, religion, sexuality, and mutual support during the epidemic.[^abia8]
 
   ABIA pressured the government for blood banks properly test donated blood for diseases such as HIV. The organization also organized meetings with politicians and national and international NGOs to defend public health policies and the rights of people living with HIV/AIDS.[^abia8] ABIA became a bridge between civil society, politicians, and international organizations such as the Ford Foundation.[^abia9]
@@ -241,7 +292,7 @@ This image has a caption, but no title|
   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec ante ligula. Nulla fringilla ligula sit amet nisl consectetur ultricies. Mauris ac tellus eu ante lobortis rhoncus non eu nisl.
 
 
-  ### BACKGROUND IMAGE SWITCHES HERE
+### BACKGROUND IMAGE SWITCHES HERE
 
 {% include scrollybox/bg-switch.html
   image-path="/assets/images/lee4.png"
