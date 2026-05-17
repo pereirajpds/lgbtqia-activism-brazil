@@ -166,7 +166,7 @@ This image has a caption, but no title|
   Some Brazilian flight attendants, such as Mario Augusto dos Santos Filho and Alexandre Santos Silva, created informal networks to bring HIV medications from the United States to Brazil. They carried prescriptions and bought medicines abroad with donations or their own money. Many of these workers were employees of Varig, Brazil’s largest airline at the time. [^varig2]
 
   {% include images/figure.html
-  image-path="/assets/images/dinheiro.png"
+  image-path="/assets/images/AZT.png"
   caption="***Figure7:*** Brazil started to produce AZT (Zidovudine) in 1993.https://www.ioc.fiocruz.br/aids20anos/linhadotempo.html"
   alt-text="Hiking trail through a canyon in the Sandia foothills."
   class="center"
