@@ -101,7 +101,7 @@ This image has a caption, but no title|
   caption="***Figure4:*** Herbert José de Sousa, Betinho (1935-1997). Comitê Betinho 2023. Source: https://comitebetinho.org.br/biografia-betinho "
   alt-text="Hiking trail through a canyon in the Sandia foothills."
   class="right"
-  width="45%"
+  width="40%"
   text="firstimage"
 %}
   
@@ -112,7 +112,7 @@ This image has a caption, but no title|
   caption="***Figure5:*** Herbert Daniel (946 – 1992). Source: https://www.dukeupress.edu/exile-within-exiles "
   alt-text="Hiking trail through a canyon in the Sandia foothills."
   class="left"
-  width="45%"
+  width="40%"
   text="firstimage"
 %}
   Herbert Daniel was a former guerrilla fighter against Brazil’s military dictatorship and a queer civil rights. During the dictatorship, Daniel also contributed texts to the queer newspaper Lampião da Esquina. In 1989, the activist founded Grupo Pela VIDDA, an organization linked to ABIA that organized support groups, legal assistance, and anti-discrimination campaigns for people living with HIV/AIDS, especially in communities around Rio de Janeiro. Daniel publicly announced that he lived with HIV in 1989 and died from health complications in 1992.[^abia3]
