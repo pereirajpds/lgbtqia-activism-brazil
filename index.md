@@ -180,8 +180,8 @@ This image has a caption, but no title|
   position="top"
   image-path="/assets/images/lee4.png"
   above-box-space = "100vh"
-  box-content=' "If you have someone with AIDS and nowhere to stay, come to my house. Here we take care of them without discrimination." 
-  (Brenda Lee). https://www.youtube.com/watch?v=CdVwKJWUJ5w&t=1095s. '
+  box-content=' "If you have someone with AIDS and nowhere to stay, come to my house. Here we take care of them without discrimination." (Brenda Lee).
+  Source: https://www.youtube.com/watch?v=CdVwKJWUJ5w&t=1095s. '
 %}
   
   Brenda also raised money through television programs, public events, and solidarity campaigns to keep the shelter open. In 1988, the São Paulo State Health Secretariat created an official partnership with the Casa de Apoio Brenda Lee to care for HIV-positive patients. Her house became so important that many described it as an extension of Hospital Emílio Ribas. When she was murdered in 1996, doctors, activists, religious leaders, and former residents remembered her as a leader, a mother figure, and a symbol in the fight against AIDS. HIV/AIDS activists in Brazil did not limit their efforts to protests or formal organizations. Activism also happened inside homes and everyday networks of survival.[^mott]
