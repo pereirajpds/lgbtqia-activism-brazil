@@ -107,7 +107,7 @@ This image has a caption, but no title|
   caption="***Figure 5:*** Herbert Daniel (946 – 1992). Source: https://www.dukeupress.edu/exile-within-exiles "
   alt-text="Hiking trail through a canyon in the Sandia foothills."
   class="left"
-  width="40%"
+  width="30%"
   text="firstimage"
 %}
 
