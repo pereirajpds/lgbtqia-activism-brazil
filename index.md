@@ -118,7 +118,7 @@ This image has a caption, but no title|
   
   ABIA pressured the government for blood banks properly test donated blood for diseases such as HIV. The organization also organized meetings with politicians and national and international NGOs to defend public health policies and the rights of people living with HIV/AIDS. ABIA became a bridge between civil society, politicians, and international organizations such as the Ford Foundation. [^abia8]
   
-  ABIA’s activities, Betinho’s public activism, and the deaths of his famous brothers from HIV-related complications changed how many Brazilians understood AIDS. During a meeting of Brazil’s Constituent Assembly in 1988, representative José Genoino announced that Henfil had died after receiving contaminated blood that had not been tested for HIV. Genoino  also stated that Brazil needed to confront AIDS more seriously. Some politicians still expressed more sympathy for hemophiliacs infected through blood transfusions because many people did not associate them with homosexuality or drug use.[^ag1]
+  ABIA’s activities, Betinho’s public activism, and the deaths of his famous brothers from HIV-related complications changed how many Brazilians understood AIDS. During a meeting of Brazil’s Constituent Assembly in 1988, representative José Genoino announced that Henfil had died after receiving contaminated blood that had not been tested for HIV[^senado37] Genoino  also stated that Brazil needed to confront AIDS more seriously. Some politicians still expressed more sympathy for hemophiliacs infected through blood transfusions because many people did not associate them with homosexuality or drug use.[^ag1]
 
   As public debates about HIV/AIDS changed in the late 1980s, Brazil’s National AIDS Program also changed its campaigns. Federal campaigns started to show that HIV/AIDS could affect anyone, including women and heterosexual couples. State campaigns started to include women and heterosexual couples as possible targets of HIV/AIDS. The slogan ‘You Can’t Tell Who Has AIDS by Looking’ (1988) challenged the idea that only certain groups could get the disease. The campaign used the image of a healthy woman to show that HIV was not visible. It also explained that HIV spread through sex and shared needles and encouraged condom use. By focusing on behavior instead of identity, the campaign tried to reduce stigma and change how Brazilians understood the epidemic.
   
@@ -396,7 +396,7 @@ In cunclusion...
 
  - Agência Senado, “Aids chegou ao Brasil há 40 anos e trouxe terror, preconceito e desinformação” (“AIDS Arrived in Brazil 40 Years Ago and Brought Terror, Prejudice, and Misinformation”), Agência Senado, 2023.
 
- - Annals of the National Constituent Assembly (Anais da Assembleia Nacional Constituinte). Vol. 11. Brasília: Senado Federal, 1987. https://www.senado.leg.br/publicacoes/anais/constituinte/N011.pdf
+ - Annals of the National Constituent Assembly (Anais da Assembleia Nacional Constituinte). n.162. Brasília: Senado Federal, 1988. https://www.senado.leg.br/publicacoes/anais/constituinte/N011.pdf
 
  - Brazil. Law No. 7,670, September 8, 1988 (Lei nº 7.670, de 8 de setembro de 1988). Granting benefits to people living with HIV/AIDS. Câmara dos Deputados. Accessed May 1, 2026.  
  https://www2.camara.leg.br/legin/fed/lei/1988/lei-7670-8-setembro-1988-368200-publicacaooriginal-1-pl.html
@@ -447,7 +447,7 @@ In cunclusion...
 
  [^markito]: Biblioteca Nacional Digital, reproduced by Agência Senado, O estilista Markito: segundo o jornal Última Hora, uma vítima do ‘câncer gay.’early 1980s.https://www12.senado.leg.br/noticias/especiais/arquivo-s/aids-chegou-ao-brasil-ha-40-anos-e-trouxe-terror-preconceito-e-desinformacaoFashion According to the Newspaper Última Hora, a Victim of the ‘Gay Cancer.’ The newspaper reported that the famous Brazilian fashion designer Markito, who lived in New York, died from HIV/AIDS-related complications in the United States and that his body was being returned to Brazil. Markito's death was one of the first widely publicized cases of a Brazilian public figure.
 
- [^senado]: Annals of the National Constituent Assembly (Anais da Assembleia Nacional Constituinte), vol. 11 Brasília: Senado Federal,1987,363. 
+ [^senado]: Annals of the National Constituent Assembly (Anais da Assembleia Nacional Constituinte), 2, n.162 Brasília: Senado Federal,1988,363. 
 
  [^ongbook]: Picture 2 is from the 4th National Meeting of People Living with HIV and AIDS (1994), reproduced on the website of Grupo Pela VIDDA Rio de Janeiro,, accessed April 15, 2026, https://pelavidda.org.br/vivendo.html In picture 2, the 4th National Meeting of People Living with HIV and AIDS, hosted in Brazil during 1996, illustrates how to organize activists, patients, and advocacy networks around treatment access and citizenship rights from the 1990s. Reproduced on the website of Grupo Pela VIDDA Rio de Janeiro, an NGO supported by Associação Brasileira Interdisciplinar de AIDS (ABIA).
 
@@ -506,6 +506,8 @@ In cunclusion...
    [^abia7]: ABIA Poster of cultural exhibitions as a cabaret of prevention and campaign advertisements in Richard Parker and Peter Aggleton, Estigma, discriminação e AIDS (Rio de Janeiro: Associação Brasileira Interdisciplinas de Aids, ABIA, 2021): 12, 17, 23, 54.https://abiaids.org.br/wp-content/uploads/2021/05/livro-digital-final-ESTIGMA-DISCRIMINA%C3%87%C3%83O-E-AIDS-pagina-espelhada-10052020.pdf ABIA (Associação Brasileira Interdisciplinar de AIDS). 
 
    [^abia8]:Associação Brasileira Interdisciplinar de AIDS (ABIA), Boletim ABIA, no. 9 (Rio de Janeiro: ABIA, nd), 24-25. https://abiaids.org.br/_img/media/bol%20abia%2009.pdf ABIA produced Boletim ABIA to publish reports from HIV/AIDS meetings, public campaigns, prevention information, and letters sent by readers and people living with HIV/AIDS across Brazil. Activist Herbert Daniel edited some editions of the bulletin. The publication also revealed connections between Brazilian HIV/AIDS activism and international organizations, including events sponsored by the Ford Foundation.
+
+   [^senado37]: Annals of the National Constituent Assembly (Anais da Assembleia Nacional Constituinte), 2, n.162 Brasília: Senado Federal,1988, 37.
 
    
 
