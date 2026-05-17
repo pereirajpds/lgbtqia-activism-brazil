@@ -94,7 +94,7 @@ This image has a caption, but no title|
 
   Politicians rejected a proposal to include sexual orientation among the forms of discrimination prohibited by Brazil’s new Constitution. [^ementa] The debate revealed the resistance queer activists faced during Brazil’s transition to democracy. At the same time, activists helped transform HIV/AIDS from a stigmatized “gay plague” into a public health and human rights issue within Brazilian democracy.
 
-## ABIA, Queer Activism and the State Response to HIV/AIDS Crisis
+## ABIA, Queer Activism, and the State Response to the HIV/AIDS Crisis
 
 {% include images/figure.html
   image-path="/assets/images/backgrounds/herbet.png"
@@ -108,6 +108,16 @@ This image has a caption, but no title|
   Brazil’s transition from dictatorship to democracy created new political opportunities during the late 1970s and 1980s. After the Amnesty Law of 1979, political exiles returned to the country, censorship weakened, and social movements expanded. Feminist organizations, Black movements, labor unions and queer  groups became active. ABIA, the Brazilian Interdisciplinary AIDS Association, emerged in this context.[^abia1] Sociologists and human rights activists Herbert Daniel (1946–1992) and Herbert 'Betinho' de Souza (1935–1997) founded ABIA in 1986 after returning to Brazil from years of political exile.[^abia2]
 
   Herbert Daniel was a former guerrilla fighter against Brazil’s military dictatorship and a queer civil rights. During the dictatorship, Daniel also contributed texts to the queer newspaper Lampião da Esquina. In 1989, the activist founded Grupo Pela VIDDA, an organization linked to ABIA that organized support groups, legal assistance, and anti-discrimination campaigns for people living with HIV/AIDS, especially in communities around Rio de Janeiro. Daniel publicly announced that he lived with HIV in 1989 and died from health complications in 1992.[^abia3]
+
+{% include images/figure.html
+  image-path="/assets/images/backgrounds/daniel1.png"
+  caption="***Figure5:*** Herbert Daniel (946 – 1992). Source: https://www.dukeupress.edu/exile-within-exiles "
+  alt-text="Hiking trail through a canyon in the Sandia foothills."
+  class="left"
+  width="45%"
+  text="firstimage"
+%}
+
   
   Betinho became nationally known for social activism and human rights work. He also had hemophilia and contracted HIV through contaminated blood transfusions, along with his brothers the cartoonist Henfil and musician Chico Mário.[^abia4] Their experiences helped show that HIV/AIDS not only affected gay men. This mattered politically. 
   
