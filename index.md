@@ -132,6 +132,8 @@ This image has a caption, but no title|
 
   ABIA reinforced this idea through public campaigns, bulletins, community meetings, posters, and educational materials that explained how HIV spread through unprotected sex, contaminated blood, shared syringes and reinforce the importace of a solidarity neetwork.[^abia] The organization also promoted self esteem through artistic exhibitions suca as 'cabaret from prevention,' naturalizing gay love while provide information to avoid risk behavior, banners, posters, and public campaigns. Some campaigns defended love between two men and relationships involving HIV-positive couples. Others promoted slogans such as “Friends Are Friends, Needles Are Separate,” reinforcing that people should not share needles or syringes. ABIA tried to reduce fear and stigma while encouraging prevention and solidarity.[^abia7]
 
+  ABIA’s bulletins also created spaces for readers to share experiences, ask for help, and build solidarity networks across Brazil. Some readers wrote letters describing illness, discrimination, loneliness, and the lack of medical treatment in their cities. Christian group wrote letter defended queer rights and opposed sexual discrimination. Others asked for support to create local HIV/AIDS organizations and community groups. HIV/AIDS activism connected healthcare, religion, sexuality, and mutual support during the epidemic.[^abia8]
+
   {% include scrollybox/bg.html
   height="220vh"
   position="top"
@@ -147,59 +149,14 @@ This image has a caption, but no title|
   These are some of the slogans from the ABIA newsletter.
   Abia, 2021.  '
 %}
-
-
-
-  <!-- this is an unclosed div that needs to be closed with bg-multi-long-close-->
-{% include scrollybox/bg-multi-long.html
-  bg-id="bg1"
-  image-path="/assets/images/boletin2.png"
-  above-box-space="0"
-  font-size = "90%"
-  line-height = "100%"
-%}
-
-  Now we have a text box scrolling up over the first image. At various points (clearly labeled below) **the background image will switch** while the text continues scrolling.
-
-  This is perfect for visual sequences: walking through a building room by room, showing historical change over time, or revealing evidence step by step.
-
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec ante ligula. Nulla fringilla ligula sit amet nisl consectetur ultricies. Mauris ac tellus eu ante lobortis rhoncus non eu nisl.
-
-
-  ### BACKGROUND IMAGE SWITCHES HERE
-
-{% include scrollybox/bg-switch.html
-  image-path="/assets/images/boletin1.png"
-  switch-id="switch1"
-  bg-id="bg1"
-%}
-
-
-### The New Background
-Did you notice the background change? The floorplan switched to the TV room photo. Your text continued scrolling, but the visual context shifted.
-
-**Why use background switching?**
-- Narrative sequences (first this happened, then that)
-- Spatial movement (from room to room, place to place)
-- Evidence building (showing multiple sources for one argument)
-- Visual comparisons while maintaining narrative flow
-
-Duis ut dui dolor. Integer eu lectus at tellus accumsan euismod eget a ligula. Morbi venenatis, elit eu varius fermentum, ligula est dictum massa, sit amet ullamcorper augue nisl ut nunc.
-
-
-#### The End of This Sequence
-Watch as the text box scrolls out of view, followed by the background image fading away. Then normal scrolling resumes.
-
-{% include scrollybox/bg-multi-long-close.html %}
-
-  ABIA’s bulletins also created spaces for readers to share experiences, ask for help, and build solidarity networks across Brazil. Some readers wrote letters describing illness, discrimination, loneliness, and the lack of medical treatment in their cities. Christian group wrote letter defended queer rights and opposed sexual discrimination. Others asked for support to create local HIV/AIDS organizations and community groups. HIV/AIDS activism connected healthcare, religion, sexuality, and mutual support during the epidemic.[^abia8]
-
+  
   ABIA pressured the government for blood banks properly test donated blood for diseases such as HIV. The organization also organized meetings with politicians and national and international NGOs to defend public health policies and the rights of people living with HIV/AIDS.[^abia8] ABIA became a bridge between civil society, politicians, and international organizations such as the Ford Foundation.[^abia9]
   
   ABIA’s activities, Betinho’s public activism, and the deaths of his famous brothers from HIV-related complications changed how many Brazilians understood AIDS. During a meeting of Brazil’s Constituent Assembly in 1988, representative José Genoino announced that Henfil had died after receiving contaminated blood that had not been tested for HIV[^senado37] Genoino  also stated that Brazil needed to confront AIDS more seriously. Some politicians still expressed more sympathy for hemophiliacs infected through blood transfusions because many people did not associate them with homosexuality or drug use.[^ag1]
 
   As public debates about HIV/AIDS changed in the late 1980s, Brazil’s National AIDS Program also changed its campaigns. Federal campaigns started to show that HIV/AIDS could affect anyone, including women and heterosexual couples. State campaigns started to include women and heterosexual couples as possible targets of HIV/AIDS. The slogan ‘You Can’t Tell Who Has AIDS by Looking’ (1988) challenged the idea that only certain groups could get the disease. The campaign used the image of a healthy woman to show that HIV was not visible. It also explained that HIV spread through sex and shared needles and encouraged condom use.  In 1990, another federal campaign reinforced this message. The slogan ‘If You Do Not Protect Yourself, AIDS Will Get You’ explained that HIV could spread through sex, contaminated needles, blood transfusions, and pregnancy. The campaign targeted a broader public and continued to challenge the idea that only homosexual men could contract HIV/AIDS. By focusing on behavior instead of identity, the national campaign tried to reduce stigma and change how Brazilians understood the epidemic. [^ag7]
 
+   However, political debates still revealed important limitations. During Brazil’s Constituent Assembly in 1988, some politicians connected to religious organizations criticized government condom campaigns because they believed these campaigns encouraged homosexuality and sexual freedom. Representative Abigail Feitosa also criticized AIDS campaigns for showing the image of a young white woman while avoiding direct discussion about homosexual men, who many officials still considered a ‘risk group.’ At the same time, health reports already showed that HIV affected queer communities, women, children, people who received blood transfusions, and drug users. Even while criticizing the campaigns, Feitosa still described women as a ‘lower risk group.’ Politicians continued to use stigmatizing ideas about who could contract HIV/AIDS.[^abia11]
 
 {% include images/juxtapose.html
   image1="/assets/images/cara.png"
@@ -217,8 +174,6 @@ Watch as the text box scrolls out of view, followed by the background image fadi
   text="firstimage"
 %}
 
-  However, political debates still revealed important limitations. During Brazil’s Constituent Assembly in 1988, some politicians connected to religious organizations criticized government condom campaigns because they believed these campaigns encouraged homosexuality and sexual freedom. Representative Abigail Feitosa also criticized AIDS campaigns for showing the image of a young white woman while avoiding direct discussion about homosexual men, who many officials still considered a ‘risk group.’ At the same time, health reports already showed that HIV affected queer communities, women, children, people who received blood transfusions, and drug users. Even while criticizing the campaigns, Feitosa still described women as a ‘lower risk group.’ Politicians continued to use stigmatizing ideas about who could contract HIV/AIDS.[^abia11]
-
   While organizations such as ABIA pressured politicians and transformed public debate, other activists focused on immediate survival. Community care emerged because the state failed to respond adequately during the early years of the epidemic. Many Brazilians living with HIV/AIDS could not access medications such as AZT, one of the first drugs used to treat the disease. The Brazilian government only approved this drug for use in 1991, started producing it nationally in 1993, and guaranteed free universal access through the public healthcare system in 1996. Until then, many people depended on informal solidarity networks to survive.[^jane5]
   
   Some Brazilian flight attendants, such as Mario Augusto dos Santos Filho and Alexandre Santos Silva, created informal networks to bring HIV medications from the United States to Brazil. They carried prescriptions and bought medicines abroad with donations or their own money. Many of these workers were employees of Varig, Brazil’s largest airline at the time. [^varig2]
@@ -227,22 +182,23 @@ Watch as the text box scrolls out of view, followed by the background image fadi
   
   Brenda Lee (1948-1996) was a trans activist and one of the most important figures in Brazil’s fight against HIV/AIDS during the 1980s. She created the ‘Palace of the Princesses’ (Palácio das Princesas), a shelter for trans women.In the 1980s, Brazil still lacked public programs, medications, and healthcare structures to respond to HIV/AIDS. Many hospitals treated HIV patients with fear and prejudice.[^cartas] Some patients left hospitals but had nowhere to go. Brenda worked with doctors from the local hospital, activists, volunteers, and the São Paulo State Health Secretariat. Her house received people who no longer needed hospitalization but still needed medicine, food, shelter, and daily care. Many residents saw Brenda as a mother figure. Newspapers later called her the ‘Angel of AIDS’ because she cared for people abandoned during the epidemic.[^casada]
   
-   Brenda also raised money through television programs, public events, and solidarity campaigns to keep the shelter open. In 1988, the São Paulo State Health Secretariat created an official partnership with the Casa de Apoio Brenda Lee to care for HIV-positive patients. Her house became so important that many described it as an extension of Hospital Emílio Ribas. When she was murdered in 1996, doctors, activists, religious leaders, and former residents remembered her as a leader, a mother figure, and a symbol in the fight against AIDS. HIV/AIDS activists in Brazil did not limit their efforts to protests or formal organizations. Activism also happened inside homes and everyday networks of survival.[^mott]
+  Brenda also raised money through television programs, public events, and solidarity campaigns to keep the shelter open. In 1988, the São Paulo State Health Secretariat created an official partnership with the Casa de Apoio Brenda Lee to care for HIV-positive patients. Her house became so important that many described it as an extension of Hospital Emílio Ribas. When she was murdered in 1996, doctors, activists, religious leaders, and former residents remembered her as a leader, a mother figure, and a symbol in the fight against AIDS. HIV/AIDS activists in Brazil did not limit their efforts to protests or formal organizations. Activism also happened inside homes and everyday networks of survival.[^mott]
 
-   {% include scrollybox/bg.html
+{% include scrollybox/bg.html
   height="220vh"
   position="top"
   image-path="/assets/images/lee4.png"
   above-box-space = "100vh"
   box-content=' "If you have someone with AIDS and nowhere to stay, come to my house. Here we take care of them without discrimination."(Brenda Lee). https://www.youtube.com/watch?v=CdVwKJWUJ5w&t=1095s. '
 %}
-
-
-
   
-  ABIA's activists also worked directly with communities. They offered legal support to people facing discrimination and lack of healthcare access. ABIA also helped people find local NGOs and support groups. In a period of high mortality and limited state policies, activists distributed food, medications, condoms, and disposable syringes to vulnerable communities.ABIA activists also supported and coordinated local groups such as Grupo Pela VIDDA in Rio de Janeiro. These organizations build national meetings that connect activists, patients, physicians, and national and international NGOs. [^abia73]
+   ABIA's activists also worked directly with communities. They offered legal support to people facing discrimination and lack of healthcare access. ABIA also helped people find local NGOs and support groups. In a period of high mortality and limited state policies, activists distributed food, medications, condoms, and disposable syringes to vulnerable communities.ABIA activists also supported and coordinated local groups such as Grupo Pela VIDDA in Rio de Janeiro. These organizations build national meetings that connect activists, patients, physicians, and national and international NGOs. [^abia73]
   
   The Second National Meeting of AIDS NGOs, held in Porto Alegre in 1989, shows the rapid growth of AIDS activism in Brazil. Activists marched publicly with banners and protest signs demanding healthcare and fighting discrimination against people living with HIV/AIDS and queer communities. Participants also discussed poverty, racism, women’s rights, and public healthcare. These events transformed people living with HIV/AIDS from potenctial isolated patients into organized political actors within Brazilian democracy.[^abia74]
+
+  
+
+
   
   Partnerships between the Brazilian government, NGOs, local communities, and international organizations helped Brazil build one of the strongest HIV/AIDS programs in the developing world during the 1990s.[^cueto] Black movements, feminist groups, queer activists, physicians, researchers, and people living with HIV/AIDS all pressured the government to treat AIDS as a public health and human rights issue, not only as a moral problem.[^galvao3]
   
