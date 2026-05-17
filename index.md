@@ -98,7 +98,7 @@ This image has a caption, but no title|
 
 {% include images/figure.html
   image-path="/assets/images/backgrounds/herbet.png"
-  caption="***Figure4:*** Herbert José de Sousa, Betinho (1935-1997). Comitê Betinho 2023. Source: https://comitebetinho.org.br/biografia-betinho "
+  caption="***Figure 4:*** Herbert José de Sousa, Betinho (1935-1997). Comitê Betinho 2023. Source: https://comitebetinho.org.br/biografia-betinho "
   alt-text="Hiking trail through a canyon in the Sandia foothills."
   class="right"
   width="40%"
@@ -109,7 +109,7 @@ This image has a caption, but no title|
 
   {% include images/figure.html
   image-path="/assets/images/backgrounds/daniel1.png"
-  caption="***Figure5:*** Herbert Daniel (946 – 1992). Source: https://www.dukeupress.edu/exile-within-exiles "
+  caption="***Figure 5:*** Herbert Daniel (946 – 1992). Source: https://www.dukeupress.edu/exile-within-exiles "
   alt-text="Hiking trail through a canyon in the Sandia foothills."
   class="left"
   width="40%"
@@ -161,13 +161,13 @@ This image has a caption, but no title|
 {% include images/juxtapose.html
   image1="/assets/images/cara.png"
   image2="/assets/images/pegar.png"
-  caption=" Federal government, Ministry of Health Campaign (1988): ‘You can’t tell who has AIDS by looking.’ :’If you do not protect yourself, AIDS will get you.’‘Through contaminated needles and syringes.’ ‘Through blood transfusions or contact with contaminated blood.’  ‘ From an infected mother to her child during pregnancy or childbirth.”
+  caption=" ***Figure 6:*** Federal government, Ministry of Health Campaign (1988): ‘You can’t tell who has AIDS by looking.’’If you do not protect yourself, AIDS will get you.’‘Through contaminated needles and syringes.’ ‘Through blood transfusions or contact with contaminated blood.’ ‘ From an infected mother to her child during pregnancy or childbirth.”
   Source: Senate Agency. "
 %}
 
 {% include images/figure.html
   image-path="/assets/images/backgrounds/encontro.png"
-  caption="***Figure4:*** Abia."
+  caption="***Figure 4:*** Abia."
   alt-text="Hiking trail through a canyon in the Sandia foothills."
   class="right"
   width="40%"
