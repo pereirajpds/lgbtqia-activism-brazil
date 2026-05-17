@@ -214,10 +214,6 @@ This image has a caption, but no title|
   line-height = "100%"
 %}
 
- 
-
-
-  ### BACKGROUND IMAGE SWITCHES HERE
 
 {% include scrollybox/bg-switch.html
   image-path="/assets/images/casacivil.png"
@@ -228,10 +224,6 @@ This image has a caption, but no title|
   Partnerships between the Brazilian government, NGOs, local communities, and international organizations helped Brazil build one of the strongest HIV/AIDS programs in the developing world during the 1990s.[^cueto] Black movements, feminist groups, queer activists, physicians, researchers, and people living with HIV/AIDS all pressured the government to treat AIDS as a public health and human rights issue, not only as a moral problem.[^galvao3]
   
   During Brazil’s transition from dictatorship to democracy, activists also pushed for new social rights. Even though Brazil’s 1988 Constitution did not ban discrimination based on sexual orientation, people living with HIV/AIDS gained important legal protections.[^law1988] Brazil expanded free public healthcare, recognized retirement rights for people who became too sick to work, and, in 1996, guaranteed free HIV medication through the public healthcare system.[^1996] Rather than simply accepting social inequalities, discrimination and repression, activism during the HIV/AIDS crisis in Brazil transformed sexuality into a political issue connected to healthcare and human rights. 
-
-
-  #### The End of This Sequence
-  Watch as the text box scrolls out of view, followed by the background image fading away. Then normal scrolling resumes.
 
 {% include scrollybox/bg-multi-long-close.html %}
 
