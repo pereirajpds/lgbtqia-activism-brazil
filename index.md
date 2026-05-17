@@ -170,10 +170,10 @@ This image has a caption, but no title|
   
   Former flight attendants Mario Augusto dos Santos Filho and Alexandre Santos Silva later explained how crews, airport workers, and activists helped distribute medications, especially in Rio de Janeiro. Because flight crews often avoided customs inspections, they could transport medicines more easily. After becoming sick with HIV/AIDS, Silva also used retirement rights guaranteed by Brazil’s 1988 Constitution. These stories show how solidarity networks, activism, labor rights, and public healthcare became connected during the epidemic.[^varig2]
 
-    {% assign images =
+{% assign images =
 "/assets/images/flight.png,
 /assets/images/SP.png,
-/assets/images/betinho2.png," | split: ','
+/assets/images/betinho5.png," | split: ','
 %}
 
 {% assign headers =
