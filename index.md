@@ -114,7 +114,7 @@ This image has a caption, but no title|
 
   ABIA reinforced this idea through public campaigns, bulletins, community meetings, and educational materials that explained how HIV spread through unprotected sex, contaminated blood, shared syringes and reinforce the importace of a solidarity neetwork.[^abia] The organization also promoted self esteem through artistic exhibitions suca as 'cabaret from prevention,' naturalizing gay love while porvide information to avoid risk behavior, banners, posters, and public campaigns. Some campaigns defended love between two men and relationships involving HIV-positive couples. Others promoted slogans such as “Friends, friends, syringes apart,” reinforcing that people should not share needles or syringes. ABIA tried to reduce fear and stigma while encouraging prevention and solidarity.[^abia7]
 
-  ABIA’s bulletins also created spaces for readers to share experiences, ask for help, and build solidarity networks across Brazil. Some readers wrote letters describing illness, discrimination, loneliness, and the lack of medical treatment in their cities. Christian group wrote letter defended queer rights and opposed sexual discrimination. Others asked for support to create local HIV/AIDS organizations and community groups. HIV/AIDS activism connected healthcare, religion, sexuality, and mutual support during the epidemic. 
+  ABIA’s bulletins also created spaces for readers to share experiences, ask for help, and build solidarity networks across Brazil. Some readers wrote letters describing illness, discrimination, loneliness, and the lack of medical treatment in their cities. Christian group wrote letter defended queer rights and opposed sexual discrimination. Others asked for support to create local HIV/AIDS organizations and community groups. HIV/AIDS activism connected healthcare, religion, sexuality, and mutual support during the epidemic.[^abia8]
   
   ABIA pressured the government for blood banks properly test donated blood for diseases such as HIV. The organization also organized meetings with politicians and national and international NGOs to defend public health policies and the rights of people living with HIV/AIDS. ABIA became a bridge between civil society, politicians, and international organizations such as the Ford Foundation.
   
@@ -390,6 +390,8 @@ In cunclusion...
 
  - ABIA (Associação Brasileira Interdisciplinar de AIDS). Solidariedade em Rede (Solidarity in Network). Pamphlet. 1989. Reproduced in Richard Parker, “Sobre a História da ABIA.” Accessed March 15, 2026. https://abiaids.org.br/wp-content/uploads/2019/03/6-Parker-Sobre-a-histo%CC%81ria-da-ABIA-2.pdf
 
+ - Associação Brasileira Interdisciplinar de AIDS (ABIA). Boletim ABIA. No. 9. Rio de Janeiro: ABIA, nd. Accessed March 15, 2026. https://abiaids.org.br/_img/media/bol%20abia%2009.pdf
+
  - ABIA Poster of cultural exhibitions as a cabaret of prevention and campaign advertisements in Richard Parker and Peter Aggleton, Estigma, discriminação e AIDS (Rio de Janeiro: Associação Brasileira Interdisciplinas de Aids, ABIA, 2021)
 
  - Agência Senado, “Aids chegou ao Brasil há 40 anos e trouxe terror, preconceito e desinformação” (“AIDS Arrived in Brazil 40 Years Ago and Brought Terror, Prejudice, and Misinformation”), Agência Senado, 2023.
@@ -502,6 +504,8 @@ In cunclusion...
    [^abia6]: ABIA (Associação Brasileira Interdisciplinar de AIDS). Solidariedade em Rede (Solidarity in Network). Pamphlet and Report. 1989. Reproduced in Richard Parker, Sobre a História da ABIA. Accessed March 15, 2026. https://abiaids.org.br/wp-content/uploads/2019/03/6-Parker-Sobre-a-histo%CC%81ria-da-ABIA-2.pdf Richard Parker and Peter Aggleton, Estigma, discriminação e AIDS (Rio de Janeiro: Associação Brasileira Interdisciplinas de Aids, ABIA, 2021): 18, 58-59, 73 https://abiaids.org.br/wp-content/uploads/2021/05/livro-digital-final-ESTIGMA-DISCRIMINA%C3%87%C3%83O-E-AIDS-pagina-espelhada-10052020.pdf Richard Parker is an American anthropologist and one of ABIA’s founders. Parker is president of ABIA and has been participating  in many debates about HIV/AIDS policies and activism in the Brazil since the 1980s. 
 
    [^abia7]: ABIA Poster of cultural exhibitions as a cabaret of prevention and campaign advertisements in Richard Parker and Peter Aggleton, Estigma, discriminação e AIDS (Rio de Janeiro: Associação Brasileira Interdisciplinas de Aids, ABIA, 2021): 12, 17, 23, 54.https://abiaids.org.br/wp-content/uploads/2021/05/livro-digital-final-ESTIGMA-DISCRIMINA%C3%87%C3%83O-E-AIDS-pagina-espelhada-10052020.pdf ABIA (Associação Brasileira Interdisciplinar de AIDS). 
+
+   [^abia8]:Associação Brasileira Interdisciplinar de AIDS (ABIA), Boletim ABIA, no. 9 (Rio de Janeiro: ABIA, nd), 24-25. https://abiaids.org.br/_img/media/bol%20abia%2009.pdf ABIA produced Boletim ABIA to publish reports from HIV/AIDS meetings, public campaigns, prevention information, and letters sent by readers and people living with HIV/AIDS across Brazil. Activist Herbert Daniel edited some editions of the bulletin. The publication also revealed connections between Brazilian HIV/AIDS activism and international organizations, including events sponsored by the Ford Foundation.
 
 
 
