@@ -103,6 +103,8 @@ This image has a caption, but no title|
   width="45%"
   text="firstimage"
 %}
+  
+  Brazil’s transition from dictatorship to democracy created new political opportunities during the late 1970s and 1980s. After the Amnesty Law of 1979, political exiles returned to the country, censorship weakened, and social movements expanded. Feminist organizations, Black movements, labor unions and queer  groups became active. The HIV/AIDS crisis emerged within this context. One of the most important organizations was ABIA, the Brazilian Interdisciplinary AIDS Association. Sociologists and human rights activists Herbert Daniel (1946–1992) and Herbert 'Betinho' de Souza (1935–1997) founded ABIA in 1986 after returning to Brazil from years of political exile. 
 
 ## Conclusion
 
