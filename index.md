@@ -143,7 +143,8 @@ This image has a caption, but no title|
   "It Doesn’t Matter With Whom."
   "There Is Something Positive Waiting for You. And It Is Not AIDS."
   "Serodiscordant Couples."
-  "Love, Life, Live." '
+  "Love, Life, Live."
+  Abia, 2021. Source: https://abiaids.org.br/wp-content/uploads/2021/05/livro-digital-final-ESTIGMA-DISCRIMINA%C3%87%C3%83O-E-AIDS-pagina-espelhada-10052020.pdf '
 %}
 
   ABIA’s bulletins also created spaces for readers to share experiences, ask for help, and build solidarity networks across Brazil. Some readers wrote letters describing illness, discrimination, loneliness, and the lack of medical treatment in their cities. Christian group wrote letter defended queer rights and opposed sexual discrimination. Others asked for support to create local HIV/AIDS organizations and community groups. HIV/AIDS activism connected healthcare, religion, sexuality, and mutual support during the epidemic.[^abia8]
