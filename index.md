@@ -181,7 +181,6 @@ This image has a caption, but no title|
   image-path="/assets/images/lee4.png"
   above-box-space = "100vh"
   box-content=' "If you have someone with AIDS and nowhere to stay, come to my house. Here we take care of them without discrimination." 
-   Brenda worked with doctors from the local hospital, activists, volunteers, and the São Paulo State Health Secretariat. Her house received people who no longer needed hospitalization but still needed medicine, food, shelter, and daily care. Many residents saw Brenda as a mother figure. Newspapers later called her the ‘Angel of AIDS’ because she cared for people abandoned during the epidemic.[^casada]
   (Brenda Lee). https://www.youtube.com/watch?v=CdVwKJWUJ5w&t=1095s. '
 %}
   
