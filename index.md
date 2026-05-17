@@ -169,20 +169,18 @@ This image has a caption, but no title|
 
   Brenda Lee (1948-1996) was a trans activist and one of the most important figures in Brazil’s fight against HIV/AIDS during the 1980s. She created the ‘Palace of the Princesses’ (Palácio das Princesas), a shelter for trans women.In the 1980s, Brazil still lacked public programs, medications, and healthcare structures to respond to HIV/AIDS. Many hospitals treated HIV patients with fear and prejudice.[^cartas] Some patients left hospitals but had nowhere to go.
 
-## Image Carousels (From Sapling)
-All Sapling components work in Forest too. Here's a carousel for comparing multiple images:
+  ## Image Carousels (From Sapling)
+  All Sapling components work in Forest too. Here's a carousel for comparing multiple images:
 
 {% assign images =
-"images/flight.png,
-images/SP.png,
-images/betinho5.png" | split: ','
+"images/AB.png,
+images/CD.png,
+images/EF.png" | split: ','
 %}
 
 {% include images/carousel.html
 images = images
 %}
-
-Carousels work well after intense scrollybox sequences. They're interactive but less immersive than full-screen backgrounds, giving readers some control while maintaining visual interest.
 
  Brenda worked with doctors from the local hospital, activists, volunteers, and the São Paulo State Health Secretariat. Her house received people who no longer needed hospitalization but still needed medicine, food, shelter, and daily care. Many residents saw Brenda as a mother figure. Newspapers later called her the ‘Angel of AIDS’ because she cared for people abandoned during the epidemic.[^casada]
 
