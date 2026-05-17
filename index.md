@@ -157,8 +157,7 @@ This image has a caption, but no title|
 {% include images/juxtapose.html
   image1="/assets/images/cara.png"
   image2="/assets/images/pegar.png"
-  caption=" Figure 6: Federal government, Ministry of Health Campaign (1988) ‘You can’t tell who has AIDS by looking.’ Federal government, Ministry of Health Campaign (1990) If you do not protect yourself, AIDS will get you.’‘Through contaminated needles and syringes.’ ‘Through blood transfusions or contact with contaminated blood.’ ‘ From an infected mother to her child during pregnancy or childbirth.”
-  Source: Senate Agency. "
+  caption=" Figure 6: Federal government, Ministry of Health Campaign (1988). You can’t tell who has AIDS by looking. Federal government, Ministry of Health Campaign (1990) If you do not protect yourself, AIDS will get you. Through contaminated needles and syringes. Through blood transfusions or contact with contaminated blood. From an infected mother to her child during pregnancy or childbirth. Source: Senate Agency. "
 %}
 
   While organizations such as ABIA pressured politicians and transformed public debate, other activists focused on immediate survival. Community care emerged because the state failed to respond adequately during the early years of the epidemic. Many Brazilians living with HIV/AIDS could not access medications such as AZT, one of the first drugs used to treat the disease. The Brazilian government only approved this drug for use in 1991, started producing it nationally in 1993, and guaranteed free universal access through the public healthcare system in 1996. Until then, many people depended on informal solidarity networks to survive.[^jane5]
