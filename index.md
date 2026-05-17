@@ -110,7 +110,6 @@ This image has a caption, but no title|
   
   Betinho became nationally known for social activism and human rights work. He also had hemophilia and contracted HIV through contaminated blood transfusions, along with his brothers the cartoonist Henfil and musician Chico Mário.[^abia4] Their experiences helped show that HIV/AIDS not only affected gay men. This mattered politically. 
 
-  Newspapers, politicians, and physicians debated how to respond to the AIDS/HIV crisis in  Brazil’s new constitution through the idea of 'risk groups.' This links queer people and drug users as the main targets for HIV/AIDS. This language reinforced stigma and encouraged many Brazilians to believe they were 'safe' from HIV.[^abia5] Instead of focusing on 'risk groups,' activists emphasized 'risk behavior.' HIV was connected to actions and exposure, not only to sexuality. Anyone could contract the virus.[^abia6]
 
 
 ## Conclusion
