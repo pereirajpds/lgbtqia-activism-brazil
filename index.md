@@ -169,8 +169,8 @@ This image has a caption, but no title|
   image-path="/assets/images/AZT.png"
   caption="***Figure7:*** Brazil started to produce AZT (Zidovudine) in 1993.https://www.ioc.fiocruz.br/aids20anos/linhadotempo.html"
   alt-text="Hiking trail through a canyon in the Sandia foothills."
-  class="center"
-  width="100%"
+  class="left"
+  width="40%"
   text="firstimage"
 %}
 
