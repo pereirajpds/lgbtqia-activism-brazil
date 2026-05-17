@@ -108,7 +108,9 @@ This image has a caption, but no title|
 
   Herbert Daniel was a former guerrilla fighter against Brazil’s military dictatorship and a queer civil rights. During the dictatorship, Daniel also contributed texts to the queer newspaper Lampião da Esquina. In 1989, the activist founded Grupo Pela VIDDA, an organization linked to ABIA that organized support groups, legal assistance, and anti-discrimination campaigns for people living with HIV/AIDS, especially in communities around Rio de Janeiro. Daniel publicly announced that he lived with HIV in 1989 and died from health complications in 1992.[^abia3]
   
-  Betinho became nationally known for social activism and human rights work. He also had hemophilia and contracted HIV through contaminated blood transfusions, along with his brothers the cartoonist Henfil and musician Chico Mário.[^abia4] Their experiences helped show that HIV/AIDS not only affected gay men. This mattered politically.
+  Betinho became nationally known for social activism and human rights work. He also had hemophilia and contracted HIV through contaminated blood transfusions, along with his brothers the cartoonist Henfil and musician Chico Mário.[^abia4] Their experiences helped show that HIV/AIDS not only affected gay men. This mattered politically. 
+
+  Newspapers, politicians, and physicians debated how to respond to the AIDS/HIV crisis in  Brazil’s new constitution through the idea of “risk groups.” This links queer people and drug users as the main targets for HIV/AIDS. This language reinforced stigma and encouraged many Brazilians to believe they were “safe” from HIV.[^abia5] 
 
 
 ## Conclusion
@@ -456,6 +458,8 @@ In cunclusion...
    [^abia3]: Brasil. Ministério da Saúde. Secretaria de Vigilância em Saúde e Ambiente. Departamento de HIV, AIDS, Tuberculose, Hepatites Virais e Infecções Sexualmente Transmissíveis, *Histórias da Aids no Brasil: 1983–2003* (Histories of AIDS in Brazil: 1983–2003), 2nd ed., 2 vols. (Brasília: Ministério da Saúde, 2025): 19, 36-37. https://bvsms.saude.gov.br/bvs/publicacoes/historias_aids_Brasil_v2.pdf
    
    [^abia4]: Brasil. Ministério da Saúde. Secretaria de Vigilância em Saúde e Ambiente. Departamento de HIV, AIDS, Tuberculose, Hepatites Virais e Infecções Sexualmente Transmissíveis, *Histórias da Aids no Brasil: 1983–2003* (Histories of AIDS in Brazil: 1983–2003), 2nd ed., 2 vols. (Brasília: Ministério da Saúde, 2025): 239. https://bvsms.saude.gov.br/bvs/publicacoes/historias_aids_Brasil_v2.pdf
+
+   [^abia5]: Agência Senado, “Aids chegou ao Brasil há 40 anos e trouxe terror, preconceito e desinformação” (“AIDS Arrived in Brazil 40 Years Ago and Brought Terror, Prejudice, and Misinformation”), Agência Senado, 2023.https://www12.senado.leg.br/noticias/especiais/arquivo-s/aids-chegou-ao-brasil-ha-40-anos-e-trouxe-terror-preconceito-e-desinformacao This file includes a photograph of the cover of Lampião da Esquina, year 2, issue no. 20 (1980). This file contains speeches by politicians during  Brazil’s Constituent Assembly. Some politicians and physicians still described HIV/AIDS through moral judgment and the idea of “risk groups.” Members of the Health Subcommittee often connected the epidemic to homosexuality, drug use, and “acceptable” behavior instead of focusing only on forms of prevention.
 
 
 
