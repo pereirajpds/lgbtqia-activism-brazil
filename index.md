@@ -180,8 +180,6 @@ This image has a caption, but no title|
   
   Former flight attendants Mario Augusto dos Santos Filho and Alexandre Santos Silva later explained how crews, airport workers, and activists helped distribute medications, especially in Rio de Janeiro. Because flight crews often avoided customs inspections, they could transport medicines more easily. After becoming sick with HIV/AIDS, Silva also used retirement rights guaranteed by Brazil’s 1988 Constitution. These stories show how solidarity networks, activism, labor rights, and public healthcare became connected during the epidemic.[^varig2]
 
-
-  
   Brenda Lee (1948-1996) was a trans activist and one of the most important figures in Brazil’s fight against HIV/AIDS during the 1980s. She created the ‘Palace of the Princesses’ (Palácio das Princesas), a shelter for trans women.In the 1980s, Brazil still lacked public programs, medications, and healthcare structures to respond to HIV/AIDS. Many hospitals treated HIV patients with fear and prejudice.[^cartas] Some patients left hospitals but had nowhere to go. Brenda worked with doctors from the local hospital, activists, volunteers, and the São Paulo State Health Secretariat. Her house received people who no longer needed hospitalization but still needed medicine, food, shelter, and daily care. Many residents saw Brenda as a mother figure. Newspapers later called her the ‘Angel of AIDS’ because she cared for people abandoned during the epidemic.[^casada]
 
   {% include scrollybox/bg.html
@@ -193,59 +191,6 @@ This image has a caption, but no title|
 %}
   
   Brenda also raised money through television programs, public events, and solidarity campaigns to keep the shelter open. In 1988, the São Paulo State Health Secretariat created an official partnership with the Casa de Apoio Brenda Lee to care for HIV-positive patients. Her house became so important that many described it as an extension of Hospital Emílio Ribas. When she was murdered in 1996, doctors, activists, religious leaders, and former residents remembered her as a leader, a mother figure, and a symbol in the fight against AIDS. HIV/AIDS activists in Brazil did not limit their efforts to protests or formal organizations. Activism also happened inside homes and everyday networks of survival.[^mott]
-  
-  ABIA's activists also worked directly with communities. They offered legal support to people facing discrimination and lack of healthcare access. ABIA also helped people find local NGOs and support groups. In a period of high mortality and limited state policies, activists distributed food, medications, condoms, and disposable syringes to vulnerable communities.ABIA activists also supported and coordinated local groups such as Grupo Pela VIDDA in Rio de Janeiro. These organizations build national meetings that connect activists, patients, physicians, and national and international NGOs. [^abia73]
-  
-  The Second National Meeting of AIDS NGOs, held in Porto Alegre in 1989, shows the rapid growth of AIDS activism in Brazil. Activists marched publicly with banners and protest signs demanding healthcare and fighting discrimination against people living with HIV/AIDS and queer communities. Participants also discussed poverty, racism, women’s rights, and public healthcare. These events transformed people living with HIV/AIDS from potenctial isolated patients into organized political actors within Brazilian democracy.[^abia74]
-  
-  Partnerships between the Brazilian government, NGOs, local communities, and international organizations helped Brazil build one of the strongest HIV/AIDS programs in the developing world during the 1990s.[^cueto] Black movements, feminist groups, queer activists, physicians, researchers, and people living with HIV/AIDS all pressured the government to treat AIDS as a public health and human rights issue, not only as a moral problem.[^galvao3]
-  
-  During Brazil’s transition from dictatorship to democracy, activists also pushed for new social rights. Even though Brazil’s 1988 Constitution did not ban discrimination based on sexual orientation, people living with HIV/AIDS gained important legal protections.[^law1988] Brazil expanded free public healthcare, recognized retirement rights for people who became too sick to work, and, in 1996, guaranteed free HIV medication through the public healthcare system.[^1996] Rather than simply accepting social inequalities, discrimination and repression, activism during the HIV/AIDS crisis in Brazil transformed sexuality into a political issue connected to healthcare and human rights. 
-
-
-
-
-
-
-
-  ##limite
-  Brenda Lee (1948-1996) was a trans activist and one of the most important figures in Brazil’s fight against HIV/AIDS during the 1980s. She created the ‘Palace of the Princesses’ (Palácio das Princesas), a shelter for trans women.In the 1980s, Brazil still lacked public programs, medications, and healthcare structures to respond to HIV/AIDS. Many hospitals treated HIV patients with fear and prejudice.[^cartas] Some patients left hospitals but had nowhere to go. Brenda worked with doctors from the local hospital, activists, volunteers, and the São Paulo State Health Secretariat. Her house received people who no longer needed hospitalization but still needed medicine, food, shelter, and daily care. Many residents saw Brenda as a mother figure. Newspapers later called her the ‘Angel of AIDS’ because she cared for people abandoned during the epidemic.[^casada]
-
-
-
-  
-  Brenda also raised money through television programs, public events, and solidarity campaigns to keep the shelter open. In 1988, the São Paulo State Health Secretariat created an official partnership with the Casa de Apoio Brenda Lee to care for HIV-positive patients. Her house became so important that many described it as an extension of Hospital Emílio Ribas. When she was murdered in 1996, doctors, activists, religious leaders, and former residents remembered her as a leader, a mother figure, and a symbol in the fight against AIDS. HIV/AIDS activists in Brazil did not limit their efforts to protests or formal organizations. Activism also happened inside homes and everyday networks of survival.[^mott]
-
-
-
-
-
-
-
-
-  <!-- this is an unclosed div that needs to be closed with bg-multi-long-close-->
-{% include scrollybox/bg-multi-long.html
-  bg-id="bg1"
-  image-path="/assets/images/lee3.png"
-  above-box-space="0"
-  font-size = "90%"
-  line-height = "100%"
-%}
-
-  Now we have a text box scrolling up over the first image. At various points (clearly labeled below) **the background image will switch** while the text continues scrolling.
-
-  This is perfect for visual sequences: walking through a building room by room, showing historical change over time, or revealing evidence step by step.
-
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec ante ligula. Nulla fringilla ligula sit amet nisl consectetur ultricies. Mauris ac tellus eu ante lobortis rhoncus non eu nisl.
-
-
-### BACKGROUND IMAGE SWITCHES HERE
-
-{% include scrollybox/bg-switch.html
-  image-path="/assets/images/lee4.png"
-  switch-id="switch1"
-  bg-id="bg1"
-%}
   
   ABIA's activists also worked directly with communities. They offered legal support to people facing discrimination and lack of healthcare access. ABIA also helped people find local NGOs and support groups. In a period of high mortality and limited state policies, activists distributed food, medications, condoms, and disposable syringes to vulnerable communities.ABIA activists also supported and coordinated local groups such as Grupo Pela VIDDA in Rio de Janeiro. These organizations build national meetings that connect activists, patients, physicians, and national and international NGOs. [^abia73]
   
@@ -320,191 +265,6 @@ This image has a caption, but no title|
   
   However, the epidemic did not end discrimination. Many people living with HIV/AIDS still faced stigma, poverty, racism, homophobia, and difficulties accessing treatment. In 1989, activist Herbert de Souza, known as Betinho, argued that Brazil could become an example in the fight against HIV/AIDS through solidarity and collective action. More than thirty years later, Richard Parker, one of ABIA’s founders and current president, continues to defend this idea. Parker argues that HIV/AIDS is not only a medical issue because inequality and discrimination still shape who receives care, protection, and support in Brazil today. The fight against HIV/AIDS in Brazil shows that marginalized communities were not passive victims of the crisis. Queer and human rights activists became, and continue to be, important political actors who pressure the democratic state to respond.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-## Conclusion
-
-{% include images/figure.html
-  image-path="/assets/images/backgrounds/herbet.png"
-  caption="***Figure4:*** Herbert José de Sousa, Betinho (1935-1997). Comitê Betinho 2023."
-  alt-text="Hiking trail through a canyon in the Sandia foothills."
-  class="right"
-  width="45%"
-  text="firstimage"
-%}
-
-
-
-
-
-
-
-
-{% assign images =
-"/assets/images/lee.png,
-/assets/images/varig.png,
-/assets/images/dinheiro.png," | split: ','
-%}
-
-{% assign headers =
-"Brenda Lee,
-Flight attendence, 
-4th Meeting of People Living with HIV, Rio de Janeiro, 1991. The poster says Money is scarce, AIDS is not"
-| split: ','
-%}
-
-{% assign captions =
-" 4th Meeting of People Living with HIV, Rio de Janeiro, 1991. The poster says Money is scarce, AIDS is not. Rio de Janeiro, 1991.|
-This image has a caption, but no title|
-" | split: '|'
-%}
-
-{% include images/carousel.html
-  width="100%"
-  class="center"
-  images=images
-  headers=headers
-  captions=captions
-%}
-
-
-
-
-
-
-
-
-
-
-
-
-
-{% include scrollybox/bg.html
-  height="220vh"
-  position="top"
-  image-path="/assets/images/brendalee.png"
-  above-box-space = "100vh"
-  box-content=' One stated reason for building a men-only dorm is that Hokona Hall could be freed up to be used as a women-only dorm, where they would have supervision "of the best sort".'
-%}
-
-
-## Image Carousels (From Sapling)
-All Sapling components work in Forest too. Here's a carousel for comparing multiple images:
-
-{% assign images =
-"/assets/images/brenda.png,
-/assets/images/varig.png,
-/assets/images/dc.png,
-/assets/images/encontro.png,
-/assets/images/dinheiro.png," | split: ','
-%}
-
-{% assign headers =
-"brenda,
-flight attendence" | split: ','
-%}
-
-{% assign captions =
-"abia|
-This image has a caption, but no title|
-" | split: '|'
-%}
-
-{% include images/carousel.html
-  width="100%"
-  class="center"
-  images=images
-  headers=headers
-  captions=captions
-%}
-
-## Justapose
-
-Below you'll see a **juxtapose component**—an interactive slider that lets readers compare two images by dragging a handle left and right. Perfect for before/after, then/now, or any two related images.
-
-{% include images/juxtapose.html
-  image1="/assets/images/lampiao.jpg"
-  image2="/assets/images/quemvecara.png"
-  caption="The TV room becomes the History Department Common Room."
-%}
-
-{% include images/figure.html
-  image-path="/assets/images/backgrounds/encontro.png"
-  caption="***Figure4:*** Abia."
-  alt-text="Hiking trail through a canyon in the Sandia foothills."
-  class="right"
-  width="40%"
-  text="firstimage"
-%}
-
-text.....
-
-## Background Switching: The Advanced Feature
-This is what makes Forest essays truly cinematic. You're about to scroll through a section where the background image **switches** as you read, creating a visual sequence that matches your narrative.
-
-**Watch carefully:** The background will start with one image, then switch to another partway through. The text box stays visible throughout, but the background changes to match what you're reading about.
-
-<!-- this is an unclosed div that needs to be closed with bg-multi-long-close-->
-{% include scrollybox/bg-multi-long.html
-  bg-id="bg1"
-  image-path="/assets/images/lei1998.png"
-  above-box-space="0"
-  font-size = "90%"
-  line-height = "100%"
-%}
-
-Now we have a text box scrolling up over the first image. At various points (clearly labeled below) **the background image will switch** while the text continues scrolling.
-
-This is perfect for visual sequences: walking through a building room by room, showing historical change over time, or revealing evidence step by step.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec ante ligula. Nulla fringilla ligula sit amet nisl consectetur ultricies. Mauris ac tellus eu ante lobortis rhoncus non eu nisl.
-
-
-### BACKGROUND IMAGE SWITCHES HERE
-
-{% include scrollybox/bg-switch.html
-  image-path="/assets/images/casacivil.png"
-  switch-id="switch1"
-  bg-id="bg1"
-%}
-
-
-### The New Background
-Did you notice the background change? The floorplan switched to the TV room photo. Your text continued scrolling, but the visual context shifted.
-
-**Why use background switching?**
-- Narrative sequences (first this happened, then that)
-- Spatial movement (from room to room, place to place)
-- Evidence building (showing multiple sources for one argument)
-- Visual comparisons while maintaining narrative flow
-
-Duis ut dui dolor. Integer eu lectus at tellus accumsan euismod eget a ligula. Morbi venenatis, elit eu varius fermentum, ligula est dictum massa, sit amet ullamcorper augue nisl ut nunc.
-
-
-#### The End of This Sequence
-Watch as the text box scrolls out of view, followed by the background image fading away. Then normal scrolling resumes.
-
-{% include scrollybox/bg-multi-long-close.html %}
-
-
-## Conclusion
-In cunclusion...
-
-## EXTRA
-
 ## Bibliography
 
   Primary Sources
@@ -531,8 +291,6 @@ In cunclusion...
 
   - CARTA para Além dos Muros. Directed by André Canto. Brazil: Sendero Filmes, 2019. Documentary. YouTube video, 1:32:03. Posted by “Rinnesuke Hashiki.” Accessed March 15, 2026. https://www.youtube.com/watch?v=LULBaeqz2Zs&t=5221s
 
-  -  O Dia (Brazil). Newspaper clipping. 1984. Reproduced in Práticas de cuidados às populações em situações de vulnerabilidades (Care Practices for Populations in Situations of Vulnerability), edited by Luís Paulo Souza e Souza and Rosana Franciele Botelho Ruas. Campo Grande, MS: Editora Inovar, 2024, 75. https://www.editorainovar.com.br/omp/index.php/inovar/catalog/view/1192/402/2207 
-
   - ‘4th National Meeting of People Living with HIV and AIDS’ in the website of NGO *Grupo Pela VIDDA* 1994. https://pelavidda.org.br/vivendo.html
 
   - Former Flight Attendants Interview in  Machado, Leandro. “O ‘contrabando do bem’: os comissários da Varig que trouxeram remédios contra a AIDS ao Brasil.” (The ‘Good Smuggling’: Varig Flight Attendants Who Brought AIDS Medications to Brazil.)  BBC News Brasil, January 5, 2020. Accessed March 1, 2026. https://www.bbc.com/portuguese/brasil-51199929
@@ -544,17 +302,18 @@ In cunclusion...
   - Memória da Homossexualidade Brasileira. *Tríplice conexão: machismo, homofobia e aids (Triple Connection: Machismo, Homophobia, and AIDS)*. Memória da Homossexualidade Brasileira. December 2010. https://memoriamhb.blogspot.com/2010/12/triplice-conexao-machismo.html
 
   - *Notícias Populares*. 1983, in Fundação Oswaldo Cruz (Fiocruz), O Vírus da Aids, 20 anos depois.Newspaper. Accessed May 1, 2026. https://www.ioc.fiocruz.br/en/aids20anos/linhadotempo.html
+  
+  -  O Dia (Brazil). Newspaper clipping. 1984. Reproduced in Práticas de cuidados às populações em situações de vulnerabilidades (Care Practices for Populations in Situations of Vulnerability), edited by Luís Paulo Souza e Souza and Rosana Franciele Botelho Ruas. Campo Grande, MS: Editora Inovar, 2024, 75. https://www.editorainovar.com.br/omp/index.php/inovar/catalog/view/1192/402/2207 
+
+ - *O Estado (Florianópolis)*, v. 73,  no 2218.  October 21, 1987, Newspaper, reproduced in Graziele Regina de Amorim, Outsiders do bairro Trindade: “Pacto da morte” ou “Gangue da Aids”? Para além da construção de um episódio (Florianópolis 1987) (“Outsiders from the Trindade Neighborhood: ‘Death Pact’ or ‘AIDS Gang’? Beyond the Construction of an Episode [Florianópolis, 1987]”), master’s thesis, Universidade Federal de Santa Catarina, 2009, 175. https://repositorio.ufsc.br/handle/123456789/93082
 
   - *Última Hora*. “O estilista Markito: uma vítima do ‘câncer gay’. Newspaper. Reproduced by Agência Senado from the Biblioteca Nacional Digital. Accessed May 1, 2026. https://www12.senado.leg.br/noticias/especiais/arquivo-s/aids-chegou-ao-brasil-ha-40-anos-e-trouxe-terror-preconceito-e-desinformacao
-  
-  - *O Estado (Florianópolis)*, v. 73,  no 2218.  October 21, 1987, Newspaper, reproduced in Graziele Regina de Amorim, Outsiders do bairro Trindade: “Pacto da morte” ou “Gangue da Aids”? Para além da construção de um episódio (Florianópolis 1987) (“Outsiders from the Trindade Neighborhood: ‘Death Pact’ or ‘AIDS Gang’? Beyond the Construction of an Episode [Florianópolis, 1987]”), master’s thesis, Universidade Federal de Santa Catarina, 2009, 175. https://repositorio.ufsc.br/handle/123456789/93082
   
   - *Pela VIDDA* . Telegram from Raldo Bonifácio Costa Filho, president of NGO Grupo Pela VIDDA from Niterói, Rio de Janeiro, to President of Brazil Fernando Henrique Cardoso. September 18, 1995. Instituto Fernando Henrique Cardoso Archive. http://acervo.ifhc.org.br/?linkId=90
 
   - Rejeitada emenda pró-homossexual ( Pro-Homosexual Amendment Rejected). Correio Braziliense (Brasília). January 29, 1988. Reproduced in https://museubajuba.org/os-sombrios-anos-da-peste-gay/
 
   - TV Brasil. Caminhos da Reportagem. Era uma vez.Brenda Lee. YouTube video, 58:34. Posted June 9, 2024.https://www.youtube.com/watch?v=CdVwKJWUJ5w&t=1095s
-
 
   Secondary Sources
 
