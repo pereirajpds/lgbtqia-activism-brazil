@@ -104,7 +104,7 @@ This image has a caption, but no title|
   text="firstimage"
 %}
   
-  Brazil’s transition from dictatorship to democracy created new political opportunities during the late 1970s and 1980s. After the Amnesty Law of 1979, political exiles returned to the country, censorship weakened, and social movements expanded. Feminist organizations, Black movements, labor unions and queer  groups became active. The HIV/AIDS crisis emerged within this context. One of the most important organizations was ABIA, the Brazilian Interdisciplinary AIDS Association. Sociologists and human rights activists Herbert Daniel (1946–1992) and Herbert 'Betinho' de Souza (1935–1997) founded ABIA in 1986 after returning to Brazil from years of political exile. 
+  Brazil’s transition from dictatorship to democracy created new political opportunities during the late 1970s and 1980s. After the Amnesty Law of 1979, political exiles returned to the country, censorship weakened, and social movements expanded. Feminist organizations, Black movements, labor unions and queer  groups became active. ABIA, the Brazilian Interdisciplinary AIDS Association, emerged in this context.[^abia1] Sociologists and human rights activists Herbert Daniel (1946–1992) and Herbert 'Betinho' de Souza (1935–1997) founded ABIA in 1986 after returning to Brazil from years of political exile. [^abia2]
 
 ## Conclusion
 
@@ -391,6 +391,8 @@ In cunclusion...
 
  - Galvão, Jane. *AIDS No Brasil : A Agenda de Construção de Uma Epidemia*. ABIA Press, 2000.
 
+ - Parker, Richard, and Peter Aggleton. Estigma, discriminação e AIDS. Rio de Janeiro: Associação Brasileira Interdisciplinas de Aids, ABIA, 2021.  https://abiaids.org.br/wp-content/uploads/2021/05/livro-digital-final-ESTIGMA-DISCRIMINA%C3%87%C3%83O-E-AIDS-pagina-espelhada-10052020.pdf
+ 
  - Royles, Dan. *To Make the Wounded Whole: The African American Struggle Against HIV/AIDS.* University of North Carolina Press, 2020.
 
 
@@ -441,6 +443,12 @@ In cunclusion...
    [^juiz]: Grupo homossexual processa juiz de PE por discriminação (Homosexual Group Sues Pernambuco Judge for Discrimination), Folha de São Paulo, July 2, 1987, Cad. Cidades, Seção Mortes, reproduced in https://museubajuba.org/os-sombrios-anos-da-peste-gay/
 
    [^ementa]: Rejeitada emenda pró-homossexual (Pro-Homosexual Amendment Rejected), Correio Braziliense (Brasília), January 29, 1988, reproduced in https://museubajuba.org/os-sombrios-anos-da-peste-gay/
+
+   [^abia1]: Jane Galvão, *AIDS No Brasil : A Agenda de Construção de Uma Epidemia*. (Rio de Janeiro : ABIA Press 2000): 13-14, 43, 44. Sonia E. Alvarez and Arturo Escobar. *The Making of Social Movements in Latin America : Identity,   Strategy, and Democracy*. (Westview Press, 1992): 10-13, 291-292.
+
+   [^abia2]: Richard Parker and Peter Aggleton, Estigma, discriminação e AIDS (Rio de Janeiro: Associação Brasileira Interdisciplinas de Aids, ABIA, 2021): 14-15. https://abiaids.org.br/wp-content/uploads/2021/05/livro-digital-final-ESTIGMA-DISCRIMINA%C3%87%C3%83O-E-AIDS-pagina-espelhada-10052020.pdf
+
+
 
 
 
