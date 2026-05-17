@@ -113,14 +113,15 @@ This image has a caption, but no title|
 
   Herbert Daniel was a former guerrilla fighter against Brazil’s military dictatorship and a queer civil rights. During the dictatorship, Daniel also contributed texts to the queer newspaper Lampião da Esquina. In 1989, the activist founded Grupo Pela VIDDA, an organization linked to ABIA that organized support groups, legal assistance, and anti-discrimination campaigns for people living with HIV/AIDS, especially in communities around Rio de Janeiro. In addition, the NGO pressures politicians to fulfill their political promises. Daniel announced that he lived with HIV in 1989 and died from health complications in 1992.[^abia3]
   
-  Betinho became popular in Brazil for social activism and human rights work. He also had hemophilia and contracted HIV through contaminated blood transfusions, along with his brothers the cartoonist Henfil and musician Chico Mário.[^abia4] Their experiences helped show to society that HIV/AIDS not only affected gay men. This mattered politically.
+  Betinho became popular in Brazil for social activism and human rights work. He also had hemophilia and contracted HIV through contaminated blood transfusions, along with his brothers the cartoonist Henfil and musician Chico Mário.[^abia4] Their experiences helped show to society that HIV/AIDS not only affected gay men. 
+  This mattered politically.
 
   {% include images/figure.html
   image-path="/assets/images/backgrounds/abia.png"
   caption="***Figure 6:*** Abia Bulletin. Live Life, a network of solidarity. Created by cartoonist Henfil."
   alt-text="Hiking trail through a canyon in the Sandia foothills."
   class="center"
-  width="100%"
+  width="90%"
   text="firstimage"
 %}
   
@@ -152,7 +153,7 @@ This image has a caption, but no title|
 
   As public debates about HIV/AIDS changed in the late 1980s, Brazil’s National AIDS Program also changed its campaigns. Federal campaigns started to show that HIV/AIDS could affect anyone, including women and heterosexual couples. State campaigns started to include women and heterosexual couples as possible targets of HIV/AIDS. The slogan ‘You Can’t Tell Who Has AIDS by Looking’ (1988) challenged the idea that only certain groups could get the disease. The campaign used the image of a healthy woman to show that HIV was not visible. It also explained that HIV spread through sex and shared needles and encouraged condom use. In 1990, another federal campaign reinforced this message. The slogan ‘If You Do Not Protect Yourself, AIDS Will Get You’ explained that HIV could spread through sex, contaminated needles, blood transfusions, and pregnancy. The campaign targeted a broader public and continued to challenge the idea that only homosexual men could contract HIV/AIDS. By focusing on behavior instead of identity, the national campaign tried to reduce stigma and change how Brazilians understood the epidemic. [^ag7]
 
-   However, political debates still revealed important limitations. During Brazil’s Constituent Assembly in 1988, some politicians connected to religious organizations criticized government condom campaigns because they believed these campaigns encouraged homosexuality and sexual freedom. Representative Abigail Feitosa also criticized AIDS campaigns for showing the image of a young white woman while avoiding direct discussion about homosexual men, who many officials still considered a ‘risk group.’ At the same time, health reports already showed that HIV affected queer communities, women, children, people who received blood transfusions, and drug users. Even while criticizing the campaigns, Feitosa still described women as a ‘lower risk group.’ Politicians continued to use stigmatizing ideas about who could contract HIV/AIDS.[^abia11]
+  However, political debates still revealed important limitations. During Brazil’s Constituent Assembly in 1988, some politicians connected to religious organizations criticized government condom campaigns because they believed these campaigns encouraged homosexuality and sexual freedom. Representative Abigail Feitosa also criticized AIDS campaigns for showing the image of a young white woman while avoiding direct discussion about homosexual men, who many officials still considered a ‘risk group.’ At the same time, health reports already showed that HIV affected queer communities, women, children, people who received blood transfusions, and drug users. Even while criticizing the campaigns, Feitosa still described women as a ‘lower risk group.’ Politicians continued to use stigmatizing ideas about who could contract HIV/AIDS.[^abia11]
 
 {% include images/juxtapose.html
   image1="/assets/images/cara.png"
@@ -167,6 +168,31 @@ This image has a caption, but no title|
   Former flight attendants Mario Augusto dos Santos Filho and Alexandre Santos Silva later explained how crews, airport workers, and activists helped distribute medications, especially in Rio de Janeiro. Because flight crews often avoided customs inspections, they could transport medicines more easily. After becoming sick with HIV/AIDS, Silva also used retirement rights guaranteed by Brazil’s 1988 Constitution. These stories show how solidarity networks, activism, labor rights, and public healthcare became connected during the epidemic.[^varig2]
 
   Brenda Lee (1948-1996) was a trans activist and one of the most important figures in Brazil’s fight against HIV/AIDS during the 1980s. She created the ‘Palace of the Princesses’ (Palácio das Princesas), a shelter for trans women.In the 1980s, Brazil still lacked public programs, medications, and healthcare structures to respond to HIV/AIDS. Many hospitals treated HIV patients with fear and prejudice.[^cartas] Some patients left hospitals but had nowhere to go.
+
+ {% assign images =
+"/assets/images/SP.png,
+/assets/images/flight.png,
+/assets/images/betinho5.png," | split: ','
+%}
+
+{% assign headers =
+",
+" | split: ','
+%}
+
+{% assign captions =
+|
+This image has a caption, but no title|
+" | split: '|'
+%}
+
+{% include images/carousel.html
+  width="100%"
+  class="center"
+  images=images
+  headers=headers
+  captions=captions
+%}
 
   Brenda worked with doctors from the local hospital, activists, volunteers, and the São Paulo State Health Secretariat. Her house received people who no longer needed hospitalization but still needed medicine, food, shelter, and daily care. Many residents saw Brenda as a mother figure. Newspapers later called her the ‘Angel of AIDS’ because she cared for people abandoned during the epidemic.[^casada]
 
