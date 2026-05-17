@@ -166,7 +166,8 @@ This image has a caption, but no title|
   {% include images/figure.html
   image-path="/assets/images/AZT.png"
   caption="***Figure7:*** Brazil started to produce AZT (Zidovudine) in 1993.
-  https://www.ioc.fiocruz.br/aids20anos/linhadotempo.html"
+  https://www.ioc.fiocruz.br/aids20anos/
+  linhadotempo.html"
   alt-text="Hiking trail through a canyon in the Sandia foothills."
   class="left"
   width="40%"
@@ -177,7 +178,7 @@ This image has a caption, but no title|
 
   Former flight attendants Mario Augusto dos Santos Filho and Alexandre Santos Silva later explained how crews, airport workers, and activists helped distribute medications, especially in Rio de Janeiro. Because flight crews often avoided customs inspections, they could transport medicines more easily. After becoming sick with HIV/AIDS, Silva also used retirement rights guaranteed by Brazil’s 1988 Constitution. These stories show how solidarity networks, activism, labor rights, and public healthcare became connected during the epidemic.[^varig2]
 
-  Brenda Lee (1948-1996) was a trans activist and one of the most important figures in Brazil’s fight against HIV/AIDS during the 1980s. She created the ‘Palace of the Princesses’ (Palácio das Princesas),in 1982, a shelter for trans women.In the 1980s, Brazil still lacked public programs, medications, and healthcare structures to respond to HIV/AIDS. Many hospitals treated HIV patients with fear and prejudice.[^cartas] Some patients left hospitals but had nowhere to live.
+  Brenda Lee (1948-1996) was a trans activist and one of the most important figures in Brazil’s fight against HIV/AIDS during the 1980s. She created the ‘Palace of the Princesses’ (Palácio das Princesas), in 1982, a shelter for trans women.In the 1980s, Brazil still lacked public programs, medications, and healthcare structures to respond to HIV/AIDS. Many hospitals treated HIV patients with fear and prejudice.[^cartas] Some patients left hospitals but had nowhere to live.
 
   {% include scrollybox/bg.html
   height="220vh"
