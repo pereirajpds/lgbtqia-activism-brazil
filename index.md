@@ -134,7 +134,7 @@ This image has a caption, but no title|
   
   Brenda also raised money through television programs, public events, and solidarity campaigns to keep the shelter open. In 1988, the São Paulo State Health Secretariat created an official partnership with the Casa de Apoio Brenda Lee to care for HIV-positive patients. Her house became so important that many described it as an extension of Hospital Emílio Ribas. When she was murdered in 1996, doctors, activists, religious leaders, and former residents remembered her as a leader, a mother figure, and a symbol in the fight against AIDS. HIV/AIDS activists in Brazil did not limit their efforts to protests or formal organizations. Activism also happened inside homes and everyday networks of survival.
   
-  ABIA's activists also worked directly with communities. They offered legal support to people facing discrimination and lack of healthcare access. ABIA also helped people find local NGOs and support groups. In a period of high mortality and limited state policies, activists distributed food, medications, condoms, and disposable syringes to vulnerable communities. ABIA activists also supported and coordinated local groups such as Grupo Pela VIDDA in Rio de Janeiro. These organizations build national meetings that connect activists, patients, physicians, and national and international NGOs.
+  ABIA's activists also worked directly with communities. They offered legal support to people facing discrimination and lack of healthcare access. ABIA also helped people find local NGOs and support groups. In a period of high mortality and limited state policies, activists distributed food, medications, condoms, and disposable syringes to vulnerable communities.ABIA activists also supported and coordinated local groups such as Grupo Pela VIDDA in Rio de Janeiro. These organizations build national meetings that connect activists, patients, physicians, and national and international NGOs. [^abia73]
   
   The Second National Meeting of AIDS NGOs, held in Porto Alegre in 1989, shows the rapid growth of AIDS activism in Brazil. Activists marched publicly with banners and protest signs demanding healthcare and fighting discrimination against people living with HIV/AIDS and queer communities. Participants also discussed poverty, racism, women’s rights, and public healthcare. These events transformed people living with HIV/AIDS from potenctial isolated patients into organized political actors within Brazilian democracy.
   
@@ -525,6 +525,10 @@ In cunclusion...
     [^lee22]: *Carta para Além dos Muros*, directed by André Canto (Brazil Sendero Filmes, 2019), documentary, YouTube, posted by “Rinnesuke Hashiki,” https://www.youtube.com/watch?v=LULBaeqz2Zs&t=5221s The documentary includes interviews with physicians such as Drauzio Varella, HIV/AIDS activists, politicians, and people living with HIV/AIDS who experienced the epidemic during the 1980s and 1990s. 
 
     [^lee23]: TV Brasil, Caminhos da Reportagem | Era uma vez... Brenda Lee!, YouTube video, 58:34, posted June 9, 2024, https://www.youtube.com/watch?v=CdVwKJWUJ5w&t=1095s The documentary, produced by Brazil’s federal public television, includes testimonies from doctors, activists, residents of the shelter, and Brenda Lee herself about HIV/AIDS activism and trans communities in Brazil.
+
+    [^abia73]: Associação Brasileira Interdisciplinar de AIDS (ABIA), Boletim ABIA, no. 9 (Rio de Janeiro: ABIA, 1980s-1990s): 4, 22-23. https://abiaids.org.br/_img/media/bol%20abia%2009.pdf
+
+
 
 
 
