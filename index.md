@@ -169,7 +169,7 @@ This image has a caption, but no title|
   https://www.ioc.fiocruz.br/aids20anos/linhadotempo.html"
   alt-text="Hiking trail through a canyon in the Sandia foothills."
   class="left"
-  width="25%"
+  width="35%"
   text="firstimage"
 %}
 
