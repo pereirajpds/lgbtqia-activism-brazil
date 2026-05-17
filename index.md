@@ -96,7 +96,7 @@ This image has a caption, but no title|
   caption="***Figure 4:*** Herbert José de Sousa, Betinho (1935-1997). Comitê Betinho 2023. Source: https://comitebetinho.org.br/biografia-betinho "
   alt-text="Hiking trail through a canyon in the Sandia foothills."
   class="right"
-  width="40%"
+  width="45%"
   text="firstimage"
 %}
   
@@ -121,7 +121,7 @@ This image has a caption, but no title|
   caption="***Figure 6:*** Abia Bulletin. Live Life, a network of solidarity. Created by cartoonist Henfil."
   alt-text="Hiking trail through a canyon in the Sandia foothills."
   class="center"
-  width="90%"
+  width="100%"
   text="firstimage"
 %}
   
