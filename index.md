@@ -170,41 +170,12 @@ This image has a caption, but no title|
   
   Former flight attendants Mario Augusto dos Santos Filho and Alexandre Santos Silva later explained how crews, airport workers, and activists helped distribute medications, especially in Rio de Janeiro. Because flight crews often avoided customs inspections, they could transport medicines more easily. After becoming sick with HIV/AIDS, Silva also used retirement rights guaranteed by Brazil’s 1988 Constitution. These stories show how solidarity networks, activism, labor rights, and public healthcare became connected during the epidemic.[^varig2]
 
-{% assign images =
-  "/assets/images/SP.png,
-  /assets/images/flight.png,
-  /assets/images/betinho5.png," | split: ','
-%}
+  Brenda Lee (1948-1996) was a trans activist and one of the most important figures in Brazil’s fight against HIV/AIDS during the 1980s. She created the ‘Palace of the Princesses’ (Palácio das Princesas), a shelter for trans women.In the 1980s, Brazil still lacked public programs, medications, and healthcare structures to respond to HIV/AIDS. Many hospitals treated HIV patients with fear and prejudice.[^cartas] Some patients left hospitals but had nowhere to go.
 
-{% assign headers =
-",
-" | split: ','
-%}
-
-{% assign captions =
-|
-  This image has a caption, but no title|
-" | split: '|'
-%}
-
-{% include images/carousel.html
-  width="100%"
-  class="center"
-  images=images
-  headers=headers
-  captions=captions
-%}
-
-
-
-
-
-
-
-{% assign images =
-"/assets/images/flight.png,
-/assets/images/SP.png,
-/assets/images/betinho5.png," | split: ','
+  {% assign images =
+"/assets/images/SC.png,
+/assets/images/lamp.png,
+/assets/images/mas2.png," | split: ','
 %}
 
 {% assign headers =
@@ -225,12 +196,10 @@ This image has a caption, but no title|
   headers=headers
   captions=captions
 %}
-
-  Brenda Lee (1948-1996) was a trans activist and one of the most important figures in Brazil’s fight against HIV/AIDS during the 1980s. She created the ‘Palace of the Princesses’ (Palácio das Princesas), a shelter for trans women.In the 1980s, Brazil still lacked public programs, medications, and healthcare structures to respond to HIV/AIDS. Many hospitals treated HIV patients with fear and prejudice.[^cartas] Some patients left hospitals but had nowhere to go.
   
- Brenda worked with doctors from the local hospital, activists, volunteers, and the São Paulo State Health Secretariat. Her house received people who no longer needed hospitalization but still needed medicine, food, shelter, and daily care. Many residents saw Brenda as a mother figure. Newspapers later called her the ‘Angel of AIDS’ because she cared for people abandoned during the epidemic.[^casada]
+  Brenda worked with doctors from the local hospital, activists, volunteers, and the São Paulo State Health Secretariat. Her house received people who no longer needed hospitalization but still needed medicine, food, shelter, and daily care. Many residents saw Brenda as a mother figure. Newspapers later called her the ‘Angel of AIDS’ because she cared for people abandoned during the epidemic.[^casada]
 
-Brenda also raised money through television programs, public events, and solidarity campaigns to keep the shelter open. In 1988, the São Paulo State Health Secretariat created an official partnership with the Casa de Apoio Brenda Lee to care for HIV-positive patients. Her house became so important that many described it as an extension of Hospital Emílio Ribas. When she was murdered in 1996, doctors, activists, religious leaders, and former residents remembered her as a leader, a mother figure, and a symbol in the fight against AIDS. HIV/AIDS activists in Brazil did not limit their efforts to protests or formal organizations. Activism also happened inside homes and everyday networks of survival.[^mott]
+  Brenda also raised money through television programs, public events, and solidarity campaigns to keep the shelter open. In 1988, the São Paulo State Health Secretariat created an official partnership with the Casa de Apoio Brenda Lee to care for HIV-positive patients. Her house became so important that many described it as an extension of Hospital Emílio Ribas. When she was murdered in 1996, doctors, activists, religious leaders, and former residents remembered her as a leader, a mother figure, and a symbol in the fight against AIDS. HIV/AIDS activists in Brazil did not limit their efforts to protests or formal organizations. Activism also happened inside homes and everyday networks of survival.[^mott]
   
   {% include scrollybox/bg.html
   height="220vh"
