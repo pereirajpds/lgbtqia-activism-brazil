@@ -166,7 +166,7 @@ This image has a caption, but no title|
   {% include images/figure.html
   image-path="/assets/images/AZT.png"
   caption="***Figure7:*** Brazil started to produce AZT (Zidovudine) in 1993.
-  Source https://www.ioc.fiocruz.br/aids20anos/linhadotempo.html"
+  https://www.ioc.fiocruz.br/aids20anos/linhadotempo.html"
   alt-text="Hiking trail through a canyon in the Sandia foothills."
   class="left"
   width="40%"
@@ -182,7 +182,7 @@ This image has a caption, but no title|
   {% include scrollybox/bg.html
   height="220vh"
   position="top"
-  image-path="/assets/images/lee4.png"
+  image-path="/assets/images/lee82.png"
   above-box-space = "100vh"
   box-content=' "If you have someone with AIDS and nowhere to stay, come to my house. Here we take care of them without discrimination." (Brenda Lee).
   Source: https://www.youtube.com/watch?v=CdVwKJWUJ5w&t=1095s. '
@@ -195,7 +195,7 @@ This image has a caption, but no title|
   
   {% include images/figure.html
   image-path="/assets/images/acervo1.png"
-  caption="***Figure 7:*** Second Meeting of the Brazilian Solidarity Network (AIDS NGOs). October 13–15, 1989 – Porto Alegre, Rio Grande do Sul. Poster in the background: ‘Solidarity Is a Vaccine Against AIDS.’
+  caption="***Figure 8:*** Second Meeting of the Brazilian Solidarity Network (AIDS NGOs). October 13–15, 1989 – Porto Alegre, Rio Grande do Sul. Poster in the background: ‘Solidarity Is a Vaccine Against AIDS.’
   ‘Against Discrimination'
   Source: https://abiaids.org.br/wp-content/uploads/2021/05/livro-digital-final-ESTIGMA-DISCRIMINA%C3%87%C3%83O-E-AIDS-pagina-espelhada-10052020.pdf"
   alt-text="Hiking trail through a canyon in the Sandia foothills."
