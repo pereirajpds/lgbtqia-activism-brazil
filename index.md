@@ -96,7 +96,7 @@ This image has a caption, but no title|
   caption="***Figure 4:*** Herbert José de Sousa, Betinho (1935-1997). Comitê Betinho 2023. Source: https://comitebetinho.org.br/biografia-betinho "
   alt-text="Hiking trail through a canyon in the Sandia foothills."
   class="right"
-  width="45%"
+  width="40%"
   text="firstimage"
 %}
   
@@ -107,7 +107,7 @@ This image has a caption, but no title|
   caption="***Figure 5:*** Herbert Daniel (946 – 1992). Source: https://www.dukeupress.edu/exile-within-exiles "
   alt-text="Hiking trail through a canyon in the Sandia foothills."
   class="left"
-  width="30%"
+  width="40%"
   text="firstimage"
 %}
 
