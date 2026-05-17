@@ -119,6 +119,15 @@ This image has a caption, but no title|
   
   Betinho became nationally known for social activism and human rights work. He also had hemophilia and contracted HIV through contaminated blood transfusions, along with his brothers the cartoonist Henfil and musician Chico Mário.[^abia4] Their experiences helped show that HIV/AIDS not only affected gay men. This mattered politically.
 
+  {% include images/figure.html
+  image-path="/assets/images/backgrounds/abia.png"
+  caption="***Figure6:*** 'Viva a Vida' ('Live Life'), a network of solidarity created by cartoonist Henfil, Henrique de Souza Filho (1944–1988), illustrates the 1989 ABIA bulletin."
+  alt-text="Hiking trail through a canyon in the Sandia foothills."
+  class="center"
+  width="90%"
+  text="firstimage"
+%}
+
   Newspapers, politicians, and physicians debated how to respond to the AIDS/HIV crisis in  Brazil’s new constitution through the idea of 'risk groups.' This links queer people and drug users as the main targets for HIV/AIDS. This language reinforced stigma and encouraged many Brazilians to believe they were 'safe' from HIV.[^abia5] Instead of focusing on 'risk groups,' activists emphasized 'risk behavior.' HIV was connected to actions and exposure, not only to sexuality. Anyone could contract the virus.[^abia6]
 
   ABIA reinforced this idea through public campaigns, bulletins, community meetings, and educational materials that explained how HIV spread through unprotected sex, contaminated blood, shared syringes and reinforce the importace of a solidarity neetwork.[^abia] The organization also promoted self esteem through artistic exhibitions suca as 'cabaret from prevention,' naturalizing gay love while porvide information to avoid risk behavior, banners, posters, and public campaigns. Some campaigns defended love between two men and relationships involving HIV-positive couples. Others promoted slogans such as “Friends, friends, syringes apart,” reinforcing that people should not share needles or syringes. ABIA tried to reduce fear and stigma while encouraging prevention and solidarity.[^abia7]
@@ -267,14 +276,7 @@ Outras formas de ativismo...
 
 
 
-{% include images/figure.html
-  image-path="/assets/images/backgrounds/abia.png"
-  caption="***Figure3:*** Abia."
-  alt-text="Hiking trail through a canyon in the Sandia foothills."
-  class="left"
-  width="40%"
-  text="firstimage"
-%}
+
 
 {% include scrollybox/bg.html
   height="220vh"
