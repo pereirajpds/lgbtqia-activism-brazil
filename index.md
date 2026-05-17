@@ -10,7 +10,7 @@ header-position: center
 {% include images/figure.html
   image-path="/assets/images/backgrounds/uberaba.png"
   caption="***Figure1:*** The newspaper Última Hora (1983) reported the death of Brazilian fashion designer Markito, one of the first public AIDS-related deaths involving a famous Brazilian figure. The headline stated, 'Markito’s Body Goes Directly to Uberaba,' a city in Minas Gerais, Brazil, where he would be buried after dying in New York, where he had been receiving treatment for the disease. The newspaper described AIDS as “gay cancer,” reflecting the stigma and misinformation surrounding HIV/AIDS during the early years of the epidemic in Brazil. 
-  Source: Agência Senado  https://www12.senado.leg.br/noticias/especiais/arquivo-s aids-chegou-ao-brasil-ha-40-anos-e-trouxe-terror-preconceito-e-desinformacao"
+  Source: Agência Senado https://www12.senado.leg.br/noticias/especiais/arquivo-s aids-chegou-ao-brasil-ha-40-anos-e-trouxe-terror-preconceito-e-desinformacao"
   alt-text="Hiking trail through a canyon in the Sandia foothills."
   class="right"
   width="40%"
@@ -45,7 +45,7 @@ header-position: center
   *Pela VIDDA* (NGO), Telegram to President of Brazil Fernando Henrique Cardoso, September 18, 1995, Instituto Fernando Henrique Cardoso Archive. http://acervo.ifhc.org.br/?linkId=90 '
 %}
 
-## Fear, Violence, and Social Movements' Responses 
+## Fear, Violence, and Social Movement Responses
 
 
 {% include images/figure.html
@@ -65,9 +65,6 @@ header-position: center
 
   However, while newspapers spread fear, politicians debated, and hospitals struggled with limited resources, activists were already organizing responses. The newspaper Lampião da Esquina, one of the most important queer publications during the 1970s and early 1980s. Its cover, ‘A National Gay Meeting Took Place in Rio,' discussed violence suffered by queer people; gender, race, and sexual discrimination; and national meetings organized by queer groups in 1980.[^ag1] João Antônio Mascarenhas, founder of Lampião da Esquina, also defended legal protections against discrimination based on sexual orientation during the Constituent Assembly debates of the 1987. [^br2] Activists also challenged discrimination through legal action. In 1987, the group Triângulo Rosa, funded by Mascarenhas, sued Judge Cláudio Américo de Miranda after he publicly stated that he would never allow homosexuals to become judges.[^juiz]. 
 
-  Politicians rejected a proposal to include sexual orientation among the forms of discrimination prohibited by Brazil’s new Constitution. [^ementa] The debate revealed the resistance queer activists faced during Brazil’s transition to democracy. At the same time, activists helped transform HIV/AIDS from a stigmatized “gay plague” into a public health and human rights issue within Brazilian democracy.
-
-  
   {% assign images =
 "/assets/images/SC.png,
 /assets/images/lamp.png,
@@ -92,6 +89,8 @@ This image has a caption, but no title|
   headers=headers
   captions=captions
 %}
+
+  Politicians rejected a proposal to include sexual orientation among the forms of discrimination prohibited by Brazil’s new Constitution. [^ementa] The debate revealed the resistance queer activists faced during Brazil’s transition to democracy. At the same time, activists helped transform HIV/AIDS from a stigmatized “gay plague” into a public health and human rights issue within Brazilian democracy.
 
 ## ABIA, Queer Activism and the State Response to HIV/AIDS Crisis
 
