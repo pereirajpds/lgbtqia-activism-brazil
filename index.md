@@ -119,8 +119,8 @@ This image has a caption, but no title|
   image-path="/assets/images/backgrounds/abia.png"
   caption="***Figure 6:*** Abia Bulletin. Live Life, a network of solidarity. Created by cartoonist Henfil."
   alt-text="Hiking trail through a canyon in the Sandia foothills."
-  class="left"
-  width="40%"
+  class="center"
+  width="100%"
   text="firstimage"
 %}
   
