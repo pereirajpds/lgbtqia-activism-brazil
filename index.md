@@ -130,9 +130,9 @@ This image has a caption, but no title|
   
   Former flight attendants Mario Augusto dos Santos Filho and Alexandre Santos Silva later explained how crews, airport workers, and activists helped distribute medications, especially in Rio de Janeiro. Because flight crews often avoided customs inspections, they could transport medicines more easily. After becoming sick with HIV/AIDS, Silva also used retirement rights guaranteed by Brazil’s 1988 Constitution. These stories show how solidarity networks, activism, labor rights, and public healthcare became connected during the epidemic.[^varig2]
   
-  Brenda Lee (1948-1996) was a trans activist and one of the most important figures in Brazil’s fight against HIV/AIDS during the 1980s. She created the ‘Palace of the Princesses’ (Palácio das Princesas), a shelter for trans women.In the 1980s, Brazil still lacked public programs, medications, and healthcare structures to respond to HIV/AIDS. Many hospitals treated HIV patients with fear and prejudice.[^cartas] Some patients left hospitals but had nowhere to go. Brenda worked with doctors from the local hospital, activists, volunteers, and the São Paulo State Health Secretariat. Her house received people who no longer needed hospitalization but still needed medicine, food, shelter, and daily care. Many residents saw Brenda as a mother figure. Newspapers later called her the ‘Angel of AIDS’ because she cared for people abandoned during the epidemic. [^lee23]
+  Brenda Lee (1948-1996) was a trans activist and one of the most important figures in Brazil’s fight against HIV/AIDS during the 1980s. She created the ‘Palace of the Princesses’ (Palácio das Princesas), a shelter for trans women.In the 1980s, Brazil still lacked public programs, medications, and healthcare structures to respond to HIV/AIDS. Many hospitals treated HIV patients with fear and prejudice.[^cartas] Some patients left hospitals but had nowhere to go. Brenda worked with doctors from the local hospital, activists, volunteers, and the São Paulo State Health Secretariat. Her house received people who no longer needed hospitalization but still needed medicine, food, shelter, and daily care. Many residents saw Brenda as a mother figure. Newspapers later called her the ‘Angel of AIDS’ because she cared for people abandoned during the epidemic.[^casada]
   
-  Brenda also raised money through television programs, public events, and solidarity campaigns to keep the shelter open. In 1988, the São Paulo State Health Secretariat created an official partnership with the Casa de Apoio Brenda Lee to care for HIV-positive patients. Her house became so important that many described it as an extension of Hospital Emílio Ribas. When she was murdered in 1996, doctors, activists, religious leaders, and former residents remembered her as a leader, a mother figure, and a symbol in the fight against AIDS. HIV/AIDS activists in Brazil did not limit their efforts to protests or formal organizations. Activism also happened inside homes and everyday networks of survival.
+  Brenda also raised money through television programs, public events, and solidarity campaigns to keep the shelter open. In 1988, the São Paulo State Health Secretariat created an official partnership with the Casa de Apoio Brenda Lee to care for HIV-positive patients. Her house became so important that many described it as an extension of Hospital Emílio Ribas. When she was murdered in 1996, doctors, activists, religious leaders, and former residents remembered her as a leader, a mother figure, and a symbol in the fight against AIDS. HIV/AIDS activists in Brazil did not limit their efforts to protests or formal organizations. Activism also happened inside homes and everyday networks of survival.[^mott]
   
   ABIA's activists also worked directly with communities. They offered legal support to people facing discrimination and lack of healthcare access. ABIA also helped people find local NGOs and support groups. In a period of high mortality and limited state policies, activists distributed food, medications, condoms, and disposable syringes to vulnerable communities.ABIA activists also supported and coordinated local groups such as Grupo Pela VIDDA in Rio de Janeiro. These organizations build national meetings that connect activists, patients, physicians, and national and international NGOs. [^abia73]
   
@@ -428,7 +428,7 @@ In cunclusion...
 
   - Rejeitada emenda pró-homossexual ( Pro-Homosexual Amendment Rejected). Correio Braziliense (Brasília). January 29, 1988. Reproduced in https://museubajuba.org/os-sombrios-anos-da-peste-gay/
 
-  - TV Brasil. Caminhos da Reportagem | Era uma vez... Brenda Lee!. YouTube video, 58:34. Posted June 9, 2024.https://www.youtube.com/watch?v=CdVwKJWUJ5w&t=1095s
+  - TV Brasil. Caminhos da Reportagem. Era uma vez.Brenda Lee. YouTube video, 58:34. Posted June 9, 2024.https://www.youtube.com/watch?v=CdVwKJWUJ5w&t=1095s
 
 
   Secondary Sources
@@ -524,11 +524,14 @@ In cunclusion...
 
     [^lee22]: *Carta para Além dos Muros*, directed by André Canto (Brazil Sendero Filmes, 2019), documentary, YouTube, posted by “Rinnesuke Hashiki,” https://www.youtube.com/watch?v=LULBaeqz2Zs&t=5221s The documentary includes interviews with physicians such as Drauzio Varella, HIV/AIDS activists, politicians, and people living with HIV/AIDS who experienced the epidemic during the 1980s and 1990s. 
 
-    [^lee23]: TV Brasil, Caminhos da Reportagem | Era uma vez... Brenda Lee!, YouTube video, 58:34, posted June 9, 2024, https://www.youtube.com/watch?v=CdVwKJWUJ5w&t=1095s The documentary, produced by Brazil’s federal public television, includes testimonies from doctors, activists, residents of the shelter, and Brenda Lee herself about HIV/AIDS activism and trans communities in Brazil.
+    [^casada]: TV Brasil, Caminhos da Reportagem. Era uma vez. Brenda Lee, YouTube video, 58:34, posted June 9, 2024, https://www.youtube.com/watch?v=CdVwKJWUJ5w&t=1095s The documentary, produced by Brazil’s federal public television, includes testimonies from doctors, activists, residents of the shelter, and Brenda Lee herself about HIV/AIDS activism and trans communities in Brazil.
 
     [^abia73]: Associação Brasileira Interdisciplinar de AIDS (ABIA), Boletim ABIA, no. 9 (Rio de Janeiro: ABIA, 1980s-1990s): 4, 7-9, 22-23. https://abiaids.org.br/_img/media/bol%20abia%2009.pdf
 
     [^abia74]: Associação Brasileira Interdisciplinar de AIDS (ABIA), Boletim ABIA, no. 9 (Rio de Janeiro: ABIA, 1980s-1990s): 26-27. https://abiaids.org.br/_img/media/bol%20abia%2009.pdf
+
+    [^mott]:Luiz Mott, “Brenda Lee e o seu Palácio das Princesas,” Memória da HB, November 22, 2009, accessed May 16, 2026,  https://memoriamhb.blogspot.com/2009/11/brenda-lee-e-o-seu-palacio-das.html The post discusses Brenda Lee’s HIV/AIDS activism, the Casa de Apoio Brenda Lee shelter, and includes testimonies, newspaper material, and historical information about trans communities and HIV/AIDS care in Brazil.
+
 
 
 
