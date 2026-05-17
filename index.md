@@ -151,7 +151,6 @@ This image has a caption, but no title|
   ABIA’s bulletins also created spaces for readers to share experiences, ask for help, and build solidarity networks across Brazil. Some readers wrote letters describing illness, discrimination, loneliness, and the lack of medical treatment in their cities. Christian group wrote letter defended queer rights and opposed sexual discrimination. Others asked for support to create local HIV/AIDS organizations and community groups. HIV/AIDS activism connected healthcare, religion, sexuality, and mutual support during the epidemic.[^abia8]
 
   ABIA pressured the government for blood banks properly test donated blood for diseases such as HIV. The organization also organized meetings with politicians and national and international NGOs to defend public health policies and the rights of people living with HIV/AIDS.[^abia8] ABIA became a bridge between civil society, politicians, and international organizations such as the Ford Foundation.[^abia9]
-
   
   ABIA’s activities, Betinho’s public activism, and the deaths of his famous brothers from HIV-related complications changed how many Brazilians understood AIDS. During a meeting of Brazil’s Constituent Assembly in 1988, representative José Genoino announced that Henfil had died after receiving contaminated blood that had not been tested for HIV[^senado37] Genoino  also stated that Brazil needed to confront AIDS more seriously. Some politicians still expressed more sympathy for hemophiliacs infected through blood transfusions because many people did not associate them with homosexuality or drug use.[^ag1]
 
@@ -181,25 +180,21 @@ This image has a caption, but no title|
   Some Brazilian flight attendants, such as Mario Augusto dos Santos Filho and Alexandre Santos Silva, created informal networks to bring HIV medications from the United States to Brazil. They carried prescriptions and bought medicines abroad with donations or their own money. Many of these workers were employees of Varig, Brazil’s largest airline at the time. [^varig2]
   
   Former flight attendants Mario Augusto dos Santos Filho and Alexandre Santos Silva later explained how crews, airport workers, and activists helped distribute medications, especially in Rio de Janeiro. Because flight crews often avoided customs inspections, they could transport medicines more easily. After becoming sick with HIV/AIDS, Silva also used retirement rights guaranteed by Brazil’s 1988 Constitution. These stories show how solidarity networks, activism, labor rights, and public healthcare became connected during the epidemic.[^varig2]
-
-   <!-- this is an unclosed div that needs to be closed with bg-multi-long-close-->
-{% include scrollybox/bg-multi-long.html
-  bg-id="bg1"
-  image-path="/assets/images/lee3.png"
-  above-box-space="0"
-  font-size = "90%"
-  line-height = "100%"
-%}
-
-    Brenda Lee (1948-1996) was a trans activist and one of the most important figures in Brazil’s fight against HIV/AIDS during the 1980s. She created the ‘Palace of the Princesses’ (Palácio das Princesas), a shelter for trans women.In the 1980s, Brazil still lacked public programs, medications, and healthcare structures to respond to HIV/AIDS. Many hospitals treated HIV patients with fear and prejudice.[^cartas] Some patients left hospitals but had nowhere to go. Brenda worked with doctors from the local hospital, activists, volunteers, and the São Paulo State Health Secretariat. Her house received people who no longer needed hospitalization but still needed medicine, food, shelter, and daily care. Many residents saw Brenda as a mother figure. Newspapers later called her the ‘Angel of AIDS’ because she cared for people abandoned during the epidemic.[^casada]
   
-    Brenda also raised money through television programs, public events, and solidarity campaigns to keep the shelter open. In 1988, the São Paulo State Health Secretariat created an official partnership with the Casa de Apoio Brenda Lee to care for HIV-positive patients. Her house became so important that many described it as an extension of Hospital Emílio Ribas. When she was murdered in 1996, doctors, activists, religious leaders, and former residents remembered her as a leader, a mother figure, and a symbol in the fight against AIDS. HIV/AIDS activists in Brazil did not limit their efforts to protests or formal organizations. Activism also happened inside homes and everyday networks of survival.[^mott]
+  Brenda Lee (1948-1996) was a trans activist and one of the most important figures in Brazil’s fight against HIV/AIDS during the 1980s. She created the ‘Palace of the Princesses’ (Palácio das Princesas), a shelter for trans women.In the 1980s, Brazil still lacked public programs, medications, and healthcare structures to respond to HIV/AIDS. Many hospitals treated HIV patients with fear and prejudice.[^cartas] Some patients left hospitals but had nowhere to go. Brenda worked with doctors from the local hospital, activists, volunteers, and the São Paulo State Health Secretariat. Her house received people who no longer needed hospitalization but still needed medicine, food, shelter, and daily care. Many residents saw Brenda as a mother figure. Newspapers later called her the ‘Angel of AIDS’ because she cared for people abandoned during the epidemic.[^casada]
+  
+   Brenda also raised money through television programs, public events, and solidarity campaigns to keep the shelter open. In 1988, the São Paulo State Health Secretariat created an official partnership with the Casa de Apoio Brenda Lee to care for HIV-positive patients. Her house became so important that many described it as an extension of Hospital Emílio Ribas. When she was murdered in 1996, doctors, activists, religious leaders, and former residents remembered her as a leader, a mother figure, and a symbol in the fight against AIDS. HIV/AIDS activists in Brazil did not limit their efforts to protests or formal organizations. Activism also happened inside homes and everyday networks of survival.[^mott]
 
-{% include scrollybox/bg-switch.html
+   {% include scrollybox/bg.html
+  height="220vh"
+  position="top"
   image-path="/assets/images/lee4.png"
-  switch-id="switch1"
-  bg-id="bg1"
+  above-box-space = "100vh"
+  box-content=' "If you have someone with AIDS and nowhere to stay, come to my house. Here we take care of them without discrimination." (Brenda Lee). '
 %}
+
+
+
   
   ABIA's activists also worked directly with communities. They offered legal support to people facing discrimination and lack of healthcare access. ABIA also helped people find local NGOs and support groups. In a period of high mortality and limited state policies, activists distributed food, medications, condoms, and disposable syringes to vulnerable communities.ABIA activists also supported and coordinated local groups such as Grupo Pela VIDDA in Rio de Janeiro. These organizations build national meetings that connect activists, patients, physicians, and national and international NGOs. [^abia73]
   
