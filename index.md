@@ -189,7 +189,9 @@ This image has a caption, but no title|
 
   {% include images/figure.html
   image-path="/assets/images/acervo1.png"
-  caption="***Figure 7:*** Second Meeting of the Brazilian Solidarity Network (AIDS NGOs). October 13–15, 1989 – Porto Alegre, Rio Grande do Sul. Poster in the background: ‘Solidarity Is a Vaccine Against AIDS.’‘Against Discrimination'Source: https://abiaids.org.br/wp-content/uploads/2021/05/livro-digital-final-ESTIGMA-DISCRIMINA%C3%87%C3%83O-E-AIDS-pagina-espelhada-10052020.pdf"
+  caption="***Figure 7:*** Second Meeting of the Brazilian Solidarity Network (AIDS NGOs). October 13–15, 1989 – Porto Alegre, Rio Grande do Sul. Poster in the background: ‘Solidarity Is a Vaccine Against AIDS.’
+  ‘Against Discrimination'
+  Source: https://abiaids.org.br/wp-content/uploads/2021/05/livro-digital-final-ESTIGMA-DISCRIMINA%C3%87%C3%83O-E-AIDS-pagina-espelhada-10052020.pdf"
   alt-text="Hiking trail through a canyon in the Sandia foothills."
   class="center"
   width="100%"
