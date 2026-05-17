@@ -138,9 +138,9 @@ This image has a caption, but no title|
   
   The Second National Meeting of AIDS NGOs, held in Porto Alegre in 1989, shows the rapid growth of AIDS activism in Brazil. Activists marched publicly with banners and protest signs demanding healthcare and fighting discrimination against people living with HIV/AIDS and queer communities. Participants also discussed poverty, racism, women’s rights, and public healthcare. These events transformed people living with HIV/AIDS from potenctial isolated patients into organized political actors within Brazilian democracy.[^abia74]
   
-  Partnerships between the Brazilian government, NGOs, local communities, and international organizations helped Brazil build one of the strongest HIV/AIDS programs in the developing world during the 1990s. Black movements, feminist groups, queer activists, physicians, researchers, and people living with HIV/AIDS all pressured the government to treat AIDS as a public health and human rights issue, not only as a moral problem.
+  Partnerships between the Brazilian government, NGOs, local communities, and international organizations helped Brazil build one of the strongest HIV/AIDS programs in the developing world during the 1990s. Black movements, feminist groups, queer activists, physicians, researchers, and people living with HIV/AIDS all pressured the government to treat AIDS as a public health and human rights issue, not only as a moral problem.[^galvao3]
   
-  During Brazil’s transition from dictatorship to democracy, activists also pushed for new social rights. Even though Brazil’s 1988 Constitution did not ban discrimination based on sexual orientation, people living with HIV/AIDS gained important legal protections. Brazil expanded free public healthcare, recognized retirement rights for people who became too sick to work, and, in 1996, guaranteed free HIV medication through the public healthcare system. Rather than simply accepting social inequalities, discrimination and repression, activism during the HIV/AIDS crisis in Brazil transformed sexuality into a political issue connected to healthcare and human rights. 
+  During Brazil’s transition from dictatorship to democracy, activists also pushed for new social rights. Even though Brazil’s 1988 Constitution did not ban discrimination based on sexual orientation, people living with HIV/AIDS gained important legal protections.[^law1988] Brazil expanded free public healthcare, recognized retirement rights for people who became too sick to work, and, in 1996, guaranteed free HIV medication through the public healthcare system.[^1996] Rather than simply accepting social inequalities, discrimination and repression, activism during the HIV/AIDS crisis in Brazil transformed sexuality into a political issue connected to healthcare and human rights. 
 
 ## Conclusion
 
@@ -437,6 +437,8 @@ In cunclusion...
 
  - Brasil. Ministério da Saúde. Secretaria de Vigilância em Saúde e Ambiente. Departamento de HIV, Aids, Tuberculose, Hepatites Virais e Infecções Sexualmente Transmissíveis.*Histórias da Aids no Brasil: 1983–2003 (Histories of AIDS in Brazil: 1983–2003)*. 2nd ed. 2 vols. Brasília: Ministério da Saúde, 2025. https://bvsms.saude.gov.br/bvs/publicacoes/historias_aids_Brasil_v2.pdf
 
+ -  Cueto, Marcos, and Gabriel Lopes. “Braiding Public Health and Human Rights: AIDS, Activism, and International Agencies in Brazil, 1987–1996.” Latin American Research Review 58, no. 1 (2023): 144–60. https://doi.org/10.1017/lar.2022.99.
+
  - Galvão, Jane. *AIDS No Brasil : A Agenda de Construção de Uma Epidemia*. ABIA Press, 2000.
 
  - Parker, Richard, and Peter Aggleton. Estigma, discriminação e AIDS. Rio de Janeiro: Associação Brasileira Interdisciplinas de Aids, ABIA, 2021.  https://abiaids.org.br/wp-content/uploads/2021/05/livro-digital-final-ESTIGMA-DISCRIMINA%C3%87%C3%83O-E-AIDS-pagina-espelhada-10052020.pdf
@@ -444,6 +446,8 @@ In cunclusion...
  - Parker, Richard, Mónica Franch-Gutiérrez, Luziana Marques da Fonseca Silva, Wertton Luís de Pontes Matias, Geissy dos Reis Ferreira de Oliveira, Marcos Castro Carvalho, and Vagner João Benício de Almeida. “HIV/AIDS Policies, Activism, and Anthropology: A Talk with Richard Parker.” Saúde em Debate 46, no. especial 7 , 2022. https://doi.org/10.1590/0103-11042022E720I
 
  - Royles, Dan. *To Make the Wounded Whole: The African American Struggle Against HIV/AIDS.* University of North Carolina Press, 2020.
+
+
 
 
  [^jornais]: Fundação Oswaldo Cruz (Fiocruz), “A Epidemia da Aids Através do Tempo,” in O Vírus da Aids, 20 anos depois, accessed May 15, 2026,https://www.ioc.fiocruz.br/en/aids20anos/linhadotempo.htmlThe timeline reproduces 1983 newspaper Notícias Populares’ language such as "gay plague” and “câncer gay” and references the stigmatizing discourse surrounding the early AIDS crisis in Brazil. This paper reports the first cases of HIV/AIDS in Brazil.
