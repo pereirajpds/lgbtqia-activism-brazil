@@ -90,6 +90,8 @@ This image has a caption, but no title|
   captions=captions
 %}
 
+
+
   Politicians rejected a proposal to include sexual orientation among the forms of discrimination prohibited by Brazil’s new Constitution. [^ementa] The debate revealed the resistance queer activists faced during Brazil’s transition to democracy. At the same time, activists helped transform HIV/AIDS from a stigmatized “gay plague” into a public health and human rights issue within Brazilian democracy.
 
 ## ABIA, Queer Activism and the State Response to HIV/AIDS Crisis
