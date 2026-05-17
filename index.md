@@ -116,7 +116,11 @@ This image has a caption, but no title|
   Betinho became popular in Brazil for social activism and human rights work. He also had hemophilia and contracted HIV through contaminated blood transfusions, along with his brothers the cartoonist Henfil and musician Chico Mário.[^abia4] Their experiences helped show to society that HIV/AIDS not only affected gay men. 
   This mattered politically.
 
-  {% include images/figure.html
+  Newspapers, politicians, and physicians debated how to respond to the AIDS/HIV crisis in  Brazil’s new constitution through the idea of 'risk groups.' This links queer people and drug users as the main targets for HIV/AIDS. This language reinforced stigma and encouraged many Brazilians to believe they were 'safe' from HIV.[^abia5] Instead of focusing on 'risk groups,' activists emphasized 'risk behavior.' HIV was connected to actions and exposure, not only to sexuality. Anyone could contract the virus.[^abia6]
+
+  ABIA's activists reinforced this idea through public campaigns, bulletins, community meetings, posters, and educational materials. These sources explained how HIV spreads through unprotected sex, contaminated blood, and shared syringes and reinforced the importance of a solidarity network.[^abia] The organization also promoted self-esteem through artistic exhibitions such as 'cabaret from prevention,' naturalizing gay love while providing information to avoid risk behavior, banners, posters, and public campaigns. Some campaigns defended love between two men and relationships involving HIV-positive couples. Others promoted slogans such as 'Friends Are Friends, Needles Are Separate,' reinforcing that people should not share needles or syringes. ABIA tried to reduce fear and stigma while encouraging prevention and solidarity.[^abia7]
+
+{% include images/figure.html
   image-path="/assets/images/backgrounds/abia.png"
   caption="***Figure 6:*** Abia Bulletin. Live Life, a network of solidarity. Created by cartoonist Henfil."
   alt-text="Hiking trail through a canyon in the Sandia foothills."
@@ -124,11 +128,7 @@ This image has a caption, but no title|
   width="100%"
   text="firstimage"
 %}
-  
-  Newspapers, politicians, and physicians debated how to respond to the AIDS/HIV crisis in  Brazil’s new constitution through the idea of 'risk groups.' This links queer people and drug users as the main targets for HIV/AIDS. This language reinforced stigma and encouraged many Brazilians to believe they were 'safe' from HIV.[^abia5] Instead of focusing on 'risk groups,' activists emphasized 'risk behavior.' HIV was connected to actions and exposure, not only to sexuality. Anyone could contract the virus.[^abia6]
-
-  ABIA's activists reinforced this idea through public campaigns, bulletins, community meetings, posters, and educational materials. These sources explained how HIV spreads through unprotected sex, contaminated blood, and shared syringes and reinforced the importance of a solidarity network.[^abia] The organization also promoted self-esteem through artistic exhibitions such as 'cabaret from prevention,' naturalizing gay love while providing information to avoid risk behavior, banners, posters, and public campaigns. Some campaigns defended love between two men and relationships involving HIV-positive couples. Others promoted slogans such as 'Friends Are Friends, Needles Are Separate,' reinforcing that people should not share needles or syringes. ABIA tried to reduce fear and stigma while encouraging prevention and solidarity.[^abia7]
-
+ 
   ABIA’s bulletins also created spaces for readers to share experiences, ask for help, and build solidarity networks across Brazil. Some readers wrote letters describing illness, discrimination, loneliness, and the lack of medical treatment in their cities. Christian group wrote letter defended queer rights and opposed sexual discrimination. Others asked for support to create local HIV/AIDS organizations and community groups. HIV/AIDS activism connected healthcare, religion, sexuality, and mutual support during the epidemic.[^abia8]
 
   ABIA's members pressured the government for blood banks properly test donated blood for diseases such as HIV. The organization also organized meetings with politicians and national and international NGOs to defend public health policies and the rights of people living with HIV/AIDS.[^abia8] ABIA became a bridge between civil society, politicians, and international organizations such as the Ford Foundation.[^abia9]
