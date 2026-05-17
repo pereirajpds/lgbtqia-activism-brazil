@@ -160,8 +160,9 @@ This image has a caption, but no title|
 
 {% include images/juxtapose.html
   image1="/assets/images/cara.png"
-  image2="/assets/images/cuidar.jpg"
-  caption="The TV room becomes the History Department Common Room."
+  image2="/assets/images/pegar.png"
+  caption=" Federal government, Ministry of Health Campaign (1988): ‘You can’t tell who has AIDS by looking.’ :’If you do not protect yourself, AIDS will get you.’‘Through contaminated needles and syringes.’ ‘Through blood transfusions or contact with contaminated blood.’  ‘ From an infected mother to her child during pregnancy or childbirth.”
+  Source: Senate Agency. "
 %}
 
 {% include images/figure.html
