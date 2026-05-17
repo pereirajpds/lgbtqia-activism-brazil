@@ -127,7 +127,13 @@ This image has a caption, but no title|
   However, political debates still revealed important limitations. During Brazil’s Constituent Assembly in 1988, some politicians connected to religious organizations criticized government condom campaigns because they believed these campaigns encouraged homosexuality and sexual freedom. Representative Abigail Feitosa also criticized AIDS campaigns for showing the image of a young white woman while avoiding direct discussion about homosexual men, who many officials still considered a ‘risk group.’ 
 
   At the same time, health reports already showed that HIV affected queer communities, women, children, people who received blood transfusions, and drug users. Even while criticizing the campaigns, Feitosa still described women as a ‘lower risk group.’ Politicians continued to use stigmatizing ideas about who could contract HIV/AIDS.
+
+  While organizations such as ABIA pressured politicians and transformed public debate, other activists focused on immediate survival. Community care emerged because the state failed to respond adequately during the early years of the epidemic. Many Brazilians living with HIV/AIDS could not access medications such as AZT, one of the first drugs used to treat the disease. The Brazilian government only approved AZT for use in 1991, started producing it nationally in 1993, and guaranteed free universal access through the public healthcare system in 1996. Until then, many people depended on informal solidarity networks to survive.
   
+  Some Brazilian flight attendants, such as Mario Augusto dos Santos Filho and Alexandre Santos Silva, created informal networks to bring HIV medications from the United States to Brazil. They carried prescriptions and bought medicines abroad with donations or their own money. Many of these workers were employees of Varig, Brazil’s largest airline at the time. Former flight attendants Mario Augusto dos Santos Filho and Alexandre Santos Silva later explained how crews, airport workers, and activists helped distribute medications, especially in Rio de Janeiro. Because flight crews often avoided customs inspections, they could transport medicines more easily.
+  
+  Silva explained that some Varig employees lost their jobs after becoming HIV positive, even when companies avoided openly admitting discrimination. After becoming sick with HIV/AIDS, Silva also used retirement rights guaranteed by Brazil’s 1988 Constitution. These stories show how solidarity networks, activism, labor rights, and public healthcare became connected during the epidemic.
+
 
 
 
