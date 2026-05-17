@@ -50,7 +50,7 @@ header-position: center
   caption="***Figure3:***, The worst and most terrible disease of the century. Two Brazilians dead.‘Gay Plague’ already terrifies São Paulo. Newspaper *Notícias Populares*,1983. https://www.ioc.fiocruz.br/en/aids20anos/linhadotempo.html"
   alt-text="Hiking trail through a canyon in the Sandia foothills."
   class="left"
-  width="40%"
+  width="45%"
   text="firstimage"
 %}
 
@@ -107,7 +107,7 @@ This image has a caption, but no title|
   caption="***Figure 5:*** Herbert Daniel (946 – 1992). Source: https://www.dukeupress.edu/exile-within-exiles "
   alt-text="Hiking trail through a canyon in the Sandia foothills."
   class="left"
-  width="30%"
+  width="40%"
   text="firstimage"
 %}
 
