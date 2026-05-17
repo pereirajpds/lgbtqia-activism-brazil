@@ -172,7 +172,7 @@ This image has a caption, but no title|
 
     {% assign images =
 "/assets/images/flight.png,
-/assets/images/palace.png,
+/assets/images/SP.png,
 /assets/images/betinho2.png," | split: ','
 %}
 
