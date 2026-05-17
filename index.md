@@ -130,7 +130,7 @@ This image has a caption, but no title|
   
   Former flight attendants Mario Augusto dos Santos Filho and Alexandre Santos Silva later explained how crews, airport workers, and activists helped distribute medications, especially in Rio de Janeiro. Because flight crews often avoided customs inspections, they could transport medicines more easily. After becoming sick with HIV/AIDS, Silva also used retirement rights guaranteed by Brazil’s 1988 Constitution. These stories show how solidarity networks, activism, labor rights, and public healthcare became connected during the epidemic.[^varig2]
   
-  Brenda Lee (1948-1996) was a trans activist and one of the most important figures in Brazil’s fight against HIV/AIDS during the 1980s. She created the ‘Palace of the Princesses’ (Palácio das Princesas), a shelter for trans women.In the 1980s, Brazil still lacked public programs, medications, and healthcare structures to respond to HIV/AIDS. Many hospitals treated HIV patients with fear and prejudice. Some patients left hospitals but had nowhere to go. Brenda worked with doctors from the local hospital, activists, volunteers, and the São Paulo State Health Secretariat. Her house received people who no longer needed hospitalization but still needed medicine, food, shelter, and daily care. Many residents saw Brenda as a mother figure. Newspapers later called her the ‘Angel of AIDS’ because she cared for people abandoned during the epidemic.
+  Brenda Lee (1948-1996) was a trans activist and one of the most important figures in Brazil’s fight against HIV/AIDS during the 1980s. She created the ‘Palace of the Princesses’ (Palácio das Princesas), a shelter for trans women.In the 1980s, Brazil still lacked public programs, medications, and healthcare structures to respond to HIV/AIDS. Many hospitals treated HIV patients with fear and prejudice.[^cartas] Some patients left hospitals but had nowhere to go. Brenda worked with doctors from the local hospital, activists, volunteers, and the São Paulo State Health Secretariat. Her house received people who no longer needed hospitalization but still needed medicine, food, shelter, and daily care. Many residents saw Brenda as a mother figure. Newspapers later called her the ‘Angel of AIDS’ because she cared for people abandoned during the epidemic.[^lee23]
   
   Brenda also raised money through television programs, public events, and solidarity campaigns to keep the shelter open. In 1988, the São Paulo State Health Secretariat created an official partnership with the Casa de Apoio Brenda Lee to care for HIV-positive patients. Her house became so important that many described it as an extension of Hospital Emílio Ribas. When she was murdered in 1996, doctors, activists, religious leaders, and former residents remembered her as a leader, a mother figure, and a symbol in the fight against AIDS. HIV/AIDS activists in Brazil did not limit their efforts to protests or formal organizations. Activism also happened inside homes and everyday networks of survival.
   
@@ -411,7 +411,7 @@ In cunclusion...
   - ‘4th National Meeting of People Living with HIV and AIDS’ in the website of NGO *Grupo Pela VIDDA* 1994. https://pelavidda.org.br/vivendo.html
 
   - Former Flight Attendants Interview in  Machado, Leandro. “O ‘contrabando do bem’: os comissários da Varig que trouxeram remédios contra a AIDS ao Brasil.” (The ‘Good Smuggling’: Varig Flight Attendants Who Brought AIDS Medications to Brazil.)  BBC News Brasil, January 5, 2020. Accessed March 1, 2026. https://www.bbc.com/portuguese/brasil-51199929
-  
+
   -  Grupo homossexual processa juiz de PE por discriminação (Homosexual Group Sues Pernambuco Judge for Discrimination). Folha de São Paulo. July 2, 1987. Cad. Cidades, Seção Mortes. Reproduced in https://museubajuba.org/os-sombrios-anos-da-peste-gay/
 
   - Machado, Leandro. “The Varig Flight Attendants Who ‘Smuggled’ Medication to Help AIDS Patients” (Os comissários da Varig que ‘contrabandeavam’ remédios para ajudar pacientes com Aids). BBC News Brasil. February 8, 2020. https://www.bbc.com/portuguese/brasil-51199929
@@ -426,9 +426,10 @@ In cunclusion...
   
   - *Pela VIDDA* . Telegram from Raldo Bonifácio Costa Filho, president of NGO Grupo Pela VIDDA from Niterói, Rio de Janeiro, to President of Brazil Fernando Henrique Cardoso. September 18, 1995. Instituto Fernando Henrique Cardoso Archive. http://acervo.ifhc.org.br/?linkId=90
 
-  -  Rejeitada emenda pró-homossexual ( Pro-Homosexual Amendment Rejected). Correio Braziliense (Brasília). January 29, 1988. Reproduced in https://museubajuba.org/os-sombrios-anos-da-peste-gay/
+  - Rejeitada emenda pró-homossexual ( Pro-Homosexual Amendment Rejected). Correio Braziliense (Brasília). January 29, 1988. Reproduced in https://museubajuba.org/os-sombrios-anos-da-peste-gay/
 
-  - TV Brasil, Caminhos da Reportagem, ‘Era uma vez… Brenda Lee!,’ YouTube video, June 9, 2024, https://www.youtube.com/watch?v=CdVwKJWUJ5w
+  - TV Brasil. Caminhos da Reportagem | Era uma vez... Brenda Lee!. YouTube video, 58:34. Posted June 9, 2024.https://www.youtube.com/watch?v=CdVwKJWUJ5w&t=1095s
+
 
   Secondary Sources
 
@@ -520,6 +521,13 @@ In cunclusion...
     [^jane5]: Jane Galvão, *AIDS No Brasil : A Agenda de Construção de Uma Epidemia*. (Rio de Janeiro : ABIA Press 2000): 98-99, 118-119.
 
     [^varig2]: Leandro Machado, “O ‘contrabando do bem’: os comissários da Varig que trouxeram remédios contra a aids ao Brasil,” (The ‘Good Smuggling’: Varig Flight Attendants Who Brought AIDS Medications to Brazil).  BBC News Brasil, January 5, 2020, accessed March 1, 2026. https://www.bbc.com/portuguese/brasil-51199929  The article includes interviews with former flight attendants involved in informal networks that brought HIV medications from USA to Brazil during the 1980s.
+
+    [^lee22]: *Carta para Além dos Muros*, directed by André Canto (Brazil Sendero Filmes, 2019), documentary, YouTube, posted by “Rinnesuke Hashiki,” https://www.youtube.com/watch?v=LULBaeqz2Zs&t=5221s The documentary includes interviews with physicians such as Drauzio Varella, HIV/AIDS activists, politicians, and people living with HIV/AIDS who experienced the epidemic during the 1980s and 1990s. 
+
+    [^lee23]: TV Brasil, Caminhos da Reportagem | Era uma vez... Brenda Lee!, YouTube video, 58:34, posted June 9, 2024, https://www.youtube.com/watch?v=CdVwKJWUJ5w&t=1095s The documentary, produced by Brazil’s federal public television, includes testimonies from doctors, activists, residents of the shelter, and Brenda Lee herself about HIV/AIDS activism and trans communities in Brazil.
+
+
+
 
    
 
