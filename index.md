@@ -137,7 +137,13 @@ This image has a caption, but no title|
   position="top"
   image-path="/assets/images/abiaposter.png"
   above-box-space = "100vh"
-  box-content=' The campaign Aceite a Diversidade (“Accept Diversity”) challenged homophobia and AIDS stigma in Brazil during the late 1980s and the 1990s. "ABIA at 30: A History of Resistance and Struggle." "Friends Are Friends, Needles Are Separate." "It Doesn’t Matter With Whom." '
+  box-content=' The campaign Aceite a Diversidade (“Accept Diversity”) challenged homophobia and AIDS stigma in Brazil during the late 1980s and the 1990s. 
+  "ABIA at 30: A History of Resistance and Struggle." 
+  "Friends Are Friends, Needles Are Separate." 
+  "It Doesn’t Matter With Whom."
+  "There Is Something Positive Waiting for You. And It Is Not AIDS."
+  "Serodiscordant Couples."
+  "Love, Life, Live." '
 %}
 
   ABIA’s bulletins also created spaces for readers to share experiences, ask for help, and build solidarity networks across Brazil. Some readers wrote letters describing illness, discrimination, loneliness, and the lack of medical treatment in their cities. Christian group wrote letter defended queer rights and opposed sexual discrimination. Others asked for support to create local HIV/AIDS organizations and community groups. HIV/AIDS activism connected healthcare, religion, sexuality, and mutual support during the epidemic.[^abia8]
