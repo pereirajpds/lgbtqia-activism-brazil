@@ -118,7 +118,7 @@ This image has a caption, but no title|
   
   ABIA pressured the government for blood banks properly test donated blood for diseases such as HIV. The organization also organized meetings with politicians and national and international NGOs to defend public health policies and the rights of people living with HIV/AIDS. ABIA became a bridge between civil society, politicians, and international organizations such as the Ford Foundation. [^abia8]
   
-  ABIA’s activities, Betinho’s public activism, and the deaths of his famous brothers from HIV-related complications changed how many Brazilians understood AIDS. During a meeting of Brazil’s Constituent Assembly in 1988, representative José Genoino announced that Henfil had died after receiving contaminated blood that had not been tested for HIV. Genoino  also stated that Brazil needed to confront AIDS more seriously. Some politicians still expressed more sympathy for hemophiliacs infected through blood transfusions because many people did not associate them with homosexuality or drug use.
+  ABIA’s activities, Betinho’s public activism, and the deaths of his famous brothers from HIV-related complications changed how many Brazilians understood AIDS. During a meeting of Brazil’s Constituent Assembly in 1988, representative José Genoino announced that Henfil had died after receiving contaminated blood that had not been tested for HIV. Genoino  also stated that Brazil needed to confront AIDS more seriously. Some politicians still expressed more sympathy for hemophiliacs infected through blood transfusions because many people did not associate them with homosexuality or drug use.[^ag1]
 
   As public debates about HIV/AIDS changed in the late 1980s, Brazil’s National AIDS Program also changed its campaigns. Federal campaigns started to show that HIV/AIDS could affect anyone, including women and heterosexual couples. State campaigns started to include women and heterosexual couples as possible targets of HIV/AIDS. The slogan ‘You Can’t Tell Who Has AIDS by Looking’ (1988) challenged the idea that only certain groups could get the disease. The campaign used the image of a healthy woman to show that HIV was not visible. It also explained that HIV spread through sex and shared needles and encouraged condom use. By focusing on behavior instead of identity, the campaign tried to reduce stigma and change how Brazilians understood the epidemic.
   
@@ -506,6 +506,8 @@ In cunclusion...
    [^abia7]: ABIA Poster of cultural exhibitions as a cabaret of prevention and campaign advertisements in Richard Parker and Peter Aggleton, Estigma, discriminação e AIDS (Rio de Janeiro: Associação Brasileira Interdisciplinas de Aids, ABIA, 2021): 12, 17, 23, 54.https://abiaids.org.br/wp-content/uploads/2021/05/livro-digital-final-ESTIGMA-DISCRIMINA%C3%87%C3%83O-E-AIDS-pagina-espelhada-10052020.pdf ABIA (Associação Brasileira Interdisciplinar de AIDS). 
 
    [^abia8]:Associação Brasileira Interdisciplinar de AIDS (ABIA), Boletim ABIA, no. 9 (Rio de Janeiro: ABIA, nd), 24-25. https://abiaids.org.br/_img/media/bol%20abia%2009.pdf ABIA produced Boletim ABIA to publish reports from HIV/AIDS meetings, public campaigns, prevention information, and letters sent by readers and people living with HIV/AIDS across Brazil. Activist Herbert Daniel edited some editions of the bulletin. The publication also revealed connections between Brazilian HIV/AIDS activism and international organizations, including events sponsored by the Ford Foundation.
+
+   
 
 
 
