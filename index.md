@@ -163,8 +163,6 @@ This image has a caption, but no title|
 
   While organizations such as ABIA pressured politicians and transformed public debate, other activists focused on immediate survival. Community care emerged because the state failed to respond adequately during the early years of the epidemic. Many Brazilians living with HIV/AIDS could not access medications such as AZT, one of the first drugs used to treat the disease. The Brazilian government only approved this drug for use in 1991, started producing it nationally in 1993, and guaranteed free universal access through the public healthcare system in 1996. Until then, many people depended on informal solidarity networks to survive.[^jane5]
 
-  Some Brazilian flight attendants, such as Mario Augusto dos Santos Filho and Alexandre Santos Silva, created informal networks to bring HIV medications from the United States to Brazil. They carried prescriptions and bought medicines abroad with donations or their own money. Many of these workers were employees of Varig, Brazil’s largest airline at the time. [^varig2]
-
   {% include images/figure.html
   image-path="/assets/images/AZT.png"
   caption="***Figure7:*** Brazil started to produce AZT (Zidovudine) in 1993.https://www.ioc.fiocruz.br/aids20anos/linhadotempo.html"
@@ -173,6 +171,8 @@ This image has a caption, but no title|
   width="40%"
   text="firstimage"
 %}
+
+  Some Brazilian flight attendants, such as Mario Augusto dos Santos Filho and Alexandre Santos Silva, created informal networks to bring HIV medications from the United States to Brazil. They carried prescriptions and bought medicines abroad with donations or their own money. Many of these workers were employees of Varig, Brazil’s largest airline at the time. [^varig2]
 
   Former flight attendants Mario Augusto dos Santos Filho and Alexandre Santos Silva later explained how crews, airport workers, and activists helped distribute medications, especially in Rio de Janeiro. Because flight crews often avoided customs inspections, they could transport medicines more easily. After becoming sick with HIV/AIDS, Silva also used retirement rights guaranteed by Brazil’s 1988 Constitution. These stories show how solidarity networks, activism, labor rights, and public healthcare became connected during the epidemic.[^varig2]
 
