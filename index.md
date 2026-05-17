@@ -162,6 +162,15 @@ This image has a caption, but no title|
 %}
 
   While organizations such as ABIA pressured politicians and transformed public debate, other activists focused on immediate survival. Community care emerged because the state failed to respond adequately during the early years of the epidemic. Many Brazilians living with HIV/AIDS could not access medications such as AZT, one of the first drugs used to treat the disease. The Brazilian government only approved this drug for use in 1991, started producing it nationally in 1993, and guaranteed free universal access through the public healthcare system in 1996. Until then, many people depended on informal solidarity networks to survive.[^jane5]
+
+   {% include images/figure.html
+  image-path="/assets/images/backgrounds/azt.jpg"
+  caption="***Figure 7:*** AZT medication. "
+  alt-text="Hiking trail through a canyon in the Sandia foothills."
+  class="center"
+  width="45%"
+  text="firstimage"
+%}
   
   Some Brazilian flight attendants, such as Mario Augusto dos Santos Filho and Alexandre Santos Silva, created informal networks to bring HIV medications from the United States to Brazil. They carried prescriptions and bought medicines abroad with donations or their own money. Many of these workers were employees of Varig, Brazil’s largest airline at the time. [^varig2]
   
