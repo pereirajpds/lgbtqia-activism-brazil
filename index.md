@@ -186,6 +186,15 @@ This image has a caption, but no title|
   ABIA's activists also worked directly with communities. They offered legal support to people facing discrimination and lack of healthcare access. ABIA also helped people find local NGOs and support groups. In a period of high mortality and limited state policies, activists distributed food, medications, condoms, and disposable syringes to vulnerable communities.ABIA activists also supported and coordinated local groups such as Grupo Pela VIDDA in Rio de Janeiro. These organizations build national meetings that connect activists, patients, physicians, and national and international NGOs. [^abia73]
   
   The Second National Meeting of AIDS NGOs, held in Porto Alegre in 1989, shows the rapid growth of AIDS activism in Brazil. Activists marched publicly with banners and protest signs demanding healthcare and fighting discrimination against people living with HIV/AIDS and queer communities. Participants also discussed poverty, racism, women’s rights, and public healthcare. These events transformed people living with HIV/AIDS from potenctial isolated patients into organized political actors within Brazilian democracy.[^abia74]
+
+  {% include images/figure.html
+  image-path="/assets/images/dinheiro.png"
+  caption="***Figure 7:*** Second Meeting of the Brazilian Solidarity Network (AIDS NGOs). October 13–15, 1989 – Porto Alegre, Rio Grande do Sul. Poster in the background: ‘Solidarity Is a Vaccine Against AIDS.’‘Against Discrimination'Source: https://abiaids.org.br/wp-content/uploads/2021/05/livro-digital-final-ESTIGMA-DISCRIMINA%C3%87%C3%83O-E-AIDS-pagina-espelhada-10052020.pdf"
+  alt-text="Hiking trail through a canyon in the Sandia foothills."
+  class="center"
+  width="100%"
+  text="firstimage"
+%}
   
   Partnerships between the Brazilian government, NGOs, local communities, and international organizations helped Brazil build one of the strongest HIV/AIDS programs in the developing world during the 1990s.[^cueto] Black movements, feminist groups, queer activists, physicians, researchers, and people living with HIV/AIDS all pressured the government to treat AIDS as a public health and human rights issue, not only as a moral problem.[^galvao3]
   
