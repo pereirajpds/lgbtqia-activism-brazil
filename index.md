@@ -97,7 +97,7 @@ This image has a caption, but no title|
 
 {% include images/figure.html
   image-path="/assets/images/backgrounds/herbet.png"
-  caption="***Figure4:*** Herbert José de Sousa, Betinho (1935-1997). Comitê Betinho 2023."
+  caption="***Figure4:*** Herbert José de Sousa, Betinho (1935-1997). Comitê Betinho 2023. Source: https://comitebetinho.org.br/biografia-betinho "
   alt-text="Hiking trail through a canyon in the Sandia foothills."
   class="right"
   width="45%"
