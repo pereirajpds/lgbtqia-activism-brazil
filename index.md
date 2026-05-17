@@ -158,8 +158,8 @@ This image has a caption, but no title|
 
 
 {% include images/juxtapose.html
-  image1="/assets/images/lampiao.jpg"
-  image2="/assets/images/quemvecara.png"
+  image1="/assets/images/cara.png"
+  image2="/assets/images/cuidar.jpg"
   caption="The TV room becomes the History Department Common Room."
 %}
 
