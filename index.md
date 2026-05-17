@@ -186,7 +186,8 @@ This image has a caption, but no title|
   position="top"
   image-path="/assets/images/lee83.png"
   above-box-space = "100vh"
-  box-content=' "If you have someone with AIDS and nowhere to stay, come to my house. Here we take care of them without discrimination." (Brenda Lee). Through an agreement with the São Paulo City Health Department, patients were transferred from hospitals to Brenda Lee’s shelter house. On Wednesdays, volunteer psychologists, social workers, and doctors visited the house.
+  box-content=' "If you have someone with AIDS and nowhere to stay, come to my house. Here we take care of them without discrimination." (Brenda Lee). 
+  Through an agreement with the São Paulo City Health Department, patients were transferred from hospitals to Brenda Lee’s shelter house. On Wednesdays, volunteer psychologists, social workers, and doctors visited the house.
   Source: https://www.youtube.com/watch?v=CdVwKJWUJ5w&t=1095s. '
 %}
   
