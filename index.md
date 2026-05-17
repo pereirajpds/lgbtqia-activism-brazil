@@ -119,14 +119,16 @@ This image has a caption, but no title|
 
   {% include images/figure.html
   image-path="/assets/images/backgrounds/abia.png"
-  caption="***Figure 6:*** 'Viva a Vida' ('Live Life'), a network of solidarity created by cartoonist Henfil, Henrique de Souza Filho (1944–1988), illustrates the 1989 ABIA bulletin. Source: https://abiaids.org.br/wp-content/uploads/2019/03/6-Parker-Sobre-a-histo%CC%81ria-da-ABIA-2.pdf"
+  caption="***Figure 6:*** 'Viva a Vida' ('Live Life'), a "network of solidarity" created by cartoonist Henfil, Henrique de Souza Filho (1944–1988), illustrates the 1989 ABIA bulletin. Source: https://abiaids.org.br/wp-content/uploads/2019/03/6-Parker-Sobre-a-histo%CC%81ria-da-ABIA-2.pdf"
   alt-text="Hiking trail through a canyon in the Sandia foothills."
   class="center"
   width="100%"
   text="firstimage"
 %}
 
-  ABIA's activists reinforced this idea through public campaigns, bulletins, community meetings, posters, and educational materials that explained how HIV spread through unprotected sex, contaminated blood, shared syringes and reinforce the importace of a solidarity neetwork.[^abia] The organization also promoted self esteem through artistic exhibitions suca as 'cabaret from prevention,' naturalizing gay love while provide information to avoid risk behavior, banners, posters, and public campaigns. Some campaigns defended love between two men and relationships involving HIV-positive couples. Others promoted slogans such as “Friends Are Friends, Needles Are Separate,” reinforcing that people should not share needles or syringes. ABIA tried to reduce fear and stigma while encouraging prevention and solidarity.[^abia7]
+  ABIA's activists reinforced this idea through public campaigns, bulletins, community meetings, posters, and educational materials. These sources explained how HIV spread through unprotected sex, contaminated blood, shared syringes and reinforce the importace of a solidarity neetwork.[^abia] The organization also promoted self esteem through artistic exhibitions such as 'cabaret from prevention,' naturalizing gay love while provide information to avoid risk behavior, banners, posters, and public campaigns. Some campaigns defended love between two men and relationships involving HIV-positive couples. Others promoted slogans such as “Friends Are Friends, Needles Are Separate,” reinforcing that people should not share needles or syringes. ABIA tried to reduce fear and stigma while encouraging prevention and solidarity.[^abia7]
+
+
 
   ABIA’s bulletins also created spaces for readers to share experiences, ask for help, and build solidarity networks across Brazil. Some readers wrote letters describing illness, discrimination, loneliness, and the lack of medical treatment in their cities. Christian group wrote letter defended queer rights and opposed sexual discrimination. Others asked for support to create local HIV/AIDS organizations and community groups. HIV/AIDS activism connected healthcare, religion, sexuality, and mutual support during the epidemic.[^abia8]
 
