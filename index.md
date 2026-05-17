@@ -121,7 +121,7 @@ This image has a caption, but no title|
 
   {% include images/figure.html
   image-path="/assets/images/backgrounds/abia.png"
-  caption="***Figure6:*** 'Viva a Vida' ('Live Life'), a network of solidarity created by cartoonist Henfil, Henrique de Souza Filho (1944–1988), illustrates the 1989 ABIA bulletin."
+  caption="***Figure 6:*** 'Viva a Vida' ('Live Life'), a network of solidarity created by cartoonist Henfil, Henrique de Souza Filho (1944–1988), illustrates the 1989 ABIA bulletin. Source: https://abiaids.org.br/wp-content/uploads/2019/03/6-Parker-Sobre-a-histo%CC%81ria-da-ABIA-2.pdf"
   alt-text="Hiking trail through a canyon in the Sandia foothills."
   class="center"
   width="90%"
