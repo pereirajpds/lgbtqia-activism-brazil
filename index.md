@@ -106,6 +106,8 @@ This image has a caption, but no title|
   
   Brazil’s transition from dictatorship to democracy created new political opportunities during the late 1970s and 1980s. After the Amnesty Law of 1979, political exiles returned to the country, censorship weakened, and social movements expanded. Feminist organizations, Black movements, labor unions and queer  groups became active. ABIA, the Brazilian Interdisciplinary AIDS Association, emerged in this context.[^abia1] Sociologists and human rights activists Herbert Daniel (1946–1992) and Herbert 'Betinho' de Souza (1935–1997) founded ABIA in 1986 after returning to Brazil from years of political exile. [^abia2]
 
+  Herbert Daniel was a former guerrilla fighter against Brazil’s military dictatorship and a queer civil rights activist who later became an important HIV/AIDS activist. During the dictatorship, Daniel also contributed texts to the queer newspaper Lampião da Esquina. In 1989, the activist founded Grupo Pela VIDDA, an organization linked to ABIA that organized support groups, legal assistance, and anti-discrimination campaigns for people living with HIV/AIDS, especially in communities around Rio de Janeiro. Daniel publicly announced that he lived with HIV in 1989 and died from health complications in 1992. [^abia3]
+
 ## Conclusion
 
   In the 1980s and 1990s, Brazil faced two major transformations at the same time. The country was leaving more than twenty years of military dictatorship and rebuilding democracy just as the HIV/AIDS epidemic spread across the world.   The history of HIV/AIDS in Brazil therefore reveals more than the history of a disease. It shows how ordinary people helped reshape debates about democracy, healthcare, sexuality, citizenship, and human dignity during one of the most difficult moments in modern Brazilian history.
@@ -448,6 +450,7 @@ In cunclusion...
 
    [^abia2]: Richard Parker and Peter Aggleton, Estigma, discriminação e AIDS (Rio de Janeiro: Associação Brasileira Interdisciplinas de Aids, ABIA, 2021): 14-15. https://abiaids.org.br/wp-content/uploads/2021/05/livro-digital-final-ESTIGMA-DISCRIMINA%C3%87%C3%83O-E-AIDS-pagina-espelhada-10052020.pdf
 
+   [^abia3]: Brasil. Ministério da Saúde. Secretaria de Vigilância em Saúde e Ambiente. Departamento de HIV, AIDS, Tuberculose, Hepatites Virais e Infecções Sexualmente Transmissíveis, *Histórias da Aids no Brasil: 1983–2003* (Histories of AIDS in Brazil: 1983–2003), 2nd ed., 2 vols. (Brasília: Ministério da Saúde, 2025): 19, 36-37. https://bvsms.saude.gov.br/bvs/publicacoes/historias_aids_Brasil_v2.pdf
 
 
 
