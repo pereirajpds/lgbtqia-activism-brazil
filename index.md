@@ -136,7 +136,7 @@ This image has a caption, but no title|
   
   ABIA's activists also worked directly with communities. They offered legal support to people facing discrimination and lack of healthcare access. ABIA also helped people find local NGOs and support groups. In a period of high mortality and limited state policies, activists distributed food, medications, condoms, and disposable syringes to vulnerable communities.ABIA activists also supported and coordinated local groups such as Grupo Pela VIDDA in Rio de Janeiro. These organizations build national meetings that connect activists, patients, physicians, and national and international NGOs. [^abia73]
   
-  The Second National Meeting of AIDS NGOs, held in Porto Alegre in 1989, shows the rapid growth of AIDS activism in Brazil. Activists marched publicly with banners and protest signs demanding healthcare and fighting discrimination against people living with HIV/AIDS and queer communities. Participants also discussed poverty, racism, women’s rights, and public healthcare. These events transformed people living with HIV/AIDS from potenctial isolated patients into organized political actors within Brazilian democracy.
+  The Second National Meeting of AIDS NGOs, held in Porto Alegre in 1989, shows the rapid growth of AIDS activism in Brazil. Activists marched publicly with banners and protest signs demanding healthcare and fighting discrimination against people living with HIV/AIDS and queer communities. Participants also discussed poverty, racism, women’s rights, and public healthcare. These events transformed people living with HIV/AIDS from potenctial isolated patients into organized political actors within Brazilian democracy.[^abia74]
   
   Partnerships between the Brazilian government, NGOs, local communities, and international organizations helped Brazil build one of the strongest HIV/AIDS programs in the developing world during the 1990s. Black movements, feminist groups, queer activists, physicians, researchers, and people living with HIV/AIDS all pressured the government to treat AIDS as a public health and human rights issue, not only as a moral problem.
   
@@ -531,6 +531,8 @@ In cunclusion...
     [^abia74]: Associação Brasileira Interdisciplinar de AIDS (ABIA), Boletim ABIA, no. 9 (Rio de Janeiro: ABIA, 1980s-1990s): 26-27. https://abiaids.org.br/_img/media/bol%20abia%2009.pdf
 
     [^mott]:Luiz Mott, “Brenda Lee e o seu Palácio das Princesas,” Memória da HB, November 22, 2009, accessed May 16, 2026,  https://memoriamhb.blogspot.com/2009/11/brenda-lee-e-o-seu-palacio-das.html The post discusses Brenda Lee’s HIV/AIDS activism, the Casa de Apoio Brenda Lee shelter, and includes testimonies, newspaper material, and historical information about trans communities and HIV/AIDS care in Brazil.
+
+    [^galvao3]:  Jane Galvão, *AIDS No Brasil : A Agenda de Construção de Uma Epidemia*. (Rio de Janeiro : ABIA Press 2000):13-14, 98-100, 103-104, 107.
 
 
 
