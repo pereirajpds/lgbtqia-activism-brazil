@@ -91,7 +91,6 @@ This image has a caption, but no title|
 %}
 
 
-
   Politicians rejected a proposal to include sexual orientation among the forms of discrimination prohibited by Brazil’s new Constitution. [^ementa] The debate revealed the resistance queer activists faced during Brazil’s transition to democracy. At the same time, activists helped transform HIV/AIDS from a stigmatized “gay plague” into a public health and human rights issue within Brazilian democracy.
 
 ## ABIA, Queer Activism, and the State Response to the HIV/AIDS Crisis
@@ -170,6 +169,31 @@ This image has a caption, but no title|
   Some Brazilian flight attendants, such as Mario Augusto dos Santos Filho and Alexandre Santos Silva, created informal networks to bring HIV medications from the United States to Brazil. They carried prescriptions and bought medicines abroad with donations or their own money. Many of these workers were employees of Varig, Brazil’s largest airline at the time. [^varig2]
   
   Former flight attendants Mario Augusto dos Santos Filho and Alexandre Santos Silva later explained how crews, airport workers, and activists helped distribute medications, especially in Rio de Janeiro. Because flight crews often avoided customs inspections, they could transport medicines more easily. After becoming sick with HIV/AIDS, Silva also used retirement rights guaranteed by Brazil’s 1988 Constitution. These stories show how solidarity networks, activism, labor rights, and public healthcare became connected during the epidemic.[^varig2]
+
+    {% assign images =
+"/assets/images/flight.png,
+/assets/images/palace.png,
+/assets/images/betinho2.png," | split: ','
+%}
+
+{% assign headers =
+",
+" | split: ','
+%}
+
+{% assign captions =
+|
+This image has a caption, but no title|
+" | split: '|'
+%}
+
+{% include images/carousel.html
+  width="100%"
+  class="center"
+  images=images
+  headers=headers
+  captions=captions
+%}
 
   Brenda Lee (1948-1996) was a trans activist and one of the most important figures in Brazil’s fight against HIV/AIDS during the 1980s. She created the ‘Palace of the Princesses’ (Palácio das Princesas), a shelter for trans women.In the 1980s, Brazil still lacked public programs, medications, and healthcare structures to respond to HIV/AIDS. Many hospitals treated HIV patients with fear and prejudice.[^cartas] Some patients left hospitals but had nowhere to go.
   
