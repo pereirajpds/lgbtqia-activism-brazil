@@ -120,6 +120,16 @@ This image has a caption, but no title|
   
   ABIA’s activities, Betinho’s public activism, and the deaths of his famous brothers from HIV-related complications changed how many Brazilians understood AIDS. During a meeting of Brazil’s Constituent Assembly in 1988, representative José Genoino announced that Henfil had died after receiving contaminated blood that had not been tested for HIV. Genoino  also stated that Brazil needed to confront AIDS more seriously. Some politicians still expressed more sympathy for hemophiliacs infected through blood transfusions because many people did not associate them with homosexuality or drug use.
 
+  As public debates about HIV/AIDS changed in the late 1980s, Brazil’s National AIDS Program also changed its campaigns. Federal campaigns started to show that HIV/AIDS could affect anyone, including women and heterosexual couples. State campaigns started to include women and heterosexual couples as possible targets of HIV/AIDS. The slogan ‘You Can’t Tell Who Has AIDS by Looking’ (1988) challenged the idea that only certain groups could get the disease. The campaign used the image of a healthy woman to show that HIV was not visible. It also explained that HIV spread through sex and shared needles and encouraged condom use. By focusing on behavior instead of identity, the campaign tried to reduce stigma and change how Brazilians understood the epidemic.
+  
+  In 1990, another federal campaign reinforced this message. The slogan ‘If You Do Not Protect Yourself, AIDS Will Get You’ explained that HIV could spread through sex, contaminated needles, blood transfusions, and pregnancy. The campaign targeted a broader public and continued to challenge the idea that only homosexual men could contract HIV/AIDS.
+
+  However, political debates still revealed important limitations. During Brazil’s Constituent Assembly in 1988, some politicians connected to religious organizations criticized government condom campaigns because they believed these campaigns encouraged homosexuality and sexual freedom. Representative Abigail Feitosa also criticized AIDS campaigns for showing the image of a young white woman while avoiding direct discussion about homosexual men, who many officials still considered a ‘risk group.’ 
+
+  At the same time, health reports already showed that HIV affected queer communities, women, children, people who received blood transfusions, and drug users. Even while criticizing the campaigns, Feitosa still described women as a ‘lower risk group.’ Politicians continued to use stigmatizing ideas about who could contract HIV/AIDS.
+  
+
+
 
 
 
