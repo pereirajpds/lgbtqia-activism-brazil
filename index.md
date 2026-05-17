@@ -394,7 +394,9 @@ In cunclusion...
 
  - Agência Senado, “Aids chegou ao Brasil há 40 anos e trouxe terror, preconceito e desinformação” (“AIDS Arrived in Brazil 40 Years Ago and Brought Terror, Prejudice, and Misinformation”), Agência Senado, 2023.
 
- - Annals of the National Constituent Assembly (Anais da Assembleia Nacional Constituinte). n.162. Brasília: Senado Federal, 1988. https://www.senado.leg.br/publicacoes/anais/constituinte/N011.pdf
+ - Annals of the National Constituent Assembly (Anais da Assembleia Nacional Constituinte). n.162. Brasília: Senado Federal, January 5, 1988. https://www.senado.leg.br/publicacoes/anais/constituinte/N011.pdf
+
+ - Annals of the National Constituent Assembly (Anais da Assembleia Nacional Constituinte). n.193. Brasília: Senado Federal, March 1, 1988. https://imagem.camara.leg.br/Imagem/d/pdf/193anc01mar1988.pdf#page=
 
  - Brazil. Law No. 7,670, September 8, 1988 (Lei nº 7.670, de 8 de setembro de 1988). Granting benefits to people living with HIV/AIDS. Câmara dos Deputados. Accessed May 1, 2026.  
  https://www2.camara.leg.br/legin/fed/lei/1988/lei-7670-8-setembro-1988-368200-publicacaooriginal-1-pl.html
@@ -439,7 +441,7 @@ In cunclusion...
  - Parker, Richard, and Peter Aggleton. Estigma, discriminação e AIDS. Rio de Janeiro: Associação Brasileira Interdisciplinas de Aids, ABIA, 2021.  https://abiaids.org.br/wp-content/uploads/2021/05/livro-digital-final-ESTIGMA-DISCRIMINA%C3%87%C3%83O-E-AIDS-pagina-espelhada-10052020.pdf
  
  - Parker, Richard, Mónica Franch-Gutiérrez, Luziana Marques da Fonseca Silva, Wertton Luís de Pontes Matias, Geissy dos Reis Ferreira de Oliveira, Marcos Castro Carvalho, and Vagner João Benício de Almeida. “HIV/AIDS Policies, Activism, and Anthropology: A Talk with Richard Parker.” Saúde em Debate 46, no. especial 7 , 2022. https://doi.org/10.1590/0103-11042022E720I
- 
+
  - Royles, Dan. *To Make the Wounded Whole: The African American Struggle Against HIV/AIDS.* University of North Carolina Press, 2020.
 
 
@@ -507,11 +509,13 @@ In cunclusion...
 
    [^abia8]:Associação Brasileira Interdisciplinar de AIDS (ABIA), Boletim ABIA, no. 9 (Rio de Janeiro: ABIA, nd), 24-25. https://abiaids.org.br/_img/media/bol%20abia%2009.pdf ABIA produced Boletim ABIA to publish reports from HIV/AIDS meetings, public campaigns, prevention information, and letters sent by readers and people living with HIV/AIDS across Brazil. Activist Herbert Daniel edited some editions of the bulletin. The publication also revealed connections between Brazilian HIV/AIDS activism and international organizations, including events sponsored by the Ford Foundation.
 
-   [^senado37]: Annals of the National Constituent Assembly (Anais da Assembleia Nacional Constituinte), 2, n.162 Brasília: Senado Federal,1988, 37.
+   [^senado37]: Annals of the National Constituent Assembly (Anais da Assembleia Nacional Constituinte), 2, n.162 Brasília: Senado Federal. (January 5,1988):37.
 
    [^ag7]: Agência Senado, “Aids chegou ao Brasil há 40 anos e trouxe terror, preconceito e desinformação” (“AIDS Arrived in Brazil 40 Years Ago and Brought Terror, Prejudice, and Misinformation”), Agência Senado, 2023.https://www12.senado.leg.br/noticias/especiais/arquivo-s/aids-chegou-ao-brasil-ha-40-anos-e-trouxe-terror-preconceito-e-desinformacao The file includes posters and images from Brazilian HIV/AIDS prevention campaigns produced during the 1980s and 1990s.
 
    [^abia9]: Richard Parker et al., “HIV/AIDS Policies, Activism, and Anthropology: A Talk with Richard Parker,” Saúde em Debate 46, no. especial 7 (2022):277–278, 280. https://doi.org/10.1590/0103-11042022E720I
+
+   [^abia11]: Annals of the National Constituent Assembly (Anais da Assembleia Nacional Constituinte), 2, n.193 Brasília: Senado Federal.(March 1, 1988): 25. https://imagem.camara.leg.br/Imagem/d/pdf/193anc01mar1988.pdf#page=
    
 
 
